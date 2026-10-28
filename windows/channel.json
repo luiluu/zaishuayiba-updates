@@ -1,13 +1,12 @@
 {
-  "bytes": 6122936,
-  "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
-  "notes": "Windows 现在支持游戏内自动更新：启动后在标题界面提示新版本，确认后自动下载、校验、备份并安装，完成后重新启动游戏。本版继续包含此前全部内容。",
-  "packageType": "cumulative",
   "platform": "windows",
-  "publishedAt": "2026-10-28T03:10:00Z",
-  "releaseNumber": 54,
   "releaseVersion": "v0.54",
-  "sha256": "05291552d7761b65f54231f47db1c2d939c61a91e0f37411c315264c3dcd4e50",
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/zaishuayiba-windows-v0.54.zip"
+  "releaseNumber": 54,
+  "packageType": "cumulative",
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/zaishuayiba-windows-v0.54.zip",
+  "sha256": "4333eb418c029184e3d3b50b37967b1cc63d30fe27066cbedc8d9aaec6d67124",
+  "bytes": 6123055,
+  "notes": "Windows 现在支持游戏内自动更新：启动后在标题界面提示新版本，确认后自动下载、校验、备份并安装，完成后重新启动游戏。安装时会出现一个更新窗口，请保留它直到游戏重新启动。本版继续包含此前全部内容。",
+  "publishedAt": "2026-10-28T04:20:00Z"
 }
