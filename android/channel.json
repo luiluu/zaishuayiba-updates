@@ -4,7 +4,7 @@
   "releaseVersion": "v0.54",
   "releaseNumber": 54,
   "minHostVersion": 1570121,
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/android/zaishuayiba-android-v0.54.zip",
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@da9e526ba9d4b2fb359e909bb437faf4dba53254/android/zaishuayiba-android-v0.54.zip",
   "sha256": "7648432c8040924d3810c47ba831b822cf8b13a8eadc4d301c1157b56c12873f",
   "bytes": 2932613,
   "notes": "安卓现在支持游戏内在线更新：在标题界面点更新按钮检查新内容，确认后自动下载、校验并安装。需要本次新版客户端；本版继续包含此前全部内容。",
