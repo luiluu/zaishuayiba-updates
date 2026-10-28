@@ -1,18 +1,19 @@
 {
   "format": "kyo-content-channel-v1",
   "platform": "android",
-  "releaseVersion": "v0.57",
+  "releaseVersion": "v0.57.01",
   "releaseNumber": 57,
   "minHostVersion": 1570121,
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
-  "sha256": "07b7be75b18996b4c4c5052182c9ec85cce400134209c9a2684583911ec046db",
-  "bytes": 2964691,
-  "notes": "本次更新：李逍遥「万剑归宗」平衡调整；已经掉落的、名字前带角色专属武器的装备，读档后变回普通装备。本版继续包含此前全部内容。",
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip",
+  "sha256": "49132c3824bf3dee866348659c454c6c65c3a6f2bb8d9e2f86bd2e20bb1ecaa5",
+  "bytes": 2964851,
+  "notes": "本次更新：在线更新增加国内下载地址，国内网络也能检查和下载更新。本版继续包含此前全部内容。",
   "mirrors": [
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip"
+    "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/1d3b3912abac496cf247b4f968de614b15a88da9/android/zaishuayiba-android-v0.57.01.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/android/zaishuayiba-android-v0.57.01.zip"
   ]
 }

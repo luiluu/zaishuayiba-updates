@@ -1,19 +1,20 @@
 {
-  "bytes": 6141211,
+  "bytes": 6141667,
   "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
   "mirrors": [
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip"
+    "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/1d3b3912abac496cf247b4f968de614b15a88da9/windows/zaishuayiba-windows-v0.57.01.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip"
   ],
-  "notes": "本次更新：李逍遥「万剑归宗」平衡调整；已经掉落的、名字前带角色专属武器的装备，读档后变回普通装备。本版继续包含此前全部内容。",
+  "notes": "本次更新：在线更新增加国内下载地址，国内网络也能检查和下载更新。本版继续包含此前全部内容。",
   "packageType": "cumulative",
   "platform": "windows",
   "releaseNumber": 57,
-  "releaseVersion": "v0.57",
-  "sha256": "268d46817977c40c2985d410554bcef8b353e667ea3c9185b9ffab2bf0a8dce4",
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip"
+  "releaseVersion": "v0.57.01",
+  "sha256": "d531f8757f3a5ab31cd86d00fb62643a3ca1cd329c39dd74524c75ecd8c0065d",
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a5519c023e6e6ff7634dd98ec8b4441230b7fe1d/windows/zaishuayiba-windows-v0.57.01.zip"
 }
