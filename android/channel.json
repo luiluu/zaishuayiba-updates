@@ -1,12 +1,11 @@
 {
   "format": "kyo-content-channel-v1",
   "platform": "android",
-  "releaseVersion": "v0.54",
-  "releaseNumber": 54,
+  "releaseVersion": "v0.57",
+  "releaseNumber": 57,
   "minHostVersion": 1570121,
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@47dac0a255990ff516d92edd0d7c618fb74df87d/android/zaishuayiba-android-v0.54.zip",
-  "sha256": "e60eecd9064b2ad0c43a39f778f365190dc32c80cca5bea0571b0281997cd964",
-  "bytes": 2932694,
-  "notes": "安卓现在支持游戏内在线更新：在标题界面点更新按钮检查新内容，确认后自动下载、校验并安装。需要本次新版客户端；本版继续包含此前全部内容。",
-  "publishedAt": "2026-10-28T04:20:00Z"
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/android/zaishuayiba-android-v0.57.zip",
+  "sha256": "07b7be75b18996b4c4c5052182c9ec85cce400134209c9a2684583911ec046db",
+  "bytes": 2964691,
+  "notes": "本次更新：李逍遥「万剑归宗」平衡调整；已经掉落的、名字前带角色专属武器的装备，读档后变回普通装备。本版继续包含此前全部内容。"
 }

@@ -1,12 +1,12 @@
 {
+  "bytes": 6141211,
+  "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
-  "platform": "windows",
-  "releaseVersion": "v0.54",
-  "releaseNumber": 54,
+  "notes": "本次更新：李逍遥「万剑归宗」平衡调整；已经掉落的、名字前带角色专属武器的装备，读档后变回普通装备。本版继续包含此前全部内容。",
   "packageType": "cumulative",
-  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@47dac0a255990ff516d92edd0d7c618fb74df87d/windows/zaishuayiba-windows-v0.54.zip",
-  "sha256": "edfd8d8d7dba87267197653683809c27efd08f4d6df5ddcb2246d826e8542ebc",
-  "bytes": 6123554,
-  "notes": "Windows 现在支持游戏内自动更新：启动后在标题界面提示新版本，确认后自动下载、校验、备份并安装，完成后重新启动游戏。安装时会出现一个更新窗口，请保留它直到游戏重新启动。本版继续包含此前全部内容。",
-  "publishedAt": "2026-10-28T04:20:00Z"
+  "platform": "windows",
+  "releaseNumber": 57,
+  "releaseVersion": "v0.57",
+  "sha256": "268d46817977c40c2985d410554bcef8b353e667ea3c9185b9ffab2bf0a8dce4",
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip"
 }
