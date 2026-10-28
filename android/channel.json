@@ -1,0 +1,12 @@
+{
+  "format": "kyo-content-channel-v1",
+  "platform": "android",
+  "releaseVersion": "v0.54",
+  "releaseNumber": 54,
+  "minHostVersion": 1570121,
+  "url": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/android/zaishuayiba-android-v0.54.zip",
+  "sha256": "c08fb834ff696740f27204711311f7bc2a7c1bf82f4df94ebb89adf1fb85965e",
+  "bytes": 2932613,
+  "notes": "安卓现在支持游戏内在线更新：在标题界面点更新按钮检查新内容，确认后自动下载、校验并安装。需要本次新版客户端；本版继续包含此前全部内容。",
+  "publishedAt": "2026-10-28T03:10:00Z"
+}
