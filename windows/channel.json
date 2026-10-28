@@ -2,6 +2,13 @@
   "bytes": 6141211,
   "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
+  "mirrors": [
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/c5a92a6e30297d36f9c0a75ebe2031a3872a71c1/windows/zaishuayiba-windows-v0.57.zip"
+  ],
   "notes": "本次更新：李逍遥「万剑归宗」平衡调整；已经掉落的、名字前带角色专属武器的装备，读档后变回普通装备。本版继续包含此前全部内容。",
   "packageType": "cumulative",
   "platform": "windows",
