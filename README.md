@@ -5,7 +5,7 @@
 - `windows/channel.json`、`windows/channel.sig`：电脑版更新器读取的已签名更新通道。
 - `windows/zaishuayiba-windows-v0.58.zip`：电脑版累计内容更新包（最新；旧版本包保留作回退）。
 - `android/channel.json`：手机版游戏内更新读取的通道。
-- `android/zaishuayiba-android-v0.58.zip`：手机版累计内容更新包（最新；旧版本包保留作回退）。
+- `android/zaishuayiba-android-v0.59.zip`：手机版累计内容更新包（最新；旧版本包保留作回退）。
 
 游戏通过 jsDelivr 读取这些文件（无需登录，公开可下载）：
 `https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/...`
