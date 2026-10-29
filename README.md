@@ -3,7 +3,7 @@
 本仓库只存放游戏内自动更新使用的静态文件，不存放游戏本体。
 
 - `windows/channel.json`、`windows/channel.sig`：电脑版更新器读取的已签名更新通道。
-- `windows/zaishuayiba-windows-v0.57.01.zip`：电脑版累计内容更新包（最新；旧版本包保留作回退）。
+- `windows/zaishuayiba-windows-v0.58.zip`：电脑版累计内容更新包（最新；旧版本包保留作回退）。
 - `android/channel.json`：手机版游戏内更新读取的通道。
 - `android/zaishuayiba-android-v0.58.zip`：手机版累计内容更新包（最新；旧版本包保留作回退）。
 
