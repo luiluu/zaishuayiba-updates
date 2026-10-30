@@ -1,19 +1,19 @@
 {
   "format": "kyo-content-channel-v1",
   "platform": "android",
-  "releaseVersion": "v0.59",
+  "releaseVersion": "v0.59.01",
   "releaseNumber": 59,
   "minHostVersion": 1570121,
-  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/dc7a5cf6a14ce2e0355d9f8bb6219680a582d8bf/android/zaishuayiba-android-v0.59.zip",
-  "sha256": "92ce21fe6f4222e2ecbc8a5e895c9526db0cbbbceb49cfad7b66b52cc3a87649",
-  "bytes": 3060811,
-  "notes": "本次更新：三霄仙子平衡调整；乐队羁绊修复；电脑版「检查更新」按钮显示修好，检查更新更快。本版继续包含此前全部内容。",
+  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/c56e3b567272559f9e6712d493291bc14cec08fe/android/zaishuayiba-android-v0.59.01.zip",
+  "sha256": "c9f4c87a2e9767da4e07e991bac8b28fa022172c1240910e7c1ee5322bbee05d",
+  "bytes": 3071002,
+  "notes": "本次更新：修复长时间挂机后，带专武吸取的随机词条装备导致读档失败。本版继续包含此前全部内容。",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip",
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/fde4e285e1a754345100085aa730f63f6293f532/android/zaishuayiba-android-v0.59.zip"
+    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/android/zaishuayiba-android-v0.59.01.zip"
   ]
 }

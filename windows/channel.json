@@ -1,20 +1,20 @@
 {
-  "bytes": 6212969,
+  "bytes": 6213846,
   "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip",
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/fde4e285e1a754345100085aa730f63f6293f532/windows/zaishuayiba-windows-v0.59.zip"
+    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip"
   ],
-  "notes": "本次更新：三霄仙子平衡调整；乐队羁绊修复；电脑版「检查更新」按钮显示修好，检查更新更快。本版继续包含此前全部内容。",
+  "notes": "本次更新：修复长时间挂机后，带专武吸取的随机词条装备导致读档失败。本版继续包含此前全部内容。",
   "packageType": "cumulative",
   "platform": "windows",
   "releaseNumber": 59,
-  "releaseVersion": "v0.59",
-  "sha256": "66cf487962bd9bb8f7baa45469fb22c91c1dcd4b2c321490d28bf09397a6076d",
-  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/dc7a5cf6a14ce2e0355d9f8bb6219680a582d8bf/windows/zaishuayiba-windows-v0.59.zip"
+  "releaseVersion": "v0.59.01",
+  "sha256": "49e6d9d8ea62c6f2afd16aa572d6b80e135a16b11483fb3100bf62c3081cf17e",
+  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/c56e3b567272559f9e6712d493291bc14cec08fe/windows/zaishuayiba-windows-v0.59.01.zip"
 }
