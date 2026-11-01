@@ -1,19 +1,19 @@
 {
   "format": "kyo-content-channel-v1",
   "platform": "android",
-  "releaseVersion": "v0.62.09",
+  "releaseVersion": "v0.62.10",
   "releaseNumber": 62,
   "minHostVersion": 1570121,
-  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/d14c3b902ff991e92447cd8ec2dd94b6a26ff61b/android/zaishuayiba-android-v0.62.09.zip",
-  "sha256": "4ca20208976bede51a94ce6058cf402a6306440c181a90d8b7f9a19a7b548adf",
-  "bytes": 4644705,
-  "notes": "本次更新：修复星神命途护符部分特效不生效、极光剑等新装备自我复制、暴击率为0或负数仍会暴击、手机按键设置弹窗在矮屏上滑不动。本版继续包含此前全部内容。",
+  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/9b691297f7ae846b0aa82c1529ce24b26e020837/android/zaishuayiba-android-v0.62.10.zip",
+  "sha256": "55689dbaf6750ea776a644634d3bc3e0639d85bf7e16e7a2ad50f5ca02e66ee2",
+  "bytes": 4657956,
+  "notes": "本次更新：修复流萤学会的功法在技能菜单里看不到；修复深渊赌场二阶段可能一下扣掉两三万积分；双持时只能装备一把专属武器（白晶晶的毒吻、穿肠除外），老存档里多装的一把读档后自动卸回背包。",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip",
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/android/zaishuayiba-android-v0.62.09.zip"
+    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip"
   ]
 }
