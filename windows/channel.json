@@ -1,20 +1,20 @@
 {
-  "bytes": 6213846,
+  "bytes": 7665599,
   "channelUrl": "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@main/windows/channel.json",
   "format": "kyo-update-channel-v1",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/ea958e7ecd810647e26fbe6a0c874f5f73e8c41e/windows/zaishuayiba-windows-v0.59.01.zip"
+    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/24c58b450605e6c23c6f2bcc356fcc7fcbf988ae/windows/zaishuayiba-windows-v0.62.09.zip"
   ],
-  "notes": "本次更新：修复长时间挂机后，带专武吸取的随机词条装备导致读档失败。本版继续包含此前全部内容。",
+  "notes": "本次更新：修复星神命途护符部分特效不生效、极光剑等新装备自我复制、暴击率为0或负数仍会暴击。本版继续包含此前全部内容。",
   "packageType": "cumulative",
   "platform": "windows",
-  "releaseNumber": 59,
-  "releaseVersion": "v0.59.01",
-  "sha256": "49e6d9d8ea62c6f2afd16aa572d6b80e135a16b11483fb3100bf62c3081cf17e",
-  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/c56e3b567272559f9e6712d493291bc14cec08fe/windows/zaishuayiba-windows-v0.59.01.zip"
+  "releaseNumber": 62,
+  "releaseVersion": "v0.62.09",
+  "sha256": "0e9d86643dce307753609c18811e285153fa5b3f01c83a2591fde4e60f6fd508",
+  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/d14c3b902ff991e92447cd8ec2dd94b6a26ff61b/windows/zaishuayiba-windows-v0.62.09.zip"
 }
