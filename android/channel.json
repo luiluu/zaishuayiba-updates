@@ -1,19 +1,19 @@
 {
   "format": "kyo-content-channel-v1",
   "platform": "android",
-  "releaseVersion": "v0.62.10",
+  "releaseVersion": "v0.62.13",
   "releaseNumber": 62,
   "minHostVersion": 1570121,
-  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/9b691297f7ae846b0aa82c1529ce24b26e020837/android/zaishuayiba-android-v0.62.10.zip",
-  "sha256": "55689dbaf6750ea776a644634d3bc3e0639d85bf7e16e7a2ad50f5ca02e66ee2",
-  "bytes": 4657956,
-  "notes": "本次更新：修复流萤学会的功法在技能菜单里看不到；修复深渊赌场二阶段可能一下扣掉两三万积分；双持时只能装备一把专属武器（白晶晶的毒吻、穿肠除外），老存档里多装的一把读档后自动卸回背包。",
+  "url": "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/255939ab040ace31dadde2142fdcad9e6073cedf/android/zaishuayiba-android-v0.62.13.zip",
+  "sha256": "69145a10040b3ed4abd1fe6676a6dbb37a5eaecd0332f9407694128be637d692",
+  "bytes": 4737703,
+  "notes": "本次更新：修复深渊商人、不朽商人一直不出现；修复部分被动书无法兑换；修复战斗中闪避、未命中时偶尔弹出报错；修复部分老存档里同一件装备同时出现在两处；修复解控、复活后行动次数超过每回合上限；萨姆残核在更多深渊层也会掉落，不朽天丝获得量提高。",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
-    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
-    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
-    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
-    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip",
-    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bba7045c65ff3b9e5a170546039320927bee9459/android/zaishuayiba-android-v0.62.10.zip"
+    "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip",
+    "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip",
+    "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip",
+    "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip",
+    "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip",
+    "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/b5edfbdb9cd1f82a7cd10b9470379831fd720638/android/zaishuayiba-android-v0.62.13.zip"
   ]
 }
