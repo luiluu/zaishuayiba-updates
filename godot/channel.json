@@ -1,10 +1,13 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.471",
-  "code": 471,
+  "version": "0.472",
+  "code": 472,
   "date": "2026-11-12",
   "notes": [
+   "安卓战斗里虚拟按键不再叠两份；新增战斗信息键，可以看敌人属性",
+   "战斗里没收进图鉴的怪物也能看属性数值（大厅图鉴照旧要打过才登记）",
+   "大厅的全图鉴 NPC 回来了（只解锁怪物图鉴）",
    "安卓默认按键换回原版头像摇杆和 A／B 键，设置里可以换改版按键、方向键、跑步键",
    "战斗里点屏幕默认不再选目标（设置里可以打开）",
    "商店、背包、选技能翻动更顺，说明卡不再一格一顿；放技能后的结算和进战斗的停顿变短",
@@ -17,17 +20,17 @@
  "bases": {
   "470": {
    "patch": {
-    "code": 471,
-    "size": 1003556,
-    "sha256": "9cda42a15c9472e68b1df470be0019099c03d451d4b463a1986073014ed3f341",
+    "code": 472,
+    "size": 1030004,
+    "sha256": "6e8a821ea6563c67367776fa78a48679242ca00c264aec6d86d48e3a51b008d6",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/bc511c66aed9966198c3d500027aace851fa0496/godot/patch_470_471.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck",
-     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/a8f57ed0af5e26cb07cc41ebd6545af6a36e6001/godot/patch_470_471.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/7c5588877d35d83782ddc67162427c79a27bb758/godot/patch_470_472.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck",
+     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/cde9eb005d404ac90a2eb998f041e521a2cb7d4d/godot/patch_470_472.pck"
     ]
    }
   }
