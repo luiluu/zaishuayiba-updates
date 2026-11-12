@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.471",
- "code": 471,
+ "version": "0.472",
+ "code": 472,
  "base_code": 470,
  "min_base": 470,
  "date": "2026-11-12",
@@ -11,7 +11,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 123,
-   "sha256": "e7eefcafff134a334d159839f133bfd1a522540198b9329f1216cf4b20bfb1e3"
+   "sha256": "14a0621677c4092527e657a197e4bd408d23989619a791e102b84f13a0b0d0e8"
   },
   {
    "path": "core/platform.gd",
@@ -34,8 +34,8 @@
   {
    "path": "core/touch_controls.gd",
    "change": "modified",
-   "size": 40509,
-   "sha256": "7e61c16b54754abee7724f01247eb7d38e2fcd8e9493031d64fbd63330d65bbf"
+   "size": 42614,
+   "sha256": "e45ae77ee10dfa99d1c96935f14be4a98a197cc3a106c29aff791d67b2b5db39"
   },
   {
    "path": "core/update_check.gd",
@@ -128,6 +128,18 @@
    "sha256": "e289812881a330e2a17a2fd94f9f8b3e67fdc8e3d0cf95170001356a01bbc40f"
   },
   {
+   "path": "modes/xiyou/core/lobby_debug_npc.gd",
+   "change": "added",
+   "size": 2697,
+   "sha256": "2eab5453b33bb03e1257010407f58181676e0c89e0669b547890ce9ee4c6ad48"
+  },
+  {
+   "path": "modes/xiyou/core/lobby_debug_npc.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "8bad1b26039750bd4f17bc40b30bd041750dbca39cb0cdecf8d4e0d3cf294eb3"
+  },
+  {
    "path": "modes/xiyou/core/module_registry.gd",
    "change": "modified",
    "size": 15627,
@@ -158,6 +170,12 @@
    "sha256": "5ecc7489c72931eba03d5a05b126bf41897240d93cb7348c29d134e2453bf7b8"
   },
   {
+   "path": "modes/xiyou/core/xdb.gd",
+   "change": "modified",
+   "size": 7551,
+   "sha256": "3680435675f618c2dbbd7014e1a7dfeda423064e9206e06d14f991a17367065d"
+  },
+  {
    "path": "modes/xiyou/core/zhenqi.gd",
    "change": "modified",
    "size": 54075,
@@ -172,8 +190,8 @@
   {
    "path": "modes/xiyou/map/map_scene.gd",
    "change": "modified",
-   "size": 86829,
-   "sha256": "701ad34d1bc6ff91247a6a8f36f889700ed0be226602f9aa027e6ebd7a8d9325"
+   "size": 88077,
+   "sha256": "33c1d3f0ea66c693e1d9d7c4d5f352f7d3502347cf6ff114ff91d6a996ecc957"
   },
   {
    "path": "modes/xiyou/map/mv_character.gd",
@@ -192,6 +210,12 @@
    "change": "modified",
    "size": 7313,
    "sha256": "e065102d0d2a900d7a47d6e3b8b2ba5fcbcea4b38dee07b11605c7c77e4a6105"
+  },
+  {
+   "path": "modes/xiyou/ui/enemy_book.gd",
+   "change": "modified",
+   "size": 23032,
+   "sha256": "df569f4dfd0dccaf5f8caa98ce7640b9575589e3dc9c963d76f1594b7f1287fc"
   },
   {
    "path": "modes/xiyou/ui/help_card.gd",
@@ -228,12 +252,18 @@
    "change": "modified",
    "size": 8233,
    "sha256": "5a7cbea2e864a2aaebabb31ee9b38de0f478fdc6fcb38f49210df008f6345994"
+  },
+  {
+   "path": "project.godot",
+   "change": "modified",
+   "size": 1396,
+   "sha256": "3ec19fe16c8c740a00cfe9fa8153862ca24a309973074d4f6d68b063e8880343"
   }
  ],
  "removed": [],
  "total": {
-  "files": 37,
-  "bytes": 1143750,
+  "files": 42,
+  "bytes": 1181799,
   "removed": 0
  },
  "excludes": [
