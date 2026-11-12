@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.472",
- "code": 472,
+ "version": "0.475",
+ "code": 475,
  "base_code": 470,
  "min_base": 470,
  "date": "2026-11-12",
@@ -10,8 +10,8 @@
   {
    "path": "content/build_info.json",
    "change": "modified",
-   "size": 123,
-   "sha256": "14a0621677c4092527e657a197e4bd408d23989619a791e102b84f13a0b0d0e8"
+   "size": 145,
+   "sha256": "b758d3f3ce6b8d618bf1049a2229a6452f1a7de525fbe3dbd815ff6c9d2a32b4"
   },
   {
    "path": "core/platform.gd",
@@ -44,10 +44,16 @@
    "sha256": "8cd0cbc35736e0115f40cccd5e75c9563980a665c96c80eea566968185e445db"
   },
   {
+   "path": "core/update_client.gd",
+   "change": "modified",
+   "size": 7644,
+   "sha256": "e327be2261fa7cf8834a8861807cc55a87f975adef6bf9c25a6e1b000327379e"
+  },
+  {
    "path": "modes/xiyou/battle/battle_logic.gd",
    "change": "modified",
-   "size": 181339,
-   "sha256": "99e0fca60d817d0dc8ec62658db5c49b82cd3ceef53350e2f896771132cb6597"
+   "size": 182442,
+   "sha256": "6bb8e5c2b1894c0848657a408e77033a75ff5db21c0d23836cf663e403ae8db1"
   },
   {
    "path": "modes/xiyou/battle/battle_scene.gd",
@@ -58,8 +64,8 @@
   {
    "path": "modes/xiyou/battle/battler_sprite.gd",
    "change": "modified",
-   "size": 35194,
-   "sha256": "e685a102bbb0bcfcc2904dc150bec9499457dabba3779005093f933e4a889849"
+   "size": 35709,
+   "sha256": "b61849023e7770b292854f7900dad4dd42c46d518d03f6afaeadc015a7fe2199"
   },
   {
    "path": "modes/xiyou/battle/combo_counter.gd",
@@ -96,6 +102,12 @@
    "change": "modified",
    "size": 90934,
    "sha256": "c0ebedcd690d17945103117283a12b228cc3b8cd302d74aa728467e8102962fd"
+  },
+  {
+   "path": "modes/xiyou/core/alienation.gd",
+   "change": "modified",
+   "size": 20892,
+   "sha256": "7a9c1a4ae8ca439b1d0d7291c9de04c1cd95e4907af60eb600a941fdd401ed98"
   },
   {
    "path": "modes/xiyou/core/appearance.gd",
@@ -154,14 +166,26 @@
   {
    "path": "modes/xiyou/core/resource_context.gd",
    "change": "modified",
-   "size": 16248,
-   "sha256": "8897347ae7a7e255196ca8fcc3117b20ebb1ed4fef934d435fd14b2bb8bc2ca6"
+   "size": 16377,
+   "sha256": "bc24cbf14dced43a985fd8f411fe9fcfe06daa077bdd11ebd6a43f238623d66b"
   },
   {
    "path": "modes/xiyou/core/rift.gd",
    "change": "modified",
    "size": 9182,
    "sha256": "1f31610f8ad052d6d5b5919d46af669ce0e871a79019040e4b3da89609ec7406"
+  },
+  {
+   "path": "modes/xiyou/core/rift_alien.gd",
+   "change": "added",
+   "size": 21757,
+   "sha256": "9f5bcbd7508fba2e11c0345f05b5cc359fcc7bd6e80c30fae9701e487f62153d"
+  },
+  {
+   "path": "modes/xiyou/core/rift_alien.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "df2c31b257dd499f14bca345cc76f19f0f3180285016f0c3a41ff73741e1eaa0"
   },
   {
    "path": "modes/xiyou/core/xconfig.gd",
@@ -212,6 +236,12 @@
    "sha256": "e065102d0d2a900d7a47d6e3b8b2ba5fcbcea4b38dee07b11605c7c77e4a6105"
   },
   {
+   "path": "modes/xiyou/rift_alien.json",
+   "change": "added",
+   "size": 3962,
+   "sha256": "6025d71eec51d6925f17e29d04236dd74322dead63a3a99ae8135f95c123415e"
+  },
+  {
    "path": "modes/xiyou/ui/enemy_book.gd",
    "change": "modified",
    "size": 23032,
@@ -256,14 +286,14 @@
   {
    "path": "project.godot",
    "change": "modified",
-   "size": 1396,
-   "sha256": "3ec19fe16c8c740a00cfe9fa8153862ca24a309973074d4f6d68b063e8880343"
+   "size": 1464,
+   "sha256": "c7fa72bdb6a5436bbb4bedd3525c149f89aaa3b987b256e95e5639bb9acce958"
   }
  ],
  "removed": [],
  "total": {
-  "files": 42,
-  "bytes": 1181799,
+  "files": 47,
+  "bytes": 1237911,
   "removed": 0
  },
  "excludes": [
