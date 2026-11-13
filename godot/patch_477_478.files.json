@@ -1,0 +1,1357 @@
+{
+ "schema": 1,
+ "kind": "xiyou-patch-files",
+ "version": "0.478",
+ "code": 478,
+ "base_code": 477,
+ "min_base": 477,
+ "date": "2026-11-13",
+ "files": [
+  {
+   "path": "addons/xiyou_export/android/xiyou_bgidle.aar",
+   "change": "added",
+   "size": 11447,
+   "sha256": "deb08b8d00be1fc8812d0d404f79bf314e285063ee89b08333d9f5b610c2b93b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/checksums/checksums.lock",
+   "change": "added",
+   "size": 17,
+   "sha256": "78110e275ad08ed3b2c4d697f2d9a2a0e4c0f933cb4c0270b9be9a6fd116e744"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/executionHistory/executionHistory.bin",
+   "change": "added",
+   "size": 104320,
+   "sha256": "b788fbebf5a0587040270d5a040127ee9bebe5e5807241bbc4c3b43e820524dd"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/executionHistory/executionHistory.lock",
+   "change": "added",
+   "size": 17,
+   "sha256": "a275eda222a2029f9494003c6192373722572cb80c32e4a1cc6f8c0fc52d0beb"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileChanges/last-build.bin",
+   "change": "added",
+   "size": 1,
+   "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/fileHashes.bin",
+   "change": "added",
+   "size": 24697,
+   "sha256": "5e56b6684aa4a720fbc573ba8046ace97269fb941c3b0ebd6aa6d4e9507cc225"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/fileHashes.lock",
+   "change": "added",
+   "size": 17,
+   "sha256": "328d1efe1374f83efcaafa25266f6c5555fa1bfb657b58e6631307aec4b7b4c1"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/resourceHashesCache.bin",
+   "change": "added",
+   "size": 18803,
+   "sha256": "fd07d94512c94951ca8efeee5807b517778a5ee6d13f5f86ec4a4b4fb8fb8f5f"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/8.11.1/gc.properties",
+   "change": "added",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/buildOutputCleanup.lock",
+   "change": "added",
+   "size": 17,
+   "sha256": "39fb544caddeb26bd1a27386b538f1e2613c9a0ff265276e7814fedf90e7c157"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/cache.properties",
+   "change": "added",
+   "size": 52,
+   "sha256": "6ac8f7afd0090d279c97ab185fb8d838cc72b2b509af39f361e52102e6fb835a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/outputFiles.bin",
+   "change": "added",
+   "size": 21017,
+   "sha256": "a11b50875d57dda7786287b1611431c07f5da6e801d703e3dff2cd1dfb69b0b9"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/file-system.probe",
+   "change": "added",
+   "size": 8,
+   "sha256": "320a761785dda13d6fd99c11f7d42400a751fc7fce9ef0b8ba70e46f1b606643"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/.gradle/vcs-1/gc.properties",
+   "change": "added",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml",
+   "change": "added",
+   "size": 1244,
+   "sha256": "ba871982ebd16d1e51c02fe6d7977bf2bd2ebd04a6132ab99061e17699765f86"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output-metadata.json",
+   "change": "added",
+   "size": 355,
+   "sha256": "e13562fb82b07ed352ed098b9db3fab6677c88814e20aade341f6d093bee58ec"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar",
+   "change": "added",
+   "size": 10223,
+   "sha256": "2c40ef08f510de9eb504eeecc4e4af751c4a33b2650825193621eb184672f9b6"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/aar_metadata/release/writeReleaseAarMetadata/aar-metadata.properties",
+   "change": "added",
+   "size": 156,
+   "sha256": "9cc8517bbdf06d879f57a2cfd6f8c6914e48800d443421cd850971945f98e7b2"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/annotation_processor_list/release/javaPreCompileRelease/annotationProcessors.json",
+   "change": "added",
+   "size": 2,
+   "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/annotations_typedef_file/release/extractReleaseAnnotations/typedefs.txt",
+   "change": "added",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar",
+   "change": "added",
+   "size": 813,
+   "sha256": "3e4106c2ccbe16016b85e1c68a0932fcd9e6d8f44f28b410bb6fea23ff46add5"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/compile_symbol_list/release/generateReleaseRFile/R.txt",
+   "change": "added",
+   "size": 35,
+   "sha256": "57a97f846d97f5d6d20feb7ce2ab7086b6cc476717dfc53a6941f3e59daffc7a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml",
+   "change": "added",
+   "size": 706,
+   "sha256": "07d353ad3b018ce2d1a4029cd833cbb25a1f6b22a328bb6b870fdd576379fe60"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/mergeReleaseShaders/merger.xml",
+   "change": "added",
+   "size": 706,
+   "sha256": "61ef7f34c61640e62b069f8797c9aae5e5d84876d3a7257c999dd46b8e7b4cb1"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/packageReleaseAssets/merger.xml",
+   "change": "added",
+   "size": 1076,
+   "sha256": "0e3ab4f70087beafc97de9cdf87327124531fe47eedbf22ca03e1cb498b7f1cc"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release-mergeJavaRes/merge-state",
+   "change": "added",
+   "size": 964,
+   "sha256": "2a85b18d5048f7d5899edf26cceca198d1c969babea982e8ec065f0203ff9590"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/mergeReleaseResources/compile-file-map.properties",
+   "change": "added",
+   "size": 342,
+   "sha256": "a09bac74dcc981fc3b07557a6db29b188883428a9a6830333e68491bb2ef53b9"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/mergeReleaseResources/merger.xml",
+   "change": "added",
+   "size": 2828,
+   "sha256": "145f458032f5d92c899719c908af0de95dc3f8905cdb985edcf922b54e49c338"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties",
+   "change": "added",
+   "size": 346,
+   "sha256": "028fe33faa361f2d8aafd8716b9fc3ffd930b393ac469bab1eb4e056f1535074"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/packageReleaseResources/merger.xml",
+   "change": "added",
+   "size": 2828,
+   "sha256": "145f458032f5d92c899719c908af0de95dc3f8905cdb985edcf922b54e49c338"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/java_res/release/processReleaseJavaRes/out/META-INF/xiyou_bgidle_release.kotlin_module",
+   "change": "added",
+   "size": 24,
+   "sha256": "656b3d35db5641e3cf9477532a1c7e3e49f1ad706fac99640966922bc55061b6"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/local_only_symbol_list/release/parseReleaseLocalResources/R-def.txt",
+   "change": "added",
+   "size": 82,
+   "sha256": "ef137fca35f154f4c238e32fb437e460248c0b1ec0bf52592603134faf5d909d"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/manifest_merge_blame_file/release/processReleaseManifest/manifest-merger-blame-release-report.txt",
+   "change": "added",
+   "size": 5082,
+   "sha256": "523b9ec914d4909f35801786b72e3783e3c4c8c150001b9babfee32f87ced920"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-.jar",
+   "change": "added",
+   "size": 203,
+   "sha256": "f2f563deef4cd2ec6fc560afc65a8882c9163d87aa0b647fae30a7b5b2ea0da2"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml",
+   "change": "added",
+   "size": 1244,
+   "sha256": "ba871982ebd16d1e51c02fe6d7977bf2bd2ebd04a6132ab99061e17699765f86"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/merged_res/release/mergeReleaseResources/drawable/xiyou_idle_notify.xml",
+   "change": "added",
+   "size": 633,
+   "sha256": "ca49055c6d9d5df828a280ecc6476e9a91c965ccb79748f934fa069d1209f824"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/single/drawable.json",
+   "change": "added",
+   "size": 183,
+   "sha256": "c493792f9e697c84aaeba58f8e3f7bb45465529d83f2a2c83bdd94eae79d6595"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/nested_resources_validation_report/release/generateReleaseResources/nestedResourcesValidationReport.txt",
+   "change": "added",
+   "size": 15,
+   "sha256": "9c480558a2abf161482051a883120398c77c97be0a2c7a60df38dff324aade96"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/packaged_res/release/packageReleaseResources/drawable/xiyou_idle_notify.xml",
+   "change": "added",
+   "size": 633,
+   "sha256": "ca49055c6d9d5df828a280ecc6476e9a91c965ccb79748f934fa069d1209f824"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/source_set_path_map/release/mapReleaseSourceSetPaths/file-map.txt",
+   "change": "added",
+   "size": 1663,
+   "sha256": "10fcee6c409d3b00746638b19fc3a1acac3631a4983d4bc048050c1f0fa1a0e8"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/symbol_list_with_package_name/release/generateReleaseRFile/package-aware-r.txt",
+   "change": "added",
+   "size": 50,
+   "sha256": "4366265ed31467eabcb9fbab2c45b2f484acbd5ea09ca99e58f3c4aa014bfca1"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/drawable_xiyou_idle_notify.xml.flat",
+   "change": "added",
+   "size": 1080,
+   "sha256": "3d2f80cb66f30028f66b61b19f33f27e219701b9016781b6ffb717efb6f9e186"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "a01d04343a2ae6bfc70f5f68fcd8625ecbff1cb3894d9f75818f963506051544"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "d99fca2bf1ac97f87625cd851f804b521cc8d5f24b7e430608b005a03565d2bf"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "013844ff8d5b0029bcacb94e541a485dc6dd2a16a15d07b8494ec5a6fe31b471"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at",
+   "change": "added",
+   "size": 809,
+   "sha256": "40fff18056a4a8f8d947ee9ae9d1d6fa1de75e8d542710c43eef7830cfaea2e5"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "fadd728538a183814f30ef8731fbc843f41980b4b1be91f9c7bed055fc3d6e59"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "3604c94369f1018c378ab48ba5f2538a97ebc9234b9ccd66006a9043a64acb22"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "de5ccc739b4907c6fe8150fd0de708bb0f74feb09b12c1d7945347233930d724"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "5236c7aa586b609d484e555a6c1a9af62646391e583d1a8da80a59f33cb34e24"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "3ded5eeaf070351f2850639127bd69a67f3fe2868126b68738df054241a86131"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at",
+   "change": "added",
+   "size": 58,
+   "sha256": "2ca4f5119d37dfb0a287b2e6f136f099e17ac44b2294c5e134357ff74e13e310"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "e7e50b9993d296e99b54eb31ae5d7f33a851ba2e1e49f32f56794a071eeadc1a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "a29eb99074f6ed4def8de65ab56d1a42fa2e0016f8cc044888703b8aefdeb111"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "de5ccc739b4907c6fe8150fd0de708bb0f74feb09b12c1d7945347233930d724"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "5236c7aa586b609d484e555a6c1a9af62646391e583d1a8da80a59f33cb34e24"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "3ded5eeaf070351f2850639127bd69a67f3fe2868126b68738df054241a86131"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at",
+   "change": "added",
+   "size": 405,
+   "sha256": "345207491784dd531c1b4eb6b0fe3f19a83b37fe11b3e7e9f19233b28e12805b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "e7e50b9993d296e99b54eb31ae5d7f33a851ba2e1e49f32f56794a071eeadc1a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "b61bccd126b1bc230920265e8bba72a58b3de51c6483159a978a4112c6dfe1b9"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "3ad42eb7a737afa1307bee42f5f6f4230536991e9bdaee50276f3d3886e2b331"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "35921743a45af755f8c5c9514be72a4ac5609d0933e6d234c1e78605ae1c631a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "89e0c32363a8888175ce9f2e88e7d410b693b21a18a98c755d671dae7ac2a502"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at",
+   "change": "added",
+   "size": 217,
+   "sha256": "e3cc72efc14e636a7a2d5967059b5e04c64db32b8c69eaf0ac8c2ab2b4216032"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "71955bb8e2341230e09056f15658721ae81042c1c884c68fac29ca3d69e229ce"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "a29eb99074f6ed4def8de65ab56d1a42fa2e0016f8cc044888703b8aefdeb111"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "04b7f54fa9a66b782e82342d8b6bb9b4a1a0fb35a3fe0a7d3a5db0f5af4db378"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "5236c7aa586b609d484e555a6c1a9af62646391e583d1a8da80a59f33cb34e24"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "3ded5eeaf070351f2850639127bd69a67f3fe2868126b68738df054241a86131"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at",
+   "change": "added",
+   "size": 405,
+   "sha256": "345207491784dd531c1b4eb6b0fe3f19a83b37fe11b3e7e9f19233b28e12805b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "97e325086e9d7b5d32bd70768655bad5682d6f60776686cbd1050ace9fc99901"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "6696ed1b787f6c555de414c0716e2de0975be4d0ca39079623e50e904a72b808"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "876269818e1ad947eba40bd59b60131dbc205d5f0068cbf6effe95ce5edd49ca"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "df0dc4024f570e4dbeee6d288de0c51d6934d20765a798c4677684edc3dbddf9"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "c8d98b097cfd0fb8ae5ac1f8c38e56bfdcb456aedb71853788c41e6051d70f34"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at",
+   "change": "added",
+   "size": 2008,
+   "sha256": "f4e7e33fcae9d4045ce50f59c4bb0cd220582e68e00276be4d4a7759c4224aa2"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "fa519d99807477e89e50805e05f8b574991392360c06150d6585c678d12f9cbb"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "1ad4876f027b1a59b702ba256385d58b96f89886ae513e8b921fbc77abd95ab4"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "d99fca2bf1ac97f87625cd851f804b521cc8d5f24b7e430608b005a03565d2bf"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "013844ff8d5b0029bcacb94e541a485dc6dd2a16a15d07b8494ec5a6fe31b471"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at",
+   "change": "added",
+   "size": 386,
+   "sha256": "1ad8249fc00face580d7e4684278acbe371aa5ab7f189ff4fb9ad74536bd3433"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "fadd728538a183814f30ef8731fbc843f41980b4b1be91f9c7bed055fc3d6e59"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "a5268adb67a68dd268db1c9d2d9b171095b788d0b81771f9ef555af13db3675f"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "bcb8b67a60ef3c3a257bbfadc082543ef22461198f23fdb45ff381edd83a26a8"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "68d1d79f8a4f4d308d6415c0044bef64ee2d3d53ccdcf4494845aaefb208e592"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at",
+   "change": "added",
+   "size": 134,
+   "sha256": "908a523ca709de658262c05c9d739a6dd949d1820ade1a7b44f336eda644b1bd"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "86dafbb145720c7adb6fb59ec69f2624bca75f2e403f2991d346069acb1fefa8"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "a5268adb67a68dd268db1c9d2d9b171095b788d0b81771f9ef555af13db3675f"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "5c0a396bda56e8e79a7bb5a6628096a351515c3ae8411f790b7781b20ae49c9b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "fff186caf78e9785959114d520d3c661cc75bd1db9f6efee7f9a589da74795df"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at",
+   "change": "added",
+   "size": 114,
+   "sha256": "d291e472410e452d6ca313604484654f47b3780a7df8525682c5ae366a51f678"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "4d9de0d88f3d31bc924aadc54da326f1830aebe9ca11fa54e774d93321b48926"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/counters.tab",
+   "change": "added",
+   "size": 3,
+   "sha256": "f4264fa5a25ba11ef2d19da54dcfb3274407eb15c775cb355dd88722fe4aa5bc"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "c652d683b4d94e70cad25abbe26ccd0d88576040c8fcafd4b4e324ae262f2dcf"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "d99fca2bf1ac97f87625cd851f804b521cc8d5f24b7e430608b005a03565d2bf"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "013844ff8d5b0029bcacb94e541a485dc6dd2a16a15d07b8494ec5a6fe31b471"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at",
+   "change": "added",
+   "size": 61,
+   "sha256": "4e6d9daabb1d42a5c0ba92467eb7856e23d4d70cc00e401bd8bd0f2ad2bdc859"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "fadd728538a183814f30ef8731fbc843f41980b4b1be91f9c7bed055fc3d6e59"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "bd0e84b0607e0df8b04ef422fbd264b8b4423192b492361f901faa00718fbd82"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream",
+   "change": "added",
+   "size": 4096,
+   "sha256": "9018bbab392749b2831fba33c3f7dfed67ae118d883fe92ae421f7fa7da7248c"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "cd04a4754498e06db5a13c5f371f1f04ff6d2470f24aa9bd886540e5dce77f70"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "708e21ef20762db9e4bbcd610d0ad759776a9a8d9766fd8da52760d74e6c9d76"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at",
+   "change": "added",
+   "size": 168,
+   "sha256": "98f6adeb15cde99f266ff6a60e5d85787485b676a904ad406737cbedf05c5690"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "237de44a3f65c9413fc2e6cca3f713c08c0519943a6f3445e0c7cfb2bebec14d"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab",
+   "change": "added",
+   "size": 4096,
+   "sha256": "d8e17fb27302b5b3b0ecde8b41077c7a81b18beb99f851a38efd1db9a46091c1"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream",
+   "change": "added",
+   "size": 20480,
+   "sha256": "bd83f37532eac3607e096ce26e8c04d7900bd72f877e351cbce41de081da306b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "59f59cfbb8c84f031926d89171fc071892cbf29d9cff8f9a2638d4793b2c0e9c"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "9fa730de0920ff6eba4ae4f8769ff4806caf5f177247787b00602c4c43326d29"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at",
+   "change": "added",
+   "size": 2223,
+   "sha256": "d5b5d4aeeefe4b71ff42b5e0c117640987d32812beb3c9b6ebb9a25bd1032f6a"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab_i",
+   "change": "added",
+   "size": 32768,
+   "sha256": "fbd99127ecf34851044727962b8fd808a28782cbd0a8797b7d07723b8dea7400"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len",
+   "change": "added",
+   "size": 8,
+   "sha256": "24b5d6e79d4d3dab7575da7f0beceafa9281c19295c6ce5ab31951db761ef188"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/last-build.bin",
+   "change": "added",
+   "size": 18,
+   "sha256": "42dd1d1cbc2ea6c3f2a45f3627d65f65122985a1051621164fd54a8a747d97b2"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin",
+   "change": "added",
+   "size": 28110,
+   "sha256": "2f2f017ef3e4f80bea20f5e3fc8dd9b62d686386cc6b8e452b9ee211ababff4c"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/local-state/build-history.bin",
+   "change": "added",
+   "size": 31,
+   "sha256": "d63e5b9d6d005de7f4dda8e51e4fec979d867c832bedc32974875fa3620716e9"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/outputs/aar/xiyou_bgidle-release.aar",
+   "change": "added",
+   "size": 11447,
+   "sha256": "deb08b8d00be1fc8812d0d404f79bf314e285063ee89b08333d9f5b610c2b93b"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/outputs/logs/manifest-merger-release-report.txt",
+   "change": "added",
+   "size": 6482,
+   "sha256": "e3b32b53d004fe04ca1d08c7dc7c73beac0a18b3b0da7838d1e4c56f4b535e42"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/tmp/kotlin-classes/release/META-INF/xiyou_bgidle_release.kotlin_module",
+   "change": "added",
+   "size": 24,
+   "sha256": "656b3d35db5641e3cf9477532a1c7e3e49f1ad706fac99640966922bc55061b6"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/tmp/kotlin-classes/release/local/kyo/xiyou/bgidle/XiyouBgIdlePlugin.class",
+   "change": "added",
+   "size": 5888,
+   "sha256": "4f8f637f53e3af653652ca38fa367e93f9fdab799d8c55b80ffe35d55b930ce1"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/tmp/kotlin-classes/release/local/kyo/xiyou/bgidle/XiyouIdleService$Companion.class",
+   "change": "added",
+   "size": 3961,
+   "sha256": "c55c243be6c2a4cba32cead28bd70513051c57c4b19f1c3e93ea8feed03a02a5"
+  },
+  {
+   "path": "addons/xiyou_export/android_src/build/tmp/kotlin-classes/release/local/kyo/xiyou/bgidle/XiyouIdleService.class",
+   "change": "added",
+   "size": 8641,
+   "sha256": "87a60386ed3177f14728250d007f4032e46888f35919876673329b5382100b32"
+  },
+  {
+   "path": "android/.build_version",
+   "change": "added",
+   "size": 12,
+   "sha256": "4739cb3b0acdd888db33673a68af24ff44886172ed9d7b64bd33c4dcb1758001"
+  },
+  {
+   "path": "android/build/.gdignore",
+   "change": "added",
+   "size": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "android/build/assetPackInstallTime/build.gradle",
+   "change": "added",
+   "size": 217,
+   "sha256": "9634b498debb6134aadc9ac0e00ad31cffc0a857ec87028631025b15f202378b"
+  },
+  {
+   "path": "android/build/build.gradle",
+   "change": "added",
+   "size": 12187,
+   "sha256": "ed953e0de4e3334ad6959e30178e9d312a2b6ec8eb664e477913040dbae7d232"
+  },
+  {
+   "path": "android/build/config.gradle",
+   "change": "added",
+   "size": 13863,
+   "sha256": "b639cb6bcf22ed5280d24612c24cfc238ded1a95eb87e14c6bd11d6366b83313"
+  },
+  {
+   "path": "android/build/gradle.properties",
+   "change": "added",
+   "size": 1180,
+   "sha256": "513f3c1bf1086916480b39e5e31bbb7f1231d7d7178017177aa43f04ba05fe6b"
+  },
+  {
+   "path": "android/build/gradle/wrapper/gradle-wrapper.jar",
+   "change": "added",
+   "size": 59203,
+   "sha256": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637"
+  },
+  {
+   "path": "android/build/gradle/wrapper/gradle-wrapper.properties",
+   "change": "added",
+   "size": 233,
+   "sha256": "9aaa00cfbcf73d3726b647453c639e63e0bc1f32afdde686c679673fe53a3dc3"
+  },
+  {
+   "path": "android/build/gradlew",
+   "change": "added",
+   "size": 5766,
+   "sha256": "63135287117a1e6d12c84580f1f49c61d1ba02218ecd28660605e97f976e7d65"
+  },
+  {
+   "path": "android/build/gradlew.bat",
+   "change": "added",
+   "size": 2763,
+   "sha256": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b"
+  },
+  {
+   "path": "android/build/libs/debug/godot-lib.template_debug.aar",
+   "change": "added",
+   "size": 112732013,
+   "sha256": "9cfb115e508ce98e8cf9b655927ef894cdfc2fede18a82f995842388f7754102"
+  },
+  {
+   "path": "android/build/libs/release/godot-lib.template_release.aar",
+   "change": "added",
+   "size": 103251267,
+   "sha256": "8791eecfe7c96a4de2d188a0bccfe9b83b92589a5a6825847473416a990e8629"
+  },
+  {
+   "path": "android/build/res/values-ar/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "35cc35ac7085563f26dd94a23d0991cfb007b9bcddc755309e097f6c0ead8af1"
+  },
+  {
+   "path": "android/build/res/values-bg/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "ac59dbc5bb00e97b3a431bd6f8084ab7dcf7010bfedccd5a52b4ae79b589ba9b"
+  },
+  {
+   "path": "android/build/res/values-ca/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "d5b57b1ad8a182d65676c1f5aa1a06265145932870d574a6d150f2bf2137ffad"
+  },
+  {
+   "path": "android/build/res/values-cs/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "0f3d7ec5566e9673b1d6094068951c1cde9a9451a3323919ade6224f9c601794"
+  },
+  {
+   "path": "android/build/res/values-da/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "1fbee5dac9e4de44650c30574b98d1a0c1d3ff0daf38e9a7c65340af3a98355a"
+  },
+  {
+   "path": "android/build/res/values-de/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "568484ae8547b32b1c2785821184530b1c042049d39a25547ec0450e43de2dd3"
+  },
+  {
+   "path": "android/build/res/values-el/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "7663375877e59dc4065bc2ea534342b5d2868a686534836decaa4a7aed172f3b"
+  },
+  {
+   "path": "android/build/res/values-en/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "4954530360653ce11c5397ea502b21a40526b087808d17597806aa059f97a53e"
+  },
+  {
+   "path": "android/build/res/values-es-rES/godot_project_name_string.xml",
+   "change": "added",
+   "size": 204,
+   "sha256": "40ff5caa21267ce5b759188ce103aa7660465fae316d2783c8b5179ffdccdb77"
+  },
+  {
+   "path": "android/build/res/values-es/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "82fe14b1c519a4c69dd228fdd6ed9b223dd703980d0ed534c0b440302378eadd"
+  },
+  {
+   "path": "android/build/res/values-fa/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "9b0cd8aae173442a8c8f55f29cc9169b0b8a1a4e6cbb193afcf51615ce039f32"
+  },
+  {
+   "path": "android/build/res/values-fi/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "3b916fe281544484f76853cc35fec2642cf3c15066a49f9f5d419050c5e5c016"
+  },
+  {
+   "path": "android/build/res/values-fr/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "1f504b7a2170cb70313f661cf58fdf04c270d92fe28d6c71d717b9a783358d36"
+  },
+  {
+   "path": "android/build/res/values-hi/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "4e171c884e5c75e9028155e59f8b7199dd4c9b0af2eae306b72f9d661c9accc5"
+  },
+  {
+   "path": "android/build/res/values-hr/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "d571f859beb4ddc3dd57865be72a981787ab13bbb56e208251aefeab8db5721b"
+  },
+  {
+   "path": "android/build/res/values-hu/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "afeef40fcd594465caf26a8da9437752c5a02a733d32647527f6b40dc8dfc2e6"
+  },
+  {
+   "path": "android/build/res/values-in/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "a1dee697ca5dc989f8c28a3f1749e9d429e5934a436d1ba667cef240cd5f3fdf"
+  },
+  {
+   "path": "android/build/res/values-it/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "aaf3439fef529c6c2154588b336e2c24bf639cb564664aecceb68daf64f06b20"
+  },
+  {
+   "path": "android/build/res/values-iw/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "0b6de58b61bfdf1a781af2a35e8018b4091fe3d31158c47393a3a4c2155bc87d"
+  },
+  {
+   "path": "android/build/res/values-ja/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "33df55aa55ce0711895e8ae9ebb988a512fa8c89c5095774b117a42f104eb087"
+  },
+  {
+   "path": "android/build/res/values-ko/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "8a68adc6456ef72ad33d36df6ad7c22f7037ba9f2648df133fbb3307b467700f"
+  },
+  {
+   "path": "android/build/res/values-lt/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "dc715384903357f5096daceadfca278c4c968de8c8eb99e4c6e2547217756d25"
+  },
+  {
+   "path": "android/build/res/values-lv/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "cf3018ddacda6a96e8ba10047943f7abf6eabafcf201dd979a9e0b408052d962"
+  },
+  {
+   "path": "android/build/res/values-nb/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "cea0509994cdf4476afb5b17e58449a7e5457c15635a7885dbb2e014c0263252"
+  },
+  {
+   "path": "android/build/res/values-nl/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "60a82909300e44b08c40240064013aab4ac757e6cfcef6100f758293e0ef27a1"
+  },
+  {
+   "path": "android/build/res/values-pl/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "90856df8452e18c2d80627cf57e5aca00dcd7b921099fef85cb30f79c0438922"
+  },
+  {
+   "path": "android/build/res/values-pt/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "9349c2b5663801d8692fe7b4214de97e81a20ebe1f06b4ea65028a5ac9e74da0"
+  },
+  {
+   "path": "android/build/res/values-ro/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "b5f18c21e5a1718ff911c48a36422edfd66e3bbfaa81b6e2e5ca0d9706431918"
+  },
+  {
+   "path": "android/build/res/values-ru/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "fd7b2d7b9917ca4fa238f0f24c583274d0138ea99f3527a17af32dad96d228c2"
+  },
+  {
+   "path": "android/build/res/values-sk/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "a43cf1bd57aac5882a2b1037ed8f68b728099259ccfbe3b4c158c039b013df1f"
+  },
+  {
+   "path": "android/build/res/values-sl/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "4817b8d12c12397a2387e30e2b88012735442286a25f11dd9816ca2858079b49"
+  },
+  {
+   "path": "android/build/res/values-sr/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "80da161627547e6bfc30e1af2d1010495f53db9eeea145f461c4b9e0c07f8952"
+  },
+  {
+   "path": "android/build/res/values-sv/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "253b08d8c0f0c55d8cb5b03dd43ee69915453468ddeb124162fd053f116e0e58"
+  },
+  {
+   "path": "android/build/res/values-th/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "8e63c4dcd24eac63eae93e71abc4fb752de40ffb68281e2c0cc8b2c1459a8ed1"
+  },
+  {
+   "path": "android/build/res/values-tl/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "02d85fdff40d8b37feba626f9b031d395ef590ce68ac4a59ea640cf80c9d9d24"
+  },
+  {
+   "path": "android/build/res/values-tr/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "8467529d813eca923355d37559df80a5b9660047d94e1176651c83801bf17810"
+  },
+  {
+   "path": "android/build/res/values-uk/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "b7d7fbce5fcdbc2795a26850ce57f9768517a710abb6834ba7a97438006d3a8a"
+  },
+  {
+   "path": "android/build/res/values-vi/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "85db943f6c9aeb55f67809c832d45001aea7cf3366aeefb0f951e46c10624a30"
+  },
+  {
+   "path": "android/build/res/values-zh-rHK/godot_project_name_string.xml",
+   "change": "added",
+   "size": 204,
+   "sha256": "39c2313c365cbc65859a74146adfb37e838837129904b912f56d9303107bd5d4"
+  },
+  {
+   "path": "android/build/res/values-zh-rTW/godot_project_name_string.xml",
+   "change": "added",
+   "size": 204,
+   "sha256": "2dd4ea39a4014d9963258dceeae82bd7302b473036a9f2d12362e6be3f8198d2"
+  },
+  {
+   "path": "android/build/res/values-zh/godot_project_name_string.xml",
+   "change": "added",
+   "size": 201,
+   "sha256": "3847b6b5a85cca7afe4c2584993fb49b1508be374302b2a4cd4f079aa36c553f"
+  },
+  {
+   "path": "android/build/res/values/godot_project_name_string.xml",
+   "change": "added",
+   "size": 198,
+   "sha256": "5e204674fde28bc7ecec68bb4fd990b2a4d82f77d786c4aee288d466f7dac4e9"
+  },
+  {
+   "path": "android/build/res/values/themes.xml",
+   "change": "added",
+   "size": 1123,
+   "sha256": "fa7cccb16370f63b4f01c9516f8a4b120d8a4613f4627de9cb2e374a5ac299fd"
+  },
+  {
+   "path": "android/build/settings.gradle",
+   "change": "added",
+   "size": 548,
+   "sha256": "653f2bdd4087a4f34da4e3cb731e41fc9791337a35e998f18cf637cdb2daa05a"
+  },
+  {
+   "path": "android/build/src/androidTestInstrumented/java/com/godot/game/GodotAppTest.kt",
+   "change": "added",
+   "size": 9236,
+   "sha256": "2cd6419672260ae444e3d10f6b8be64d7ebf4381760976e8347a34d0ee33443b"
+  },
+  {
+   "path": "android/build/src/instrumented/AndroidManifest.xml",
+   "change": "added",
+   "size": 462,
+   "sha256": "e76c8f118dafe9231986fc4af56f57a237a6366045090d264ee9eae9dd4fe67a"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/icon.svg",
+   "change": "added",
+   "size": 996,
+   "sha256": "313d61f6f411c5c5ee494a9e3862ed4e66cff1931214a4a062b283f9ae0f5fbd"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/icon.svg.import",
+   "change": "added",
+   "size": 1012,
+   "sha256": "87a0f875a2348df2e1ed3d66e208044b2a20084bac2e935c6983d5579670593e"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/main.gd",
+   "change": "added",
+   "size": 2936,
+   "sha256": "1fd73ed065a04e7550cb5a6a8a12566ed6772a716e8a4ccf81f92e62fd37c39f"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/main.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "23c8cb99e819acdde3d6a856267db08e7b7a9f1098e98fa2e210ab701801865d"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/main.tscn",
+   "change": "added",
+   "size": 1274,
+   "sha256": "34d51d8d86eca84f17b0aaa909977475fe7384f8cd3487243abf66173b5159c2"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/project.godot",
+   "change": "added",
+   "size": 726,
+   "sha256": "617ddb7fc2cd721f0e43656cff57473e399f3b42680281bf1d0f1220c81cb39f"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/android_plugin/signal_tests.gd",
+   "change": "added",
+   "size": 2554,
+   "sha256": "107820a3b6317d90a5babf9186eb86fb375fea8990b664c8f9e10fbe61f1f8ba"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/android_plugin/signal_tests.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "6d6adc784f3f46a488dc508c651bc21034a8e78a406467e0d5983cb9b86c0edd"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/base_test.gd",
+   "change": "added",
+   "size": 1243,
+   "sha256": "946c4e146bd9377ff6802d245a0e2cd66978a1351fd4e5edb79f0c46443815c9"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/base_test.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "6e95fb1c1730e3053545c1a914058a799ce85dad5e3c4e46e4643f96265c59f9"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/file_access/file_access_tests.gd",
+   "change": "added",
+   "size": 3345,
+   "sha256": "46924ef0d83b51751ad3a7b9ed53ff4cd6f96a17d5112a3f71540b9179319163"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/file_access/file_access_tests.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "ae6b6ffe9498a0be3b73aeadc064316fbe22ddb70aefa01586d1cb10915fee37"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/javaclasswrapper/java_class_wrapper_tests.gd",
+   "change": "added",
+   "size": 8458,
+   "sha256": "a91da79f747f50e52f6f66e171def91ab8a27cf068f1ec9cf7398bf58a78e2f6"
+  },
+  {
+   "path": "android/build/src/instrumented/assets/test/javaclasswrapper/java_class_wrapper_tests.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "19075aff45f9329cafe70b312b1b15af15fcdb8ff690298af418f3cd74c1be97"
+  },
+  {
+   "path": "android/build/src/instrumented/java/com/godot/game/test/GodotAppInstrumentedTestPlugin.kt",
+   "change": "added",
+   "size": 7010,
+   "sha256": "9ae5decaf8e6fe1bc71c15c79b46a1ad9149d3eedebeae5a66431ff87f04ea97"
+  },
+  {
+   "path": "android/build/src/instrumented/java/com/godot/game/test/SignalTestPlugin.kt",
+   "change": "added",
+   "size": 911,
+   "sha256": "e923035fcec144e6501a8dc34498fa9f0548d9970d5196efdfdc2d31134bc933"
+  },
+  {
+   "path": "android/build/src/instrumented/java/com/godot/game/test/javaclasswrapper/TestClass.kt",
+   "change": "added",
+   "size": 7469,
+   "sha256": "a268b86311f34a4452cb3f37ad777c516f1a0d5b947ec9880062f47dba912b2a"
+  },
+  {
+   "path": "android/build/src/instrumented/java/com/godot/game/test/javaclasswrapper/TestClass2.kt",
+   "change": "added",
+   "size": 2454,
+   "sha256": "494959bb43d4bbdbf18a18a8bec0967c9e392af222587841f61f4bd4a2258a46"
+  },
+  {
+   "path": "android/build/src/instrumented/java/com/godot/game/test/javaclasswrapper/TestClass3.kt",
+   "change": "added",
+   "size": 2449,
+   "sha256": "0e3fe64db558b572cf2cb9441412c08ddb53ac41f2946067ac665f4c00c64fff"
+  },
+  {
+   "path": "android/build/src/instrumented/res/values/strings.xml",
+   "change": "added",
+   "size": 144,
+   "sha256": "cd303482dbb96a681443309095f0fb75589baf27f32d36ae4916cf45ff8e2abb"
+  },
+  {
+   "path": "android/build/src/main/AndroidManifest.xml",
+   "change": "added",
+   "size": 2160,
+   "sha256": "2a68ba08e3e047ffdb9ff433d02035fb99046ee5478c4e2e2b0ed25f1a833605"
+  },
+  {
+   "path": "android/build/src/main/java/com/godot/game/GodotApp.java",
+   "change": "added",
+   "size": 4302,
+   "sha256": "6bd6e6280ef42fee606e1243a4e89f73a4dbe76207d799af7d38b7e4e54052bb"
+  },
+  {
+   "path": "content/build_info.json",
+   "change": "modified",
+   "size": 145,
+   "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
+  },
+  {
+   "path": "modes/xiyou/map/mv_tilemap.gd",
+   "change": "modified",
+   "size": 18461,
+   "sha256": "4f8399ad5e0a6f28b8983a60a89050db41a82cb0f4662a910f798ae6019c8575"
+  },
+  {
+   "path": "modes/xiyou/map/screen_fx_view.gd",
+   "change": "modified",
+   "size": 6435,
+   "sha256": "de7acb62fae33dc5f0c0542aa941f520f4063433a50779f035ab9c8953c30fcc"
+  },
+  {
+   "path": "project.godot",
+   "change": "modified",
+   "size": 1587,
+   "sha256": "0a04cb5284c7fdad4e6c5845079de4b354142bfc6b6a2dbaca4fed4781f466b8"
+  }
+ ],
+ "removed": [],
+ "total": {
+  "files": 220,
+  "bytes": 216968404,
+  "removed": 0
+ },
+ "excludes": [
+  ".git/",
+  ".godot/",
+  "__pycache__/",
+  ".DS_Store",
+  "Thumbs.db",
+  "modes/xiyou/generated/oracle/*",
+  "modes/xiyou/generated/oracle_*.json",
+  "modes/xiyou/generated/manifest.json",
+  "modes/xiyou/generated/sync_stamp.json",
+  "builds/*",
+  "tests/*",
+  "*test_mode_unlock*",
+  "*test_mode_state*",
+  "modes/xiyou/tianqi_data/*",
+  "content/tianqi/*",
+  "content/gojo/*",
+  "modes/xiyou/rift_alien.json",
+  "modes/xiyou/ui/tianqi/*"
+ ]
+}
