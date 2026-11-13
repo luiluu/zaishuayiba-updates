@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.478",
- "code": 478,
+ "version": "0.479",
+ "code": 479,
  "base_code": 477,
  "min_base": 477,
  "date": "2026-11-13",
@@ -1307,7 +1307,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 145,
-   "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
+   "sha256": "8f435d7df49407527e43d7bf53eeec9e451f9932c7b0647d5b746f931395b7a9"
   },
   {
    "path": "content/sukuna/README.md",
@@ -2074,8 +2074,8 @@
   {
    "path": "core/feedback.gd",
    "change": "added",
-   "size": 2026,
-   "sha256": "09bb363052f48fff519beed38621a0acbe3b3bb03229fc79ffed01b90a712897"
+   "size": 7222,
+   "sha256": "78a09a7fa5390da1e86dec9ea275cec20540e870f16f64293fe8ac6d0f59ad4c"
   },
   {
    "path": "core/feedback.gd.uid",
@@ -2104,8 +2104,8 @@
   {
    "path": "modes/xiyou/battle/battle_logic.gd",
    "change": "modified",
-   "size": 182532,
-   "sha256": "79109f5d13cf8f2ad0283853558eb07820653fb6d4a7af86f7c86f763d7d721a"
+   "size": 184534,
+   "sha256": "e92e017c3e56dcc69725089175dca6101ee66f1dc72244a90ab007c633162a47"
   },
   {
    "path": "modes/xiyou/battle/battle_scene.gd",
@@ -2138,6 +2138,12 @@
    "sha256": "4bdc08988c9b7aa3a50a5147bc518fcb506f1ae1dce842b7a85e9435f4a483f6"
   },
   {
+   "path": "modes/xiyou/battle/smart_ai.gd",
+   "change": "modified",
+   "size": 34527,
+   "sha256": "e5d6e7eefadfe3d7a86cc221cf089e6e0a27e72f4f6d626b2fad65e7eb8da0c9"
+  },
+  {
    "path": "modes/xiyou/battle/sukuna_fx.gd",
    "change": "added",
    "size": 4212,
@@ -2152,8 +2158,26 @@
   {
    "path": "modes/xiyou/core/actor.gd",
    "change": "modified",
-   "size": 61385,
-   "sha256": "6637b598ddc3f27ef4ebddb64e57e54fdcb0b622ccbf05d3da636e5fa8fb5a77"
+   "size": 76260,
+   "sha256": "132a0a7439f6e326aad182a2e982ea4c2c12c9a94745185a0ef5f5354a64602a"
+  },
+  {
+   "path": "modes/xiyou/core/affix_absorb.gd",
+   "change": "added",
+   "size": 9937,
+   "sha256": "f8edbbbd5248ce66d2ea874618f05b7fdcb76fed34bf2e17f9ff1dffb221d5aa"
+  },
+  {
+   "path": "modes/xiyou/core/affix_absorb.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "5637c7ca639272173ca83344220198400520c51b964df3c2b4c88964bd9bd19b"
+  },
+  {
+   "path": "modes/xiyou/core/alienation.gd",
+   "change": "modified",
+   "size": 20896,
+   "sha256": "956f9904a135f5f0631392740b2a9d0ce912fadc0922d2db19d378b1e4d417c4"
   },
   {
    "path": "modes/xiyou/core/appearance.gd",
@@ -2164,8 +2188,20 @@
   {
    "path": "modes/xiyou/core/battler.gd",
    "change": "modified",
-   "size": 43075,
-   "sha256": "de56f02f07d54ede58f243b1c67c78df155cfa3267f99154199fb285a4b3ef3c"
+   "size": 46601,
+   "sha256": "18ab5b1b6442e453bd151f9dafced8094118e329fcd14395270c3a7013ffded2"
+  },
+  {
+   "path": "modes/xiyou/core/damage.gd",
+   "change": "modified",
+   "size": 28379,
+   "sha256": "4978ba87dbcbafa8ce2112468cbede4cf105a238c5c40a4fc7e73cf36744e7c5"
+  },
+  {
+   "path": "modes/xiyou/core/demon_crown.gd",
+   "change": "modified",
+   "size": 19875,
+   "sha256": "3083d9780b84812342fb1f65fe21f4d9eae3dd45a24904edd1f055938c1859e7"
   },
   {
    "path": "modes/xiyou/core/encounter_target.gd",
@@ -2180,10 +2216,22 @@
    "sha256": "2aa45619661e2658e06cf5bc86736b303d3841b4157af4129aaad9fc0368ba70"
   },
   {
+   "path": "modes/xiyou/core/equipment.gd",
+   "change": "modified",
+   "size": 7371,
+   "sha256": "cc0204920a0835703d065af4fd269be88ff8777a91193420b9e634b9bdf48005"
+  },
+  {
+   "path": "modes/xiyou/core/gear.gd",
+   "change": "modified",
+   "size": 19349,
+   "sha256": "7e2dc695ed1f62d2f24ead672fdf16457cfbbf3f3b766e2a2f73feb7f25d22d4"
+  },
+  {
    "path": "modes/xiyou/core/gear_query.gd",
    "change": "modified",
-   "size": 13529,
-   "sha256": "c197577d3b27dfd4561a8abc8c03ed6593eb1f395788b06876473ffc292fafc4"
+   "size": 13533,
+   "sha256": "12f1c3cf47eeb1f641f83c7bd5be53097b25b4c6bc74a22f3c92ead4b7a56448"
   },
   {
    "path": "modes/xiyou/core/graphics_quality.gd",
@@ -2198,16 +2246,52 @@
    "sha256": "c8b98f4ea218a8ef39ac04a0dcd450ce4a344a16a4d9ac8340aaa556257ec88c"
   },
   {
+   "path": "modes/xiyou/core/growth_forge.gd",
+   "change": "modified",
+   "size": 12582,
+   "sha256": "fb5ee673b5059695562da86008b712a9434cb0adedc43d72d25b9ac3ec493619"
+  },
+  {
+   "path": "modes/xiyou/core/guide.gd",
+   "change": "modified",
+   "size": 24091,
+   "sha256": "f7e26842a474bbe6b4e0b4f0c915f3501ff775714fec44517f2b4305df02a142"
+  },
+  {
    "path": "modes/xiyou/core/hang_up.gd",
    "change": "modified",
    "size": 11145,
    "sha256": "be4d1af8c2c7d30674ac43de0908381f7d36b43d7cb2a5590527e5397e6a1cc9"
   },
   {
+   "path": "modes/xiyou/core/liuying.gd",
+   "change": "modified",
+   "size": 28589,
+   "sha256": "b920bb8cd777fb9bedf6fb53f90fbfc9d2b3bd012d085583c8e71fe73f391518"
+  },
+  {
+   "path": "modes/xiyou/core/random_stream.gd",
+   "change": "modified",
+   "size": 6090,
+   "sha256": "7e1acc6ae954a49e0da615ee049b92ed165510a865edeb16a548225cb2e53d43"
+  },
+  {
+   "path": "modes/xiyou/core/resource_context.gd",
+   "change": "modified",
+   "size": 18034,
+   "sha256": "96cf95e5e18da7cfd611ddfd50004db62dfa929882c07b952d99ef6965c01b00"
+  },
+  {
    "path": "modes/xiyou/core/rift_alien.gd",
    "change": "modified",
    "size": 23062,
    "sha256": "da85b16528b36048f871be6c36d2eb2c7b561438bc2ee7e135f13c4b497b00ee"
+  },
+  {
+   "path": "modes/xiyou/core/star_warehouse.gd",
+   "change": "modified",
+   "size": 13846,
+   "sha256": "cae31d2fc6ba3164598e73447fc290be1095aaceb761d29fee096f2431acf59f"
   },
   {
    "path": "modes/xiyou/core/sukuna.gd",
@@ -2240,6 +2324,18 @@
    "sha256": "8bfde3ad35b64cf419c3f44cdfabfcaaa9adb5b828256996839ed92efdb0e224"
   },
   {
+   "path": "modes/xiyou/core/xstate.gd",
+   "change": "modified",
+   "size": 57421,
+   "sha256": "de5a7fe7cda58270a8446a0d1d2aa61cae2c3377049012871714cb4450b9e873"
+  },
+  {
+   "path": "modes/xiyou/core/yunshang_orders.gd",
+   "change": "modified",
+   "size": 25388,
+   "sha256": "08929941f1eb7ff5d70bf832e292e1c6916713230ebfaf72a74cf55aa039dd65"
+  },
+  {
    "path": "modes/xiyou/core/zhenqi.gd",
    "change": "modified",
    "size": 55257,
@@ -2248,8 +2344,8 @@
   {
    "path": "modes/xiyou/entry.gd",
    "change": "modified",
-   "size": 24941,
-   "sha256": "9f8275b682a302682b57e93a56d9b15f11027c5b04f8e2326c7f4ce45a24b308"
+   "size": 25336,
+   "sha256": "9a6b78bda41e399db2b35179fa3bd7c525de493a4e3688875f618bddb477a063"
   },
   {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
@@ -2330,10 +2426,16 @@
    "sha256": "96eb20dc8a54ffa2a35f8d60f58a9b03db6547a82500af958be9090405ef229e"
   },
   {
+   "path": "modes/xiyou/ui/help_card.gd",
+   "change": "modified",
+   "size": 66421,
+   "sha256": "feb0ddbd0a1bca7100600ab005b86638002cc47e282aa54bf0c7355d4a934260"
+  },
+  {
    "path": "modes/xiyou/ui/item_scene.gd",
    "change": "modified",
-   "size": 57285,
-   "sha256": "c31bdc0a75ed1a172c589c5848e4ae1b158cb1a836cde8653d860d21bd566e0a"
+   "size": 57289,
+   "sha256": "7927a50954e13f5d455ba65c1c39bdc2853746f94018ebd99532c985ff99aab0"
   },
   {
    "path": "modes/xiyou/ui/map_transfer.gd",
@@ -2346,6 +2448,12 @@
    "change": "modified",
    "size": 23066,
    "sha256": "747c72e65c7f359043292570036e342c45fe4a7b242ea2a60aa2c32dc9935bb0"
+  },
+  {
+   "path": "modes/xiyou/ui/merchant29_page.gd",
+   "change": "modified",
+   "size": 15242,
+   "sha256": "eb82a69b45008e5c14f07314e9f751412af4a2a4d7f4d28e16e26d5b0b726a12"
   },
   {
    "path": "modes/xiyou/ui/mv_canvas.gd",
@@ -2366,6 +2474,12 @@
    "sha256": "5525b4099d888e89a9c8db5265d8fa961426d1735524dbe2330fb6abe02cb936"
   },
   {
+   "path": "modes/xiyou/ui/skill_scene.gd",
+   "change": "modified",
+   "size": 22654,
+   "sha256": "cab59d485d0e39ce0af1348247f4d551eb30406a3668760f54db1e1cb80c7dcc"
+  },
+  {
    "path": "modes/xiyou/ui/toast.gd",
    "change": "modified",
    "size": 5946,
@@ -2374,8 +2488,8 @@
   {
    "path": "modes/xiyou/ui/update_page.gd",
    "change": "modified",
-   "size": 16345,
-   "sha256": "4b866b71d83f3fbb16392fa8da9acb764f64870c3d1a826ac9355e91761d05c4"
+   "size": 16702,
+   "sha256": "0678a93cfa63a3813ed31695feb94e1247a36dbc73cce37e3b83e50bc39a0b42"
   },
   {
    "path": "modes/xiyou/ui/warning_screen.gd",
@@ -2393,13 +2507,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1616,
-   "sha256": "7cda7f43c2a6cb4a7bb5a78e6c0aaf7d5468c7b4a195183445728e1ffb9597a3"
+   "sha256": "55bea6d30ae0c3c34aa6b9026828cbef76f82a8589e9099ef99767c719352c6c"
   }
  ],
  "removed": [],
  "total": {
-  "files": 398,
-  "bytes": 219725649,
+  "files": 417,
+  "bytes": 220182720,
   "removed": 0
  },
  "excludes": [
