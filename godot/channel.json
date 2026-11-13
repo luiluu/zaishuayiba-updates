@@ -6,23 +6,25 @@
   "date": "2026-11-13",
   "notes": [
    "十二、十三层下雪时不再卡顿：雪花和地图图块合并绘制，画面不变",
-   "手机上点挂机按钮能正常开始挂机了（以前点一下会开了又马上关掉）；挂机被禁用时也显示挂机按钮"
+   "手机上点挂机按钮能正常开始挂机了（以前点一下会开了又马上关掉）；挂机被禁用时也显示挂机按钮",
+   "手机上点左下角回城枫叶不再响两声、触发两次",
+   "五河琴里能正常攒火力值了"
   ]
  },
  "bases": {
   "477": {
    "patch": {
     "code": 478,
-    "size": 345800,
-    "sha256": "9ef5c9adafef2526b484a11ff61d211ba7a6e72477b6353bac60189c5a4ef872",
+    "size": 369956,
+    "sha256": "70d445bc265adfb2e426e26ed072c9b8baa2eb362b8aecd621c045bdcc1b58f7",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/b693ad0907ff252c60fdaca46f900d125eea67f3/godot/patch_477_478.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck",
-     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/4e9a73b78e502998adc5f513722125c0de8e2363/godot/patch_477_478.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/80f21f707fb646f03dc3b9b6bb5357f92015c639/godot/patch_477_478.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck",
+     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/54030fc2222eb0452e171acc13b51a84376269f2/godot/patch_477_478.pck"
     ]
    }
   }
