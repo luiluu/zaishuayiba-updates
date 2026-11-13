@@ -1310,6 +1310,18 @@
    "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
   },
   {
+   "path": "core/key_map.gd",
+   "change": "modified",
+   "size": 7744,
+   "sha256": "3954c042830df0f7f20c55ded7fb1048663d55e2346cf07307e5600bfdd1f041"
+  },
+  {
+   "path": "modes/xiyou/battle/action_sequence.gd",
+   "change": "modified",
+   "size": 23565,
+   "sha256": "afc9592a86a917f2600a385b2df03454fb06c049d20d8d2b5283e63fd08933ca"
+  },
+  {
    "path": "modes/xiyou/core/hang_up.gd",
    "change": "modified",
    "size": 11145,
@@ -1318,8 +1330,14 @@
   {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
    "change": "modified",
-   "size": 6975,
-   "sha256": "fb40f80f5c647d0f3609ceeb522b0e3e7ecc4c068c1e6ab153b70d7642f1e942"
+   "size": 6484,
+   "sha256": "c1936bc849b6389564e75c6e4dfd4f65e1b77475c558727c3462a2d40badc75f"
+  },
+  {
+   "path": "modes/xiyou/map/map_hud.gd",
+   "change": "modified",
+   "size": 5382,
+   "sha256": "c1282b0f7cffac503ff9110d51aa3d6c6f97f8913d50c7803d113f6a7493d6ce"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -1342,8 +1360,8 @@
  ],
  "removed": [],
  "total": {
-  "files": 222,
-  "bytes": 216986524,
+  "files": 225,
+  "bytes": 217022724,
   "removed": 0
  },
  "excludes": [
