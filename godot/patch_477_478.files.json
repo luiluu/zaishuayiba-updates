@@ -1310,6 +1310,18 @@
    "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
   },
   {
+   "path": "core/feedback.gd",
+   "change": "added",
+   "size": 2026,
+   "sha256": "09bb363052f48fff519beed38621a0acbe3b3bb03229fc79ffed01b90a712897"
+  },
+  {
+   "path": "core/feedback.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "885816eb294c22722ecf09480cc3013d0b6654aafb8c76ecacf6ff16f5af8ba1"
+  },
+  {
    "path": "core/key_map.gd",
    "change": "modified",
    "size": 7744,
@@ -1320,6 +1332,48 @@
    "change": "modified",
    "size": 23565,
    "sha256": "afc9592a86a917f2600a385b2df03454fb06c049d20d8d2b5283e63fd08933ca"
+  },
+  {
+   "path": "modes/xiyou/battle/battle_logic.gd",
+   "change": "modified",
+   "size": 182532,
+   "sha256": "79109f5d13cf8f2ad0283853558eb07820653fb6d4a7af86f7c86f763d7d721a"
+  },
+  {
+   "path": "modes/xiyou/battle/battle_scene.gd",
+   "change": "modified",
+   "size": 112261,
+   "sha256": "1620b5f7c8a635bdb2ff80afc3c0167070bdd9b116001725678edb4521511d2f"
+  },
+  {
+   "path": "modes/xiyou/battle/boss_hp_bar.gd",
+   "change": "modified",
+   "size": 17978,
+   "sha256": "f5974fd31c48b30cb8319ea097306afae017f45b24c9b37a67da7a90f54f6fd4"
+  },
+  {
+   "path": "modes/xiyou/battle/damage_popup.gd",
+   "change": "modified",
+   "size": 8464,
+   "sha256": "ce2900584102165800877effcc7b88c979dc7fabb0ab903ef1d6950a2b893d82"
+  },
+  {
+   "path": "modes/xiyou/battle/side_status.gd",
+   "change": "modified",
+   "size": 15883,
+   "sha256": "a7255275182b1a454006e838beec584f66d4b15dc768550619b21798c86684c7"
+  },
+  {
+   "path": "modes/xiyou/core/encounter_target.gd",
+   "change": "added",
+   "size": 3204,
+   "sha256": "7f1dd04f1adb1a847151cb270e2e7829cb2015ffd090ed1e5464b5226ab63733"
+  },
+  {
+   "path": "modes/xiyou/core/encounter_target.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "2aa45619661e2658e06cf5bc86736b303d3841b4157af4129aaad9fc0368ba70"
   },
   {
    "path": "modes/xiyou/core/gear_query.gd",
@@ -1334,6 +1388,42 @@
    "sha256": "be4d1af8c2c7d30674ac43de0908381f7d36b43d7cb2a5590527e5397e6a1cc9"
   },
   {
+   "path": "modes/xiyou/core/vegeta_tune.gd",
+   "change": "added",
+   "size": 5142,
+   "sha256": "75e3c046d0294abdf571e767d60c89d87e54671a4a393c2e7a6a3ba217105d42"
+  },
+  {
+   "path": "modes/xiyou/core/vegeta_tune.gd.uid",
+   "change": "added",
+   "size": 18,
+   "sha256": "ad524b0586067aa836a70ea0ac2e5278934c07704123ac1190194cfad7555ba5"
+  },
+  {
+   "path": "modes/xiyou/core/xconfig.gd",
+   "change": "modified",
+   "size": 12766,
+   "sha256": "131b9929900c35682d31c422dae0c4f32c5c44ef3fbb46551a2089cc32e8c862"
+  },
+  {
+   "path": "modes/xiyou/core/xdb.gd",
+   "change": "modified",
+   "size": 7823,
+   "sha256": "0ad79d040722ecba460f63af9289378f89cbf9a2582b5b688c385cc13a2637cc"
+  },
+  {
+   "path": "modes/xiyou/core/zhenqi.gd",
+   "change": "modified",
+   "size": 55257,
+   "sha256": "ed4e8eefe97c2fcaa4543e070ad6169af3a39fa34af103da97249e239bf343f1"
+  },
+  {
+   "path": "modes/xiyou/entry.gd",
+   "change": "modified",
+   "size": 24809,
+   "sha256": "40cb9ddeffb27443f7ca3b5623a89258e7ea63df2d436278e8144fbfaf1081a3"
+  },
+  {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
    "change": "modified",
    "size": 6484,
@@ -1344,6 +1434,12 @@
    "change": "modified",
    "size": 5382,
    "sha256": "c1282b0f7cffac503ff9110d51aa3d6c6f97f8913d50c7803d113f6a7493d6ce"
+  },
+  {
+   "path": "modes/xiyou/map/map_scene.gd",
+   "change": "modified",
+   "size": 88677,
+   "sha256": "81b788c970ad8a165c78c00ae34d78619681eea39bec9d35464bb35fbf96a54d"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -1370,6 +1466,30 @@
    "sha256": "4af86c99899261945808cd1e023b62afe8d2e82aa5d9b090e75d8e6790630300"
   },
   {
+   "path": "modes/xiyou/ui/menu.gd",
+   "change": "modified",
+   "size": 23066,
+   "sha256": "747c72e65c7f359043292570036e342c45fe4a7b242ea2a60aa2c32dc9935bb0"
+  },
+  {
+   "path": "modes/xiyou/ui/options_scene.gd",
+   "change": "modified",
+   "size": 15633,
+   "sha256": "c907e197da790172031af187969431d97f65623581f9113654730789baee588c"
+  },
+  {
+   "path": "modes/xiyou/ui/update_page.gd",
+   "change": "modified",
+   "size": 16345,
+   "sha256": "4b866b71d83f3fbb16392fa8da9acb764f64870c3d1a826ac9355e91761d05c4"
+  },
+  {
+   "path": "modes/xiyou/ui/warning_screen.gd",
+   "change": "modified",
+   "size": 6077,
+   "sha256": "f05a88423ad90cd2f2b62a497e71f3164cb900874f3fff56616e2f06545b922b"
+  },
+  {
    "path": "project.godot",
    "change": "modified",
    "size": 1587,
@@ -1378,8 +1498,8 @@
  ],
  "removed": [],
  "total": {
-  "files": 228,
-  "bytes": 217116285,
+  "files": 248,
+  "bytes": 217714284,
   "removed": 0
  },
  "excludes": [
