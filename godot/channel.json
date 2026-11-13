@@ -1,41 +1,31 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.475",
-  "code": 475,
-  "date": "2026-11-12",
+  "version": "0.478",
+  "code": 478,
+  "date": "2026-11-13",
   "notes": [
-   "时空漩涡进入第二阶段后，战斗里的怪物开始被侵染：守层者身上幽紫色一明一暗，稀有、精英、首领进场时偶尔闪一下紫光（只有画面，数值不变）",
-   "安卓战斗里虚拟按键不再叠两份；新增战斗信息键，可以看敌人属性",
-   "战斗里没收进图鉴的怪物也能看属性数值（大厅图鉴照旧要打过才登记）",
-   "大厅的全图鉴 NPC 回来了（只解锁怪物图鉴）",
-   "安卓默认按键换回原版头像摇杆和 A／B 键，设置里可以换改版按键、方向键、跑步键",
-   "战斗里点屏幕默认不再选目标（设置里可以打开）",
-   "商店、背包、选技能翻动更顺，说明卡不再一格一顿；放技能后的结算和进战斗的停顿变短",
-   "大厅卖碎片的绪绪回来了；第一次进大厅看完流萤接着就是苍龙破晓",
-   "有存档时标题默认停在「旧的回忆」；当铺等出入口走上去就能进出",
-   "神话怪物不再放大；新增「画面平滑」设置，手机上默认开",
-   "设置、调整按键位置、读档等页面的背景不再露出旧画面"
+   "十二、十三层下雪时不再卡顿：雪花和地图图块合并绘制，画面不变"
   ]
  },
  "bases": {
-  "470": {
+  "477": {
    "patch": {
-    "code": 475,
-    "size": 1072564,
-    "sha256": "5488ea219f4b3b42e36cb2272d9d50bc553fe426794bc7b40f053bf9833ae58b",
+    "code": 478,
+    "size": 335528,
+    "sha256": "fe1d899ff59052adeb408db6bec6c43ace229c6dac567a171154772abdf56d64",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/9a638bc737e7a820b71b1c10a0b4e41a7de9ac31/godot/patch_470_475.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck",
-     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/ee83b5e51bfbcbab45f25e2eb35043bef2b02862/godot/patch_470_475.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/02844637c0e17fe796df84270d21cd2fcb2ac23c/godot/patch_477_478.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck",
+     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/9dca6449537767e659741cac691e567fd998f98c/godot/patch_477_478.pck"
     ]
    }
   }
  },
- "min_base": 0,
+ "min_base": 477,
  "revoked": []
 }
