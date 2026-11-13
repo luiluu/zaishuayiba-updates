@@ -1310,6 +1310,660 @@
    "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
   },
   {
+   "path": "content/sukuna/README.md",
+   "change": "added",
+   "size": 1263,
+   "sha256": "d98697af54e07879beeeae84fc2c341b9bc67fb6b6b9139471925aeaa1b41ef0"
+  },
+  {
+   "path": "content/sukuna/img/characters/$Codex_Sukuna_Walk.png",
+   "change": "added",
+   "size": 13661,
+   "sha256": "79bae46917ea3949cf703095ae747d4bb3b244e3a7bb0e1a8e372dfd5a021995"
+  },
+  {
+   "path": "content/sukuna/img/characters/$Codex_Sukuna_Walk.png.import",
+   "change": "added",
+   "size": 987,
+   "sha256": "f82a849eeb47975b8ef7b51ba57195124ed023602089bfcbf65f998326175951"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/Codex_Sukuna_SV.png",
+   "change": "added",
+   "size": 94624,
+   "sha256": "c9521b5b69edd9562253fc8984f7ccdc703e7f237325282751f9e1af80d45503"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/Codex_Sukuna_SV.png.import",
+   "change": "added",
+   "size": 977,
+   "sha256": "04c0d9e113342ff4a1e71353d008d69b425bb29f3a02a9cbd779775de14f7af5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_0.png",
+   "change": "added",
+   "size": 2661,
+   "sha256": "5db52435117da45bc2dc41ee069db5843ce4f038ffb4d818241a11b88cf05ec5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_0.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "98f3e381b70b0d0675c013e4939dcdbd09206af1f9acd94b713bf84d53dc86af"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_1.png",
+   "change": "added",
+   "size": 2536,
+   "sha256": "4f4aa916ab8848ac99b058b9c22f9e49ea000ab6c09cefa89df82b2663d5e292"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "a7a597a43e68dfeeee8eb328a551007a5bb99579135aec71cf21291eb8e56db7"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_2.png",
+   "change": "added",
+   "size": 2611,
+   "sha256": "6dc7a929c9afbc9c5b04de534b042449dd358ca1840fb67c167b4c0d6359f7c4"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull0_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "628b780b6565f930546e2ea8950ee434ea234c1ff7f3fde676181389fce7d094"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_0.png",
+   "change": "added",
+   "size": 2560,
+   "sha256": "7ba6a14823bd89e82be296d39a1f304f5ebe8883a514eccde1c9031e4f828b1c"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_0.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "24fd16198119d791d7a92affced15b951e71b86db99911cc124181d975d0f686"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_1.png",
+   "change": "added",
+   "size": 2535,
+   "sha256": "9ea871c01180171b2039448995ba4fb4b297aa46561e04d0774586a1d81157a5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_1.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "eaf74d150dbf13d8eb4d2abf65f06c0f7e747c39027fc9c3409942745f5bcf72"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_2.png",
+   "change": "added",
+   "size": 2549,
+   "sha256": "a733764838ba9e1d1cb31b4802c73dc537599b434773644a0f2015e8707bc579"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull10_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "1b60b7a6cc2e2bbb570a01738913ddd501629a1c6e30ace0b864db38c9dc53d6"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_0.png",
+   "change": "added",
+   "size": 2412,
+   "sha256": "4c7ff59555446bf79114d2b886d4d07e134b40d10268c8a66eb27389696fe270"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_0.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "6dbea40af53dbd69ba292892bc6274729e76595dcb55e479ae1d39b638327a57"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_1.png",
+   "change": "added",
+   "size": 2604,
+   "sha256": "a8495f87b2260d143feaee0e3e7af0136cd4769cbeb29ba27bd43b302242028a"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_1.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "dde575991e668d10dff4ddd3f0d0fed0edfe5d8e22f8a2ad420d855e2a4c385e"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_2.png",
+   "change": "added",
+   "size": 2476,
+   "sha256": "1649fa043a010d3c4dea750ea3132de31c438441bfcbb7a4cbd79c39ddc95c9b"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull11_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "fbd318bd243e7bd630a13a4ee237874f17ab6f652dabfa0cc0477d1fbb583953"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_0.png",
+   "change": "added",
+   "size": 2179,
+   "sha256": "8b0a34d6d4c9cf1df0d34c5eb02c99d4865fca47724289d354665946489454a2"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_0.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "750c27be9a519e5186907ab8b0fe52d166910854dbb69634dcc067b0b020d319"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_1.png",
+   "change": "added",
+   "size": 2128,
+   "sha256": "dd3b77c3b4d5345eb487475ea604814b5e31e1ad7589cf52da4ce77e789833f1"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_1.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "c1e21fd14f57cf57a165c0e3e1163edaca4feb9ba95b1f074580dd2ddd105b5d"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_2.png",
+   "change": "added",
+   "size": 2281,
+   "sha256": "1f1b1e9c6ef5edc3872b10179b91f0ff486d1f7440e823d940300957e8d1e840"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull12_2.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "51d10bbe6975f106af6e26a68f972a052d28ae83cecae80c74d094d265533146"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_0.png",
+   "change": "added",
+   "size": 2669,
+   "sha256": "a346df36d80ed0198fbb5d6c499f43bfaf28201e1f0b0010aa56d1d18b700a5c"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_0.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "9f049112dd28cca3d7adaaf7a2522658db99bd328b3f4a1c17d917fd7f6b900d"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_1.png",
+   "change": "added",
+   "size": 2632,
+   "sha256": "7f1d6c55bf562347ae2187c44c2866ec00a7a1cdf6778f74a84cb57479866f0a"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_1.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "cea8235673dc597e738929ce9deee43e37081030fc526b924ed1ab4957655415"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_2.png",
+   "change": "added",
+   "size": 2590,
+   "sha256": "60530edc43845bd716eb6af5a7390bfe3fb05cfd00d4b79428e2974593fdc4dd"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull13_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "5ce07a065fb78b9bb10550a53ecc40a92dab5bec871dd6f90f2aaa6ac80df349"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_0.png",
+   "change": "added",
+   "size": 2573,
+   "sha256": "bf3f810f86d8e358936df97a3a38463e5b243207df4ce86ab3ebf5c5474609de"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_0.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "51d5a49e582b87e955043ca6bf57b574e85b3e0eb907a73bbcb687eba7d7a96b"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_1.png",
+   "change": "added",
+   "size": 2659,
+   "sha256": "12f3f3fcc7d8024d5c1f90fa622c34d35bdbddd0861a8ebb24f15d94517a15d8"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_1.png.import",
+   "change": "added",
+   "size": 1020,
+   "sha256": "53248ed4df3b18ad78bdfa7427f7a1ff779e9183faa0fc40fb2bfc136220f695"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_2.png",
+   "change": "added",
+   "size": 2536,
+   "sha256": "932702be1eb81a55e59eb63ac1ce751db24e8715e4ccff898e2add60c6dcfea3"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull14_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "fec47dab9ec261e03dd9c51e02e128bdcae69210ebf88f79f9bb1cd525525b37"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_0.png",
+   "change": "added",
+   "size": 2453,
+   "sha256": "8b6fbae600f875723df7737121e1931f83d8b57170e1da261dcee0dc5ac3c28d"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_0.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "683249796e986164faaab4ddb728e10d927fa5e6394e6d8d436d370080726a5f"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_1.png",
+   "change": "added",
+   "size": 2444,
+   "sha256": "19dbc6938e450d0deaf15fed47e7cb8960b47fa7d3b4ec3bcdde0d69ac299c7f"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_1.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "7b136bca1bffbe11d514af1c52f5f32f9984b1459713cfc59cda4bcdc56456bd"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_2.png",
+   "change": "added",
+   "size": 2463,
+   "sha256": "c8e2fc01190ac6ccb9133a6dabe2026ef79fb4eb9e92a9dd83870eb479458ff1"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull15_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "47737c540fc8feb11c296834e8ab64e72cda0a219e9ca41e0127b935455a67e4"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_0.png",
+   "change": "added",
+   "size": 1945,
+   "sha256": "b9b7612bf7a5c16da41f9a753ff4827645a3f376792355091b25e711669ee196"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_0.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "db4027277abcbe4c1919e2f61497616e3bb6b135b0bebc2d50622efd535589e0"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_1.png",
+   "change": "added",
+   "size": 1946,
+   "sha256": "4ed059a3ad8ea43808ad600ebace9e4d73f0528a203d36a80106f28aef860238"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_1.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "16d8deb1de05a4e816c92d39bae1902709dfaf3f0d048e091e11d5502a09059f"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_2.png",
+   "change": "added",
+   "size": 1881,
+   "sha256": "d4acf767ba2ccae8c7fe7040fe12153e9fa379046570699b95c1bcdf399b296e"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull16_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "7415eb0fb1cd096db12baea14b2b7825ea530623aea091eb61140e68a8ae9d58"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_0.png",
+   "change": "added",
+   "size": 2098,
+   "sha256": "4532a501384460270670cf12b43ca940175f9c86a15e023cb8799f2160450285"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_0.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "340b27f863c5d20cc0fcd68378e9742db80f4ca7fa4fcf1bd64a6d50dfcfc9fe"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_1.png",
+   "change": "added",
+   "size": 2067,
+   "sha256": "436b23e785dba1cb6606594d7f0b04ff7e9542d37000c2a61c6d2b2d526c55fb"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_1.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "2a1de6bdcc887b2c6010254e115060f852395b27cc25cc1bd08b8aed73fdfa49"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_2.png",
+   "change": "added",
+   "size": 2106,
+   "sha256": "b42f2f2013eda933e51957f920a72df482f7b43783926ae8aef63ddbbf516982"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull17_2.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "6621af1fb6b77580cd0933aa3a95d8c3ad0f4469eee4403cab771d70604fa169"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull1_0.png",
+   "change": "added",
+   "size": 2042,
+   "sha256": "14726c748e4749088cf4c3085fb8c4dfd65c49c2bbb391614dba5904de31cddc"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull1_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "fd7fed82ddecc2b37c72b0403a0753f43c30e039df181f2e1e15463b353cbf5d"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_0.png",
+   "change": "added",
+   "size": 2891,
+   "sha256": "26bc52c6fd1e4e4a9627515b704f504f2f80a3e76125113fa36ee23a0336dd11"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "ec436b087bcc11495973c6b955831c82131066c614e0583d88e6cecd4b0f7cff"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_1.png",
+   "change": "added",
+   "size": 2948,
+   "sha256": "636e860931e55f3bedd347db4a0122d715d433a3b65160734b77af65801d5497"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "8d2549c5a2380f85acc9fed335e9c6bea6f56d3c6154cf401084077ebee9d899"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_2.png",
+   "change": "added",
+   "size": 2709,
+   "sha256": "9db8b1113484f5adddca469d2ff900694b1fd2ac6a9fdf8e1b3235040d485bd8"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull2_2.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "83d1182312b844e0c2023dfbbd70c924c298d6565dcdac64a470193468278e81"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_0.png",
+   "change": "added",
+   "size": 2760,
+   "sha256": "e82b96c0d2792ad22b12a445d488662bbb3f87f1dd974c059ffcbb34ab8029fd"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "dd5830c4b45cb6b296bc01aa10bd0435fcdf90dda526a65033872d0707778f89"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_1.png",
+   "change": "added",
+   "size": 2750,
+   "sha256": "3b3dd8e328db8a1939b86d5f0af98119f72bfdf1f3e800c8028fade16011a9b5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "2148d27b19b6c3d099b40a8bd81c1d81f8d740665736aded56fa2a3768720611"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_2.png",
+   "change": "added",
+   "size": 2782,
+   "sha256": "92636e32bed74422fe00bfbc2343d427b54b890b4753e63bee41476719c94c9f"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull3_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "7be94485afbb05566b3f5b9c9bda68b00f532b608c2785b671cdda7ef4b5227e"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_0.png",
+   "change": "added",
+   "size": 2738,
+   "sha256": "1a4bd1b9666680205ad54949a3919955f0c134b92cf8595760890c32ccb60e62"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_0.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "badfa683db11193127ac3ab6c41ad1268384e7f9d9b2c8b92d0221cdd8922d41"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_1.png",
+   "change": "added",
+   "size": 2588,
+   "sha256": "454231fb22d9e3fe05bc7d84b8e7509a0f7c1a24202c4e1ab7b60cbbc2cfdc3c"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "9db705eb51d1863f9e5bdeb7ac5dcc0127cc902941bd67693b6f620b378ab130"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_2.png",
+   "change": "added",
+   "size": 2625,
+   "sha256": "adacc91fbbce4aa14e40e664a8a1e4a36a187e9e02176978bec1860252ed3275"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull4_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "f0cf37790def9e0a52486dc5a01f733c762b3be4fcdde05f800a16f270279ab2"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_0.png",
+   "change": "added",
+   "size": 2236,
+   "sha256": "ece458d991113fe81719a820265f0edbdadffc160cf9d40f54796c5e996f9c84"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "3c2ae604a592d5e7d1a5dbb597b4069b9cad8442ffe029410019c0c4aad49082"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_1.png",
+   "change": "added",
+   "size": 2244,
+   "sha256": "7b8a2c6da975db921ae68baea9fafbe02ef5c9415d0b39d69b35ede937ea22d8"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "5e3b0531335b3a86336e523dc1db2395cb920c3df91e3b1d353ead02acb27f88"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_2.png",
+   "change": "added",
+   "size": 2207,
+   "sha256": "e5cdef8fb756702fac32aca1d147153dee9acb5d43721707e2a55a9fa5a8d411"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull5_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "84740a24ce8b8dba81c46806907c85ab851e102737c1b0416c3d55ac78015f0b"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_0.png",
+   "change": "added",
+   "size": 2594,
+   "sha256": "4893511387f955a1ef02d95353b0c37283c802b44a532199f66419ebc9cae6b1"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "41f18704e01e1349b0db67495c2c124de18203a87aced8b076c9805a86a0b772"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_1.png",
+   "change": "added",
+   "size": 2589,
+   "sha256": "a2a0efa759c0ef919671c467791533f82b076ba9aaddc1f055f530e301346c2c"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "5d380e467d878ee5429c4e16a96b8d6fc93212607d880cb1ab1f775da69f08ed"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_2.png",
+   "change": "added",
+   "size": 2661,
+   "sha256": "8abb8bae56c87452bcf72139a6f9ef5750efc29f427676b0a98e0d57c3471efe"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull6_2.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "2549a667e9b7079e7834bf16b4377aa62c1f61513c82ceb3229d1618fc067198"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_0.png",
+   "change": "added",
+   "size": 2639,
+   "sha256": "5133f956c4721e1da187d94c371913554e5ac94c0bc1cb0f3266c5e37626db68"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "9f806344d9f75a06ccd613b4d339bb9b1e3a8b568cebb880de687d0363504dbe"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_1.png",
+   "change": "added",
+   "size": 2635,
+   "sha256": "cad73a3fb3f1e2466aaac313ccd2dd35b350b64c8cd9f6b2d606fa79c0899ebf"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "6016b66bf002b72063b8134a85057d10b794c63d44ade1cfe6af111547b43ca8"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_2.png",
+   "change": "added",
+   "size": 2607,
+   "sha256": "67530cf25c665138fbcfc8fe54afc23ebae64a62295260ea8f410669e8bd35b5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull7_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "ec76da99154cad417e030fb1cc9533e3928c3cf392dcff12b5bc80e1df298d54"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_0.png",
+   "change": "added",
+   "size": 2560,
+   "sha256": "382685541ad9c5c668e2025fd17a4a04285fd8195cce3519379b383032469920"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_0.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "76762e83c4d2be804afd2dd97d95a6f18bbd980da3a8eef999af332af527c530"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_1.png",
+   "change": "added",
+   "size": 2580,
+   "sha256": "fb4c5e78f18249d58e78184db566cedb94dcf16666a1f728422004d2d484e8e5"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "7b27c442200390cc7b19b631aede863a12d7b50563e791c6b70132d76350d41d"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_2.png",
+   "change": "added",
+   "size": 2537,
+   "sha256": "c39d793b5d77116309fecd8a949316085ec25d600a68737d7a2f590bde498f85"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull8_2.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "9026a6ed1f587515c08f8b8f6f613884aedc55c1fc7402074de6054791928215"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_0.png",
+   "change": "added",
+   "size": 2557,
+   "sha256": "f7af0ac36eea70de10f2cb0b7de747ea1e6e27adab9c754341af626040a0a011"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_0.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "a305706851c12d75fc4a155be9b4700b6d027de6da26628eabb9474cab30f27b"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_1.png",
+   "change": "added",
+   "size": 2603,
+   "sha256": "f7dcfefcb453d6f335695cb5a1b9c708165c889137d5b8dba86e21601fb9ae7b"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_1.png.import",
+   "change": "added",
+   "size": 1018,
+   "sha256": "6c4d51b2769ad073b7dd2143093f16ca5aaf1cc3b71853191a56151bc0968eb1"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_2.png",
+   "change": "added",
+   "size": 2587,
+   "sha256": "4c72c902888d985cc0265de5e682a5063e4b43c0f82b3d9a87080b122f4441dd"
+  },
+  {
+   "path": "content/sukuna/img/sv_actors/sv/Codex_Sukuna_QFull/Codex_Sukuna_QFull9_2.png.import",
+   "change": "added",
+   "size": 1017,
+   "sha256": "1b50bcb917dc224d7f0d7ee039de687189bef8b90cc27b1f935d1a50a4b9d00d"
+  },
+  {
    "path": "core/feedback.gd",
    "change": "added",
    "size": 2026,
@@ -1326,6 +1980,12 @@
    "change": "modified",
    "size": 7744,
    "sha256": "3954c042830df0f7f20c55ded7fb1048663d55e2346cf07307e5600bfdd1f041"
+  },
+  {
+   "path": "core/screen_scale.gd",
+   "change": "modified",
+   "size": 4071,
+   "sha256": "7e6737fc937ef44652f6f9791071c5e8618ebbe0293307244c9400519689e7e8"
   },
   {
    "path": "modes/xiyou/battle/action_sequence.gd",
@@ -1346,6 +2006,12 @@
    "sha256": "1620b5f7c8a635bdb2ff80afc3c0167070bdd9b116001725678edb4521511d2f"
   },
   {
+   "path": "modes/xiyou/battle/battler_sprite.gd",
+   "change": "modified",
+   "size": 37439,
+   "sha256": "d347adf1a002c330ebd56ab8e5961b472a9a1d63dc2e2f404dfe1dae63b22e3c"
+  },
+  {
    "path": "modes/xiyou/battle/boss_hp_bar.gd",
    "change": "modified",
    "size": 17978,
@@ -1360,8 +2026,26 @@
   {
    "path": "modes/xiyou/battle/side_status.gd",
    "change": "modified",
-   "size": 15883,
-   "sha256": "a7255275182b1a454006e838beec584f66d4b15dc768550619b21798c86684c7"
+   "size": 16981,
+   "sha256": "4bdc08988c9b7aa3a50a5147bc518fcb506f1ae1dce842b7a85e9435f4a483f6"
+  },
+  {
+   "path": "modes/xiyou/core/actor.gd",
+   "change": "modified",
+   "size": 61385,
+   "sha256": "6637b598ddc3f27ef4ebddb64e57e54fdcb0b622ccbf05d3da636e5fa8fb5a77"
+  },
+  {
+   "path": "modes/xiyou/core/appearance.gd",
+   "change": "modified",
+   "size": 24317,
+   "sha256": "8f6a96820fa1dcad72aa95e884a60268d958ff039218dca95e1547c0c9696429"
+  },
+  {
+   "path": "modes/xiyou/core/battler.gd",
+   "change": "modified",
+   "size": 43075,
+   "sha256": "de56f02f07d54ede58f243b1c67c78df155cfa3267f99154199fb285a4b3ef3c"
   },
   {
    "path": "modes/xiyou/core/encounter_target.gd",
@@ -1382,10 +2066,34 @@
    "sha256": "c197577d3b27dfd4561a8abc8c03ed6593eb1f395788b06876473ffc292fafc4"
   },
   {
+   "path": "modes/xiyou/core/graphics_quality.gd",
+   "change": "added",
+   "size": 8629,
+   "sha256": "45740a0f13c449bc8b21186a31d5f27c0299b79e444f8e665d1ee061b7917477"
+  },
+  {
+   "path": "modes/xiyou/core/graphics_quality.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "c8b98f4ea218a8ef39ac04a0dcd450ce4a344a16a4d9ac8340aaa556257ec88c"
+  },
+  {
    "path": "modes/xiyou/core/hang_up.gd",
    "change": "modified",
    "size": 11145,
    "sha256": "be4d1af8c2c7d30674ac43de0908381f7d36b43d7cb2a5590527e5397e6a1cc9"
+  },
+  {
+   "path": "modes/xiyou/core/rift_alien.gd",
+   "change": "modified",
+   "size": 23062,
+   "sha256": "da85b16528b36048f871be6c36d2eb2c7b561438bc2ee7e135f13c4b497b00ee"
+  },
+  {
+   "path": "modes/xiyou/core/sukuna.gd",
+   "change": "modified",
+   "size": 23838,
+   "sha256": "e0ed7de58aa6684f92eb5bab2f3108d091a42b9393d192b0a98c77d149855e4d"
   },
   {
    "path": "modes/xiyou/core/vegeta_tune.gd",
@@ -1402,14 +2110,14 @@
   {
    "path": "modes/xiyou/core/xconfig.gd",
    "change": "modified",
-   "size": 12766,
-   "sha256": "131b9929900c35682d31c422dae0c4f32c5c44ef3fbb46551a2089cc32e8c862"
+   "size": 14068,
+   "sha256": "bddc3835a4a960bd54476426671ac6e37998a5d35e2208b9f9bd8096bf711ca2"
   },
   {
    "path": "modes/xiyou/core/xdb.gd",
    "change": "modified",
-   "size": 7823,
-   "sha256": "0ad79d040722ecba460f63af9289378f89cbf9a2582b5b688c385cc13a2637cc"
+   "size": 8149,
+   "sha256": "ef44b9cf195fc9e27d9d321b12e0a15d6e61b48a6f2ef3a6fd8ebaccaf3d4b96"
   },
   {
    "path": "modes/xiyou/core/zhenqi.gd",
@@ -1420,14 +2128,20 @@
   {
    "path": "modes/xiyou/entry.gd",
    "change": "modified",
-   "size": 24809,
-   "sha256": "40cb9ddeffb27443f7ca3b5623a89258e7ea63df2d436278e8144fbfaf1081a3"
+   "size": 24941,
+   "sha256": "9f8275b682a302682b57e93a56d9b15f11027c5b04f8e2326c7f4ce45a24b308"
   },
   {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
    "change": "modified",
    "size": 6484,
    "sha256": "c1936bc849b6389564e75c6e4dfd4f65e1b77475c558727c3462a2d40badc75f"
+  },
+  {
+   "path": "modes/xiyou/map/lobby_corruption.gd",
+   "change": "modified",
+   "size": 23348,
+   "sha256": "90083c6b5ba2bd8dabd93acc70b05a2ffd2a07dcbb1fb853d3362f203cee2e94"
   },
   {
    "path": "modes/xiyou/map/map_hud.gd",
@@ -1438,8 +2152,14 @@
   {
    "path": "modes/xiyou/map/map_scene.gd",
    "change": "modified",
-   "size": 88677,
-   "sha256": "81b788c970ad8a165c78c00ae34d78619681eea39bec9d35464bb35fbf96a54d"
+   "size": 88816,
+   "sha256": "d7094476903ff7024a4b0c669dd6f0fb2f47c1018f935033ab8235b9618a258c"
+  },
+  {
+   "path": "modes/xiyou/map/mv_character.gd",
+   "change": "modified",
+   "size": 26157,
+   "sha256": "1d22c7088c4b62f2a19cd29048ad9ead04da71be17bab07fd17efbb314a84e1b"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -1452,6 +2172,42 @@
    "change": "modified",
    "size": 6435,
    "sha256": "de7acb62fae33dc5f0c0542aa941f520f4063433a50779f035ab9c8953c30fcc"
+  },
+  {
+   "path": "modes/xiyou/ui/actor_advanced.gd",
+   "change": "modified",
+   "size": 19699,
+   "sha256": "b56030a217f2b028753b6373443655f7d9c815cf1e7001af427587710a5875dc"
+  },
+  {
+   "path": "modes/xiyou/ui/actor_book.gd",
+   "change": "modified",
+   "size": 32721,
+   "sha256": "116da53c24018d7c437005114737db43735e1f449cb180b72a067ccf6df67967"
+  },
+  {
+   "path": "modes/xiyou/ui/font_scale.gd",
+   "change": "added",
+   "size": 2334,
+   "sha256": "3e7115c98488e7b28d8a550225d8fd1ae68de3a443b48bcf252058972ad22e1a"
+  },
+  {
+   "path": "modes/xiyou/ui/font_scale.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "c699a4e63e63ebc36024939da301399e9b598332d64a8e6cb55360367f63a700"
+  },
+  {
+   "path": "modes/xiyou/ui/graphics_options.gd",
+   "change": "added",
+   "size": 7387,
+   "sha256": "c14511f7dc4c886cc91a7b4c089c7000c0c044d40747ca684af26047c8e709d2"
+  },
+  {
+   "path": "modes/xiyou/ui/graphics_options.gd.uid",
+   "change": "added",
+   "size": 18,
+   "sha256": "96eb20dc8a54ffa2a35f8d60f58a9b03db6547a82500af958be9090405ef229e"
   },
   {
    "path": "modes/xiyou/ui/item_scene.gd",
@@ -1472,10 +2228,28 @@
    "sha256": "747c72e65c7f359043292570036e342c45fe4a7b242ea2a60aa2c32dc9935bb0"
   },
   {
+   "path": "modes/xiyou/ui/mv_canvas.gd",
+   "change": "modified",
+   "size": 10517,
+   "sha256": "4eb84cd406f0c0e8613e3f0f6bab3c44df3f63b2d04966b43e48448747d4f2df"
+  },
+  {
+   "path": "modes/xiyou/ui/mv_text.gd",
+   "change": "modified",
+   "size": 7265,
+   "sha256": "6b803903a1dab4f8cc9f4a31ff4d03bf36e49f886494bba4667d4db8ec6eca33"
+  },
+  {
    "path": "modes/xiyou/ui/options_scene.gd",
    "change": "modified",
-   "size": 15633,
-   "sha256": "c907e197da790172031af187969431d97f65623581f9113654730789baee588c"
+   "size": 16194,
+   "sha256": "5525b4099d888e89a9c8db5265d8fa961426d1735524dbe2330fb6abe02cb936"
+  },
+  {
+   "path": "modes/xiyou/ui/toast.gd",
+   "change": "modified",
+   "size": 5946,
+   "sha256": "8f56e4d36c6b2f574ec77b687e079d91fed0c61742b2f52f89e9525fc7cb91e1"
   },
   {
    "path": "modes/xiyou/ui/update_page.gd",
@@ -1490,16 +2264,22 @@
    "sha256": "f05a88423ad90cd2f2b62a497e71f3164cb900874f3fff56616e2f06545b922b"
   },
   {
+   "path": "modes/xiyou/ui/xui.gd",
+   "change": "modified",
+   "size": 12080,
+   "sha256": "e179a72693c3599245e3331bfab9bdb25623538864039fc59fe76759d1c1d09c"
+  },
+  {
    "path": "project.godot",
    "change": "modified",
-   "size": 1587,
-   "sha256": "0a04cb5284c7fdad4e6c5845079de4b354142bfc6b6a2dbaca4fed4781f466b8"
+   "size": 1616,
+   "sha256": "7cda7f43c2a6cb4a7bb5a78e6c0aaf7d5468c7b4a195183445728e1ffb9597a3"
   }
  ],
  "removed": [],
  "total": {
-  "files": 248,
-  "bytes": 217714284,
+  "files": 378,
+  "bytes": 218384966,
   "removed": 0
  },
  "excludes": [
