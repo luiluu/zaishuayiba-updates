@@ -1322,6 +1322,12 @@
    "sha256": "afc9592a86a917f2600a385b2df03454fb06c049d20d8d2b5283e63fd08933ca"
   },
   {
+   "path": "modes/xiyou/core/gear_query.gd",
+   "change": "modified",
+   "size": 13529,
+   "sha256": "c197577d3b27dfd4561a8abc8c03ed6593eb1f395788b06876473ffc292fafc4"
+  },
+  {
    "path": "modes/xiyou/core/hang_up.gd",
    "change": "modified",
    "size": 11145,
@@ -1352,6 +1358,12 @@
    "sha256": "de7acb62fae33dc5f0c0542aa941f520f4063433a50779f035ab9c8953c30fcc"
   },
   {
+   "path": "modes/xiyou/ui/item_scene.gd",
+   "change": "modified",
+   "size": 57285,
+   "sha256": "c31bdc0a75ed1a172c589c5848e4ae1b158cb1a836cde8653d860d21bd566e0a"
+  },
+  {
    "path": "modes/xiyou/ui/map_transfer.gd",
    "change": "modified",
    "size": 22747,
@@ -1366,8 +1378,8 @@
  ],
  "removed": [],
  "total": {
-  "files": 226,
-  "bytes": 217045471,
+  "files": 228,
+  "bytes": 217116285,
   "removed": 0
  },
  "excludes": [
