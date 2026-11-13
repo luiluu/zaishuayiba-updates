@@ -1316,6 +1316,114 @@
    "sha256": "d98697af54e07879beeeae84fc2c341b9bc67fb6b6b9139471925aeaa1b41ef0"
   },
   {
+   "path": "content/sukuna/art_optional/sukuna_divine_flame_atlas.png",
+   "change": "added",
+   "size": 132999,
+   "sha256": "6f0921b248582dc6f790c58a59dda208878ef5a1fa0aebf8dea10ff0e83d5108"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_divine_flame_atlas.png.import",
+   "change": "added",
+   "size": 1007,
+   "sha256": "e8006a60bb131ddfb6d30c3625c8cfee4b9e0543a5387d721b1f83bde72b925f"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_divine_flame_frames.tres",
+   "change": "added",
+   "size": 3077,
+   "sha256": "82039cedd4d8c5796e58319b13d9c032fe497681d62059c1a380aaf4581f4d3a"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_malevolent_shrine_atlas.png",
+   "change": "added",
+   "size": 403787,
+   "sha256": "fd93340c4c0070f1e710d6e44c4b32f1beb67620328cd4e5a750f12d76c0bf55"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_malevolent_shrine_atlas.png.import",
+   "change": "added",
+   "size": 1021,
+   "sha256": "cba9ea1bcee7f6e0cd08addf0eb6b9646275f42098a4645756a1f60b3c752387"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_malevolent_shrine_background.png",
+   "change": "added",
+   "size": 775148,
+   "sha256": "d754eed4a9accdc54c8068c1b7d2e96764190697895d1267a635d921a01303b8"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_malevolent_shrine_background.png.import",
+   "change": "added",
+   "size": 1037,
+   "sha256": "edf187d17e73e7536b022a763aa40b7df00903eefc5e232df3561583a75f7caf"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_malevolent_shrine_frames.tres",
+   "change": "added",
+   "size": 3082,
+   "sha256": "204e0fdc32e8a608d4cab9ab459fce57386436d0ba84b9b3a52688c67b053c89"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_adaptation.png",
+   "change": "added",
+   "size": 2254,
+   "sha256": "f02f80eb022d1f53e0659db8bb0f7a9cbcb9df013aaaed6c2d4d998d01d0aa30"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_adaptation.png.import",
+   "change": "added",
+   "size": 1001,
+   "sha256": "a13be4eb35e436de523e751130cfdeb2e423a09bf4572a51322915aafb9e93d2"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_awake.png",
+   "change": "added",
+   "size": 1182,
+   "sha256": "8e6b2bb7d0cf65bdcaf746efdcd50313df9e86bdf8b8d9d30b11c64ed4cd4d74"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_awake.png.import",
+   "change": "added",
+   "size": 986,
+   "sha256": "6dc8358464092831efe8418deae610da845efe08d0d1659411b0f911b56fae57"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_domain.png",
+   "change": "added",
+   "size": 1856,
+   "sha256": "535b6c246488c115f095d30c5dbde80388d582ed80355f83f3a28b71545f3165"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_domain.png.import",
+   "change": "added",
+   "size": 989,
+   "sha256": "1304fb3fb67dc2b62ed6171e14568bec5da2a44c044674b0332a731f7f7adaaa"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_read.png",
+   "change": "added",
+   "size": 1003,
+   "sha256": "63df5a5fcb07c48c064b20c452197aa57d50fd335cb7b87a856fb2d43657fb93"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_read.png.import",
+   "change": "added",
+   "size": 983,
+   "sha256": "2bbdee5cd0a71b699f49c8ccb586d088a69d182e358dd6a35ec4844b12a617e8"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_wound.png",
+   "change": "added",
+   "size": 1497,
+   "sha256": "4395e083c94e06788f7d9523e2437698e17dcaa56dd19c2becb673d53c649205"
+  },
+  {
+   "path": "content/sukuna/art_optional/sukuna_state_wound.png.import",
+   "change": "added",
+   "size": 985,
+   "sha256": "70c7f24d09bd2a789c2ce37f51c1900a48b606c98841553884c0b75677cad8b4"
+  },
+  {
    "path": "content/sukuna/img/characters/$Codex_Sukuna_Walk.png",
    "change": "added",
    "size": 13661,
@@ -2002,8 +2110,8 @@
   {
    "path": "modes/xiyou/battle/battle_scene.gd",
    "change": "modified",
-   "size": 112261,
-   "sha256": "1620b5f7c8a635bdb2ff80afc3c0167070bdd9b116001725678edb4521511d2f"
+   "size": 114424,
+   "sha256": "1c3f93265435b585d124f2b9cd0ead77748189c8e60c8a2201a5c5d2fae59762"
   },
   {
    "path": "modes/xiyou/battle/battler_sprite.gd",
@@ -2028,6 +2136,18 @@
    "change": "modified",
    "size": 16981,
    "sha256": "4bdc08988c9b7aa3a50a5147bc518fcb506f1ae1dce842b7a85e9435f4a483f6"
+  },
+  {
+   "path": "modes/xiyou/battle/sukuna_fx.gd",
+   "change": "added",
+   "size": 4212,
+   "sha256": "301ab005649bef48bdafcc725e8449758d907e8b78ae139c27efaaee9235ef27"
+  },
+  {
+   "path": "modes/xiyou/battle/sukuna_fx.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "4754c55ac8e8f2957bf85ed99734ccde762b154ba43c3fd27e72fd9185232910"
   },
   {
    "path": "modes/xiyou/core/actor.gd",
@@ -2092,8 +2212,8 @@
   {
    "path": "modes/xiyou/core/sukuna.gd",
    "change": "modified",
-   "size": 23838,
-   "sha256": "e0ed7de58aa6684f92eb5bab2f3108d091a42b9393d192b0a98c77d149855e4d"
+   "size": 23934,
+   "sha256": "91f0d1db167877c327d068d3e307dc51b38635528165ef65cb547054e87dc531"
   },
   {
    "path": "modes/xiyou/core/vegeta_tune.gd",
@@ -2116,8 +2236,8 @@
   {
    "path": "modes/xiyou/core/xdb.gd",
    "change": "modified",
-   "size": 8149,
-   "sha256": "ef44b9cf195fc9e27d9d321b12e0a15d6e61b48a6f2ef3a6fd8ebaccaf3d4b96"
+   "size": 8320,
+   "sha256": "8bfde3ad35b64cf419c3f44cdfabfcaaa9adb5b828256996839ed92efdb0e224"
   },
   {
    "path": "modes/xiyou/core/zhenqi.gd",
@@ -2266,8 +2386,8 @@
   {
    "path": "modes/xiyou/ui/xui.gd",
    "change": "modified",
-   "size": 12080,
-   "sha256": "e179a72693c3599245e3331bfab9bdb25623538864039fc59fe76759d1c1d09c"
+   "size": 12207,
+   "sha256": "b54d47021db8b81df08c6182e43926fdf40b518df68c0ecd69951fab3adedf8a"
   },
   {
    "path": "project.godot",
@@ -2278,8 +2398,8 @@
  ],
  "removed": [],
  "total": {
-  "files": 378,
-  "bytes": 218384966,
+  "files": 398,
+  "bytes": 219725649,
   "removed": 0
  },
  "excludes": [
