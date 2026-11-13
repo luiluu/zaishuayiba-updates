@@ -6,7 +6,7 @@
   "date": "2026-11-13",
   "notes": [
    "贝吉特优化调整",
-   "宿傩换上新美术：行走图、战斗图和完全体",
+   "宿傩换上新美术和新特效：行走图、战斗图、完全体，伏魔御厨子展开与领域背景、神灶：开",
    "设置里新增「画质设置」页：整数倍缩放、帧率上限、窗口大小、省电模式、像素柔边、顺滑移动，还能调字体大小和弹窗字号",
    "战斗更流畅：出招前的停顿变短，行动之间、胜利结算不再卡顿，超大数字显示正常",
    "十二、十三层下雪时不再卡顿",
@@ -23,16 +23,16 @@
   "477": {
    "patch": {
     "code": 478,
-    "size": 1166248,
-    "sha256": "5f4d99db340c645ef47724a6e960d6a5e55753e57bde1a3c84a3ed9464eb6d83",
+    "size": 2291480,
+    "sha256": "7a8ef0c59bf8f8c86494f50a3bdf275cddd66315410c122cc2dfdfaed3bf4e2a",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/ac68835e114c3aa6d29c9c2e71da40df17d45980/godot/patch_477_478.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck",
-     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bec5438f65eba56df5125b554ccb201a973d76ed/godot/patch_477_478.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/8e0bdcc9ad2435eae66e8e6c0defd7b66e7620dc/godot/patch_477_478.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck",
+     "https://rawcdn.githack.com/luiluu/zaishuayiba-updates/e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/e62c78dd2bbe3144d02fd083ca41eb539b6c1e3e/godot/patch_477_478.pck"
     ]
    }
   }
