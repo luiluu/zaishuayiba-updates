@@ -1310,6 +1310,12 @@
    "sha256": "0db0aadb922d6d69d03075bc6857bc13c5ff198ec7bcc1bf95c22c186121d4a0"
   },
   {
+   "path": "modes/xiyou/core/hang_up.gd",
+   "change": "modified",
+   "size": 11143,
+   "sha256": "1899289e39020549b43419cdce5f71d37619f0cbe2053ee8ae209a6f25a54495"
+  },
+  {
    "path": "modes/xiyou/map/mv_tilemap.gd",
    "change": "modified",
    "size": 18461,
@@ -1330,8 +1336,8 @@
  ],
  "removed": [],
  "total": {
-  "files": 220,
-  "bytes": 216968404,
+  "files": 221,
+  "bytes": 216979547,
   "removed": 0
  },
  "excludes": [
