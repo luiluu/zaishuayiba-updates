@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.479",
- "code": 479,
+ "version": "0.480",
+ "code": 480,
  "base_code": 477,
  "min_base": 477,
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "files": [
   {
    "path": "addons/xiyou_export/android/xiyou_bgidle.aar",
@@ -17,19 +17,19 @@
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/checksums/checksums.lock",
    "change": "added",
    "size": 17,
-   "sha256": "78110e275ad08ed3b2c4d697f2d9a2a0e4c0f933cb4c0270b9be9a6fd116e744"
+   "sha256": "76cc23b79d2a4ad4eb6b76666ff593c28afff2fb34013cc5e5fe4890e146e3c1"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/executionHistory/executionHistory.bin",
    "change": "added",
-   "size": 104320,
-   "sha256": "b788fbebf5a0587040270d5a040127ee9bebe5e5807241bbc4c3b43e820524dd"
+   "size": 100579,
+   "sha256": "c3d3e38e6393469ef78dfd1f262fb624b415134837a779bf5dc0591827d5faa5"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/executionHistory/executionHistory.lock",
    "change": "added",
    "size": 17,
-   "sha256": "a275eda222a2029f9494003c6192373722572cb80c32e4a1cc6f8c0fc52d0beb"
+   "sha256": "2a8254ccbf98f969ba87c24518ed956d89361ccdd66203e37f31cecd808c6230"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileChanges/last-build.bin",
@@ -41,13 +41,13 @@
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/fileHashes.bin",
    "change": "added",
    "size": 24697,
-   "sha256": "5e56b6684aa4a720fbc573ba8046ace97269fb941c3b0ebd6aa6d4e9507cc225"
+   "sha256": "f3465004e40624041013f966ac52aaa3da6b56ad08a844aaa7ecab29e225810b"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/fileHashes.lock",
    "change": "added",
    "size": 17,
-   "sha256": "328d1efe1374f83efcaafa25266f6c5555fa1bfb657b58e6631307aec4b7b4c1"
+   "sha256": "fd8e3f73b3248de85d58e7393fdb487fdbbe61dc46de1b6cb343d0c6ddc3b832"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/8.11.1/fileHashes/resourceHashesCache.bin",
@@ -65,25 +65,25 @@
    "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/buildOutputCleanup.lock",
    "change": "added",
    "size": 17,
-   "sha256": "39fb544caddeb26bd1a27386b538f1e2613c9a0ff265276e7814fedf90e7c157"
+   "sha256": "c5739fbf77727c09d286f92e8846d2d51718112f5ad64fd09983206027f748ef"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/cache.properties",
    "change": "added",
    "size": 52,
-   "sha256": "6ac8f7afd0090d279c97ab185fb8d838cc72b2b509af39f361e52102e6fb835a"
+   "sha256": "c752306a234c837c852959d8d3db52b14b44d7c1346f3f453a7d40c1f088a84f"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/buildOutputCleanup/outputFiles.bin",
    "change": "added",
-   "size": 21017,
-   "sha256": "a11b50875d57dda7786287b1611431c07f5da6e801d703e3dff2cd1dfb69b0b9"
+   "size": 20999,
+   "sha256": "395c5c6df5fbd3065bae5a918e65181d592d863c54f36e1e142d71653498971e"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/file-system.probe",
    "change": "added",
    "size": 8,
-   "sha256": "320a761785dda13d6fd99c11f7d42400a751fc7fce9ef0b8ba70e46f1b606643"
+   "sha256": "a6fac8956508260e4e7cb071358ffb0b9b0664265f225c45f589b2b4de507376"
   },
   {
    "path": "addons/xiyou_export/android_src/.gradle/vcs-1/gc.properties",
@@ -142,50 +142,50 @@
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml",
    "change": "added",
-   "size": 706,
-   "sha256": "07d353ad3b018ce2d1a4029cd833cbb25a1f6b22a328bb6b870fdd576379fe60"
+   "size": 648,
+   "sha256": "bd47e4ab2f6c4955632b926de5a5a0e46c2052fddaf5ec69d21149303dec8fe3"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/mergeReleaseShaders/merger.xml",
    "change": "added",
-   "size": 706,
-   "sha256": "61ef7f34c61640e62b069f8797c9aae5e5d84876d3a7257c999dd46b8e7b4cb1"
+   "size": 648,
+   "sha256": "ea4231c1bbbbf6249bd89ebf6ba4f6cf3e9ff6c30cda412f8246544db21ebaa2"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/packageReleaseAssets/merger.xml",
    "change": "added",
-   "size": 1076,
-   "sha256": "0e3ab4f70087beafc97de9cdf87327124531fe47eedbf22ca03e1cb498b7f1cc"
+   "size": 989,
+   "sha256": "098bcc1cc0583bf0e812079cbb80b1515eb80385292baa4cabee245585911f32"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release-mergeJavaRes/merge-state",
    "change": "added",
-   "size": 964,
-   "sha256": "2a85b18d5048f7d5899edf26cceca198d1c969babea982e8ec065f0203ff9590"
+   "size": 935,
+   "sha256": "472e7f9b32226ea8ccdfea14608fa39661384af792ef14621b1cfcefc38a86f0"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/mergeReleaseResources/compile-file-map.properties",
    "change": "added",
-   "size": 342,
-   "sha256": "a09bac74dcc981fc3b07557a6db29b188883428a9a6830333e68491bb2ef53b9"
+   "size": 313,
+   "sha256": "adf2641c8585eb29572d6018d90e401ddd0fe48c42109a5571774e9fb50a7ce3"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/mergeReleaseResources/merger.xml",
    "change": "added",
-   "size": 2828,
-   "sha256": "145f458032f5d92c899719c908af0de95dc3f8905cdb985edcf922b54e49c338"
+   "size": 2625,
+   "sha256": "cf27bbdf154667d80aaef1bc470772a84c9d9e644b277bf6a090e7536f53962a"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties",
    "change": "added",
-   "size": 346,
-   "sha256": "028fe33faa361f2d8aafd8716b9fc3ffd930b393ac469bab1eb4e056f1535074"
+   "size": 317,
+   "sha256": "afdfcb6bf8719c4ae3de173e3368300fe39099af4348867cddedf089eeb3ec3e"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/incremental/release/packageReleaseResources/merger.xml",
    "change": "added",
-   "size": 2828,
-   "sha256": "145f458032f5d92c899719c908af0de95dc3f8905cdb985edcf922b54e49c338"
+   "size": 2625,
+   "sha256": "cf27bbdf154667d80aaef1bc470772a84c9d9e644b277bf6a090e7536f53962a"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/java_res/release/processReleaseJavaRes/out/META-INF/xiyou_bgidle_release.kotlin_module",
@@ -202,8 +202,8 @@
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/manifest_merge_blame_file/release/processReleaseManifest/manifest-merger-blame-release-report.txt",
    "change": "added",
-   "size": 5082,
-   "sha256": "523b9ec914d4909f35801786b72e3783e3c4c8c150001b9babfee32f87ced920"
+   "size": 4531,
+   "sha256": "d935f830238567840350243f54c98c5ac03d7b1cf62682da6229149301a8d387"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-.jar",
@@ -244,8 +244,8 @@
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/source_set_path_map/release/mapReleaseSourceSetPaths/file-map.txt",
    "change": "added",
-   "size": 1663,
-   "sha256": "10fcee6c409d3b00746638b19fc3a1acac3631a4983d4bc048050c1f0fa1a0e8"
+   "size": 1460,
+   "sha256": "be539f22554d38a9065424d992304ccc734eea3c5d1374e5b49f1dc31b19da66"
   },
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/symbol_list_with_package_name/release/generateReleaseRFile/package-aware-r.txt",
@@ -256,8 +256,8 @@
   {
    "path": "addons/xiyou_export/android_src/build/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/drawable_xiyou_idle_notify.xml.flat",
    "change": "added",
-   "size": 1080,
-   "sha256": "3d2f80cb66f30028f66b61b19f33f27e219701b9016781b6ffb717efb6f9e186"
+   "size": 1052,
+   "sha256": "cde8c685eb983ef1d57d8ac8ffdbe5edba8929e158f1a3badeae6d1e6e57e00e"
   },
   {
    "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/source-to-output.tab",
@@ -773,7 +773,7 @@
    "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/cacheable/last-build.bin",
    "change": "added",
    "size": 18,
-   "sha256": "42dd1d1cbc2ea6c3f2a45f3627d65f65122985a1051621164fd54a8a747d97b2"
+   "sha256": "93773e1fdbfa16ea9891d13bc230fdad57c7dc3291bc541cf64eeae51458a2eb"
   },
   {
    "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin",
@@ -785,7 +785,7 @@
    "path": "addons/xiyou_export/android_src/build/kotlin/compileReleaseKotlin/local-state/build-history.bin",
    "change": "added",
    "size": 31,
-   "sha256": "d63e5b9d6d005de7f4dda8e51e4fec979d867c832bedc32974875fa3620716e9"
+   "sha256": "a12f5117016ae9253456db7bc544f0f8a62d5e8508dee90690a90e7d0614b4b5"
   },
   {
    "path": "addons/xiyou_export/android_src/build/outputs/aar/xiyou_bgidle-release.aar",
@@ -796,8 +796,8 @@
   {
    "path": "addons/xiyou_export/android_src/build/outputs/logs/manifest-merger-release-report.txt",
    "change": "added",
-   "size": 6482,
-   "sha256": "e3b32b53d004fe04ca1d08c7dc7c73beac0a18b3b0da7838d1e4c56f4b535e42"
+   "size": 5670,
+   "sha256": "afee34ca49dd8a56e4fd1f7ed2b016353d023da7d599e86adee10ae65ec7a18f"
   },
   {
    "path": "addons/xiyou_export/android_src/build/tmp/kotlin-classes/release/META-INF/xiyou_bgidle_release.kotlin_module",
@@ -1307,7 +1307,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 145,
-   "sha256": "8f435d7df49407527e43d7bf53eeec9e451f9932c7b0647d5b746f931395b7a9"
+   "sha256": "cbecd5ca79698b35be88f6abd31a7e4136c18329f81af6885f72c9df3a2fbfba"
   },
   {
    "path": "content/sukuna/README.md",
@@ -2096,6 +2096,12 @@
    "sha256": "7e6737fc937ef44652f6f9791071c5e8618ebbe0293307244c9400519689e7e8"
   },
   {
+   "path": "core/update_check.gd",
+   "change": "modified",
+   "size": 9559,
+   "sha256": "acd3d8d6eb582ceb1fe6b850525774dabf4c0dcfd8258e6daa853841fe0947a7"
+  },
+  {
    "path": "modes/xiyou/battle/action_sequence.gd",
    "change": "modified",
    "size": 23565,
@@ -2158,8 +2164,14 @@
   {
    "path": "modes/xiyou/core/actor.gd",
    "change": "modified",
-   "size": 76260,
-   "sha256": "132a0a7439f6e326aad182a2e982ea4c2c12c9a94745185a0ef5f5354a64602a"
+   "size": 76378,
+   "sha256": "ae9137508c41be071fb4abec17fdacacc18ef8789d26f12817724481e962060b"
+  },
+  {
+   "path": "modes/xiyou/core/actor_modules.gd",
+   "change": "modified",
+   "size": 10144,
+   "sha256": "e048168367855f83df4e04fa1b532d08fcb3cfc1c717d100bb127f21389f7aa4"
   },
   {
    "path": "modes/xiyou/core/affix_absorb.gd",
@@ -2176,8 +2188,8 @@
   {
    "path": "modes/xiyou/core/alienation.gd",
    "change": "modified",
-   "size": 20896,
-   "sha256": "956f9904a135f5f0631392740b2a9d0ce912fadc0922d2db19d378b1e4d417c4"
+   "size": 22905,
+   "sha256": "8ce784e28b7f4fa3bff3c6285d07e04b4df2b6858763fd31b3470c50fc8989d3"
   },
   {
    "path": "modes/xiyou/core/appearance.gd",
@@ -2192,6 +2204,12 @@
    "sha256": "18ab5b1b6442e453bd151f9dafced8094118e329fcd14395270c3a7013ffded2"
   },
   {
+   "path": "modes/xiyou/core/canglong.gd",
+   "change": "modified",
+   "size": 7240,
+   "sha256": "bf770515efde0419877c00d68425e5ace991e0b5325f29541db5103964268a0e"
+  },
+  {
    "path": "modes/xiyou/core/damage.gd",
    "change": "modified",
    "size": 28379,
@@ -2200,8 +2218,8 @@
   {
    "path": "modes/xiyou/core/demon_crown.gd",
    "change": "modified",
-   "size": 19875,
-   "sha256": "3083d9780b84812342fb1f65fe21f4d9eae3dd45a24904edd1f055938c1859e7"
+   "size": 24132,
+   "sha256": "d1526e753a6956e527e6fb24d28d2165487a3df1109854b331d37f5bba5c45e1"
   },
   {
    "path": "modes/xiyou/core/encounter_target.gd",
@@ -2260,14 +2278,38 @@
   {
    "path": "modes/xiyou/core/hang_up.gd",
    "change": "modified",
-   "size": 11145,
-   "sha256": "be4d1af8c2c7d30674ac43de0908381f7d36b43d7cb2a5590527e5397e6a1cc9"
+   "size": 11513,
+   "sha256": "bef0c9d5ef452bfb043b1aa46d1da27c5b1ce483e551a1d10b56acc458f82d71"
+  },
+  {
+   "path": "modes/xiyou/core/hang_up_auto.gd",
+   "change": "modified",
+   "size": 18537,
+   "sha256": "a998b21f1baf5542fe42fca1616f8491a0cd2d96878fda44da8692f3aaa9fc56"
+  },
+  {
+   "path": "modes/xiyou/core/item_marks.gd",
+   "change": "modified",
+   "size": 33055,
+   "sha256": "e49a44ff7189ac1f75f4375fea9436982a9a2ac6d2a54fbf18fe69e40a9db168"
   },
   {
    "path": "modes/xiyou/core/liuying.gd",
    "change": "modified",
    "size": 28589,
    "sha256": "b920bb8cd777fb9bedf6fb53f90fbfc9d2b3bd012d085583c8e71fe73f391518"
+  },
+  {
+   "path": "modes/xiyou/core/percent_pills.gd",
+   "change": "added",
+   "size": 2885,
+   "sha256": "ff4bc014289db882367aec75afa3fea00e77d91fa6c57bf889199c4b34864763"
+  },
+  {
+   "path": "modes/xiyou/core/percent_pills.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "5e1fcdf7e597f02c32b7b362c3b8467e9f24f5aaae9f2f4266f8370612114f52"
   },
   {
    "path": "modes/xiyou/core/random_stream.gd",
@@ -2288,10 +2330,34 @@
    "sha256": "da85b16528b36048f871be6c36d2eb2c7b561438bc2ee7e135f13c4b497b00ee"
   },
   {
+   "path": "modes/xiyou/core/safe_sell.gd",
+   "change": "modified",
+   "size": 9774,
+   "sha256": "4f94790c8b89ed414807ac4166360b3fd5df39fbcea62654b29daf0ed10247e9"
+  },
+  {
+   "path": "modes/xiyou/core/save_slim.gd",
+   "change": "added",
+   "size": 17560,
+   "sha256": "f4e2ffe799b237f934b2a1db327a0f7385751dc0e637727f265a956f47748163"
+  },
+  {
+   "path": "modes/xiyou/core/save_slim.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "0534abeb72bf32056faff321074ee3e454600c7612b21f98722858436011de37"
+  },
+  {
+   "path": "modes/xiyou/core/save_transfer.gd",
+   "change": "modified",
+   "size": 6255,
+   "sha256": "fa727bf71265d7596d879da47f5d0bf99d09c8f3d391e09ece5fe67cfe9aa799"
+  },
+  {
    "path": "modes/xiyou/core/star_warehouse.gd",
    "change": "modified",
-   "size": 13846,
-   "sha256": "cae31d2fc6ba3164598e73447fc290be1095aaceb761d29fee096f2431acf59f"
+   "size": 14083,
+   "sha256": "9ac37582c981de74f4b7cad1abc73b4e8582ec3368b6234e8bd37a130f9da93d"
   },
   {
    "path": "modes/xiyou/core/sukuna.gd",
@@ -2324,6 +2390,12 @@
    "sha256": "8bfde3ad35b64cf419c3f44cdfabfcaaa9adb5b828256996839ed92efdb0e224"
   },
   {
+   "path": "modes/xiyou/core/xsave.gd",
+   "change": "modified",
+   "size": 13724,
+   "sha256": "6d222ba75e3e56edd61841d047a454051844a9c666c232f7fcd5e0fc5aecf7e4"
+  },
+  {
    "path": "modes/xiyou/core/xstate.gd",
    "change": "modified",
    "size": 57421,
@@ -2344,14 +2416,14 @@
   {
    "path": "modes/xiyou/entry.gd",
    "change": "modified",
-   "size": 25336,
-   "sha256": "9a6b78bda41e399db2b35179fa3bd7c525de493a4e3688875f618bddb477a063"
+   "size": 25738,
+   "sha256": "e76ac2147f69c640ae631efdd23aaa6ee262a56dff6a83089c2e8deaae50758d"
   },
   {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
    "change": "modified",
-   "size": 6484,
-   "sha256": "c1936bc849b6389564e75c6e4dfd4f65e1b77475c558727c3462a2d40badc75f"
+   "size": 8983,
+   "sha256": "652c756f3e599069f430decdf2691047cc8e1ac287487772e0044812c6c0df75"
   },
   {
    "path": "modes/xiyou/map/lobby_corruption.gd",
@@ -2368,14 +2440,20 @@
   {
    "path": "modes/xiyou/map/map_scene.gd",
    "change": "modified",
-   "size": 88816,
-   "sha256": "d7094476903ff7024a4b0c669dd6f0fb2f47c1018f935033ab8235b9618a258c"
+   "size": 89478,
+   "sha256": "f431b8ac641762403c032cd6662f6c0af511c0db49c1a0c366f6d64d0a352c41"
   },
   {
    "path": "modes/xiyou/map/mv_character.gd",
    "change": "modified",
    "size": 26157,
    "sha256": "1d22c7088c4b62f2a19cd29048ad9ead04da71be17bab07fd17efbb314a84e1b"
+  },
+  {
+   "path": "modes/xiyou/map/mv_player.gd",
+   "change": "modified",
+   "size": 8180,
+   "sha256": "a41672db779b4a869ed45c4a4839aaac605d890f5c2408282f20418518688835"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -2414,6 +2492,18 @@
    "sha256": "c699a4e63e63ebc36024939da301399e9b598332d64a8e6cb55360367f63a700"
   },
   {
+   "path": "modes/xiyou/ui/force_update.gd",
+   "change": "added",
+   "size": 5453,
+   "sha256": "d2ffe9330c3870f781810ff8e49718278e1a529f9eff48c56761cd2a3c5b69ee"
+  },
+  {
+   "path": "modes/xiyou/ui/force_update.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "3a1af53f9eb2dbd2ff521c09ba0986cfd9ab39b14da63802b927e9a1c9bdcc55"
+  },
+  {
    "path": "modes/xiyou/ui/graphics_options.gd",
    "change": "added",
    "size": 7387,
@@ -2434,8 +2524,8 @@
   {
    "path": "modes/xiyou/ui/item_scene.gd",
    "change": "modified",
-   "size": 57289,
-   "sha256": "7927a50954e13f5d455ba65c1c39bdc2853746f94018ebd99532c985ff99aab0"
+   "size": 57546,
+   "sha256": "7f292e9cf5f5863d513d5e5d8ea6e38e7a3203092a5788f5973c3ec9c36fb488"
   },
   {
    "path": "modes/xiyou/ui/map_transfer.gd",
@@ -2476,8 +2566,8 @@
   {
    "path": "modes/xiyou/ui/skill_scene.gd",
    "change": "modified",
-   "size": 22654,
-   "sha256": "cab59d485d0e39ce0af1348247f4d551eb30406a3668760f54db1e1cb80c7dcc"
+   "size": 22668,
+   "sha256": "4096e92d5e600c96fbf1ddffd3e5b3f08ea07f6ff5faf1904b02b2b723fcf076"
   },
   {
    "path": "modes/xiyou/ui/toast.gd",
@@ -2488,8 +2578,8 @@
   {
    "path": "modes/xiyou/ui/update_page.gd",
    "change": "modified",
-   "size": 16702,
-   "sha256": "0678a93cfa63a3813ed31695feb94e1247a36dbc73cce37e3b83e50bc39a0b42"
+   "size": 24658,
+   "sha256": "f8307f0ad79e28726e9d003d126fe95eb98ed9c80ce19d5cf442186d6bb8459d"
   },
   {
    "path": "modes/xiyou/ui/warning_screen.gd",
@@ -2507,13 +2597,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1616,
-   "sha256": "55bea6d30ae0c3c34aa6b9026828cbef76f82a8589e9099ef99767c719352c6c"
+   "sha256": "b6be27e34de3fb739c19ae699cd243572be0f5c76e33e86518ec34257e55eb3f"
   }
  ],
  "removed": [],
  "total": {
-  "files": 417,
-  "bytes": 220182720,
+  "files": 432,
+  "bytes": 220337875,
   "removed": 0
  },
  "excludes": [
