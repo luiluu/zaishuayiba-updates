@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.480",
- "code": 480,
+ "version": "0.481",
+ "code": 481,
  "base_code": 477,
  "min_base": 477,
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "files": [
   {
    "path": "addons/xiyou_export/android/xiyou_bgidle.aar",
@@ -1307,7 +1307,91 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 145,
-   "sha256": "cbecd5ca79698b35be88f6abd31a7e4136c18329f81af6885f72c9df3a2fbfba"
+   "sha256": "2a1287a6ab9a5fda6413d9991dc8cc7c25ae4849f6bdd7922ea5ec69c1e112c6"
+  },
+  {
+   "path": "content/fest/Fest_ART_README.txt",
+   "change": "added",
+   "size": 739,
+   "sha256": "489f556f6ccc7b9539f159a20f79b764b3360ef3231a35fc19d33d25f5b13c12"
+  },
+  {
+   "path": "content/fest/Fest_Art_Manifest.json",
+   "change": "added",
+   "size": 2315,
+   "sha256": "0b0ff14f62f591c7d9c40c8d25b8dd3dd6025a051db49429e0c32d925da1fd5b"
+  },
+  {
+   "path": "content/fest/Fest_Banner.png",
+   "change": "added",
+   "size": 58281,
+   "sha256": "7a82f9dd4852add9d54613b84d86dabdd9a587e345e4c1bd21490fb73dbdb87c"
+  },
+  {
+   "path": "content/fest/Fest_Banner.png.import",
+   "change": "added",
+   "size": 949,
+   "sha256": "b5c52e7ebb5ca0485c31d533379d510a67cba699eff507a8c2020a0cf10b4d1d"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_01.png",
+   "change": "added",
+   "size": 271,
+   "sha256": "dd0211b208cb5fc68267202abda32b9b493c06bd576bce02cf76fa50cd9b6013"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_01.png.import",
+   "change": "added",
+   "size": 965,
+   "sha256": "6816a74764aab14e62c3e0d260f0a444c393642393faa798cddfcd0fe8fca9a0"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_02.png",
+   "change": "added",
+   "size": 416,
+   "sha256": "43a2e0b489ad91f6391e8f6aa2215c768d3bc584447b1b1cae7bd9f922f6424f"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_02.png.import",
+   "change": "added",
+   "size": 965,
+   "sha256": "0efc05379fe737cb64ca5f83be3dc0a11c680e735d1d3e0c85af917c9e82a009"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_03.png",
+   "change": "added",
+   "size": 365,
+   "sha256": "8fa49129ef2420444dec236fbb6b5c85a5f3fbb27b9e5ab1375dcce178b50c8e"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_03.png.import",
+   "change": "added",
+   "size": 964,
+   "sha256": "7156fc0a95352ccbab99eed4ff04f15894eade11fb5e159ac00d012f4545b4b6"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_04.png",
+   "change": "added",
+   "size": 381,
+   "sha256": "b76f65a83f2801233fe0f9f27caafbd5ab16e85b59b45d15ecd04e9279d1e4b1"
+  },
+  {
+   "path": "content/fest/Fest_Confetti_04.png.import",
+   "change": "added",
+   "size": 964,
+   "sha256": "5eadf176e2df6a468144fe65d17d7bbcb259b8890ff74b1c06693778d0d98bce"
+  },
+  {
+   "path": "content/fest/Fest_Trophy.png",
+   "change": "added",
+   "size": 24100,
+   "sha256": "50a488829ef843b19ba3c156e1038bed2f42f93866221d4d84bf9bb576bce0a8"
+  },
+  {
+   "path": "content/fest/Fest_Trophy.png.import",
+   "change": "added",
+   "size": 950,
+   "sha256": "9b62acb65365a7aad8790f295639b3dc845b1265478d5967cb32842330b27b17"
   },
   {
    "path": "content/sukuna/README.md",
@@ -2222,6 +2306,12 @@
    "sha256": "d1526e753a6956e527e6fb24d28d2165487a3df1109854b331d37f5bba5c45e1"
   },
   {
+   "path": "modes/xiyou/core/designation.gd",
+   "change": "modified",
+   "size": 4062,
+   "sha256": "1d8e04832aeb2552214deb69e2213eaefa76d557f5de14dd767f9e04aab4d6e4"
+  },
+  {
    "path": "modes/xiyou/core/encounter_target.gd",
    "change": "added",
    "size": 3204,
@@ -2238,6 +2328,30 @@
    "change": "modified",
    "size": 7371,
    "sha256": "cc0204920a0835703d065af4fd269be88ff8777a91193420b9e634b9bdf48005"
+  },
+  {
+   "path": "modes/xiyou/core/fest.gd",
+   "change": "added",
+   "size": 4957,
+   "sha256": "034242ae1d1e177891af994b2c5134b14321ed02647ade2fec771fca6b08c62f"
+  },
+  {
+   "path": "modes/xiyou/core/fest.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "beeca4fa13536a18859bbbd6535ee5072fdd7a11f1a470454c41f691ba8e8af5"
+  },
+  {
+   "path": "modes/xiyou/core/fest_text.gd",
+   "change": "added",
+   "size": 9761,
+   "sha256": "58eb809506bdfe842182229a275d884952dcb25eed6077a0b0909abd2a9c5428"
+  },
+  {
+   "path": "modes/xiyou/core/fest_text.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "f2ac76babe3599230e0324080f7a08b030bc1b3264aa624d52a162012f5b6956"
   },
   {
    "path": "modes/xiyou/core/gear.gd",
@@ -2296,8 +2410,8 @@
   {
    "path": "modes/xiyou/core/liuying.gd",
    "change": "modified",
-   "size": 28589,
-   "sha256": "b920bb8cd777fb9bedf6fb53f90fbfc9d2b3bd012d085583c8e71fe73f391518"
+   "size": 29469,
+   "sha256": "adb6d6fe950bf91e8c3b0636ff1ab61b5ba3de6fb328188596abb531bc7eaf3e"
   },
   {
    "path": "modes/xiyou/core/percent_pills.gd",
@@ -2366,6 +2480,12 @@
    "sha256": "91f0d1db167877c327d068d3e307dc51b38635528165ef65cb547054e87dc531"
   },
   {
+   "path": "modes/xiyou/core/treasure_map.gd",
+   "change": "modified",
+   "size": 8814,
+   "sha256": "2e710aa691f0798a5dfe6e4e41d6596dd6816aa5c0cf90b9401de8a285a901a1"
+  },
+  {
    "path": "modes/xiyou/core/vegeta_tune.gd",
    "change": "added",
    "size": 5142,
@@ -2386,8 +2506,8 @@
   {
    "path": "modes/xiyou/core/xdb.gd",
    "change": "modified",
-   "size": 8320,
-   "sha256": "8bfde3ad35b64cf419c3f44cdfabfcaaa9adb5b828256996839ed92efdb0e224"
+   "size": 8623,
+   "sha256": "81d79f30f50baefc8d401b4c4d1766093a56ed729f36d10df187ccf6ddaf2121"
   },
   {
    "path": "modes/xiyou/core/xsave.gd",
@@ -2404,8 +2524,8 @@
   {
    "path": "modes/xiyou/core/yunshang_orders.gd",
    "change": "modified",
-   "size": 25388,
-   "sha256": "08929941f1eb7ff5d70bf832e292e1c6916713230ebfaf72a74cf55aa039dd65"
+   "size": 28297,
+   "sha256": "d916db596d151f224c4eec843ab34fbd977d715d3bb62a6f2b91345099141224"
   },
   {
    "path": "modes/xiyou/core/zhenqi.gd",
@@ -2418,6 +2538,18 @@
    "change": "modified",
    "size": 25738,
    "sha256": "e76ac2147f69c640ae631efdd23aaa6ee262a56dff6a83089c2e8deaae50758d"
+  },
+  {
+   "path": "modes/xiyou/map/fest_lobby.gd",
+   "change": "added",
+   "size": 21975,
+   "sha256": "351fd82d46551012d19aa1b926deead45cc57495eab9f38465ead433efaa28c1"
+  },
+  {
+   "path": "modes/xiyou/map/fest_lobby.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "c9d9c121cc8e5b5669102cfed06891e2b96bff78edeaaec422ddc839cdb1a6ca"
   },
   {
    "path": "modes/xiyou/map/hang_up_overlay.gd",
@@ -2440,8 +2572,8 @@
   {
    "path": "modes/xiyou/map/map_scene.gd",
    "change": "modified",
-   "size": 89478,
-   "sha256": "f431b8ac641762403c032cd6662f6c0af511c0db49c1a0c366f6d64d0a352c41"
+   "size": 90334,
+   "sha256": "12e577c7903bfc8e397622220b98808ef027ac2f6de8367c518843e7256c690a"
   },
   {
    "path": "modes/xiyou/map/mv_character.gd",
@@ -2452,8 +2584,14 @@
   {
    "path": "modes/xiyou/map/mv_player.gd",
    "change": "modified",
-   "size": 8180,
-   "sha256": "a41672db779b4a869ed45c4a4839aaac605d890f5c2408282f20418518688835"
+   "size": 9078,
+   "sha256": "38cda8e7e66f2bed1ca2c9806899542223d1df6c993e0182df9948b21798bd22"
+  },
+  {
+   "path": "modes/xiyou/map/mv_script.gd",
+   "change": "modified",
+   "size": 72597,
+   "sha256": "a92ef39cb797cdae107fc9fea06663c6dce843b7d99a5d5a7b267290f8e61be9"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -2597,13 +2735,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1616,
-   "sha256": "b6be27e34de3fb739c19ae699cd243572be0f5c76e33e86518ec34257e55eb3f"
+   "sha256": "d6a0ed8b94344b908a8dd1cf997d2e29f324b057393cb88cf54a434c4ac06e7c"
   }
  ],
  "removed": [],
  "total": {
-  "files": 432,
-  "bytes": 220337875,
+  "files": 455,
+  "bytes": 220558572,
   "removed": 0
  },
  "excludes": [
