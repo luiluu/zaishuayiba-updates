@@ -1,33 +1,32 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.480",
-  "code": 480,
-  "date": "2026-11-14",
+  "version": "0.481",
+  "code": 481,
+  "date": "2026-11-15",
   "notes": [
-   "挂机自动卖装备不再卡顿、黑屏（背包装备多时最明显）",
-   "修复退出商店后又自动打开菜单、电脑上按一次键响应好几次",
-   "淬元丹可以正常使用了",
-   "挂机点「停止」能停下来（遇敌、战斗收场的黑幕时也能点）；进副本后挂机按钮会藏起来",
-   "流萤的技能菜单补上「功法」页",
-   "觉醒·苍龙的说明补全：雷霆天罚·诛灭伤害 +250%",
-   "存档文件变小（去掉了不需要存的内容），旧存档照常能读",
-   "以后遇到重要修复，旧版本会提示先更新到最新版再玩"
+   "冠军庆典限时活动开启（11 月 15 日起，共 15 天）：方桌大厅挂上庆典横幅和彩旗、摆出奖杯，背景音乐也换成了庆典版",
+   "大厅新来了「庆典使者」，第一次对话就能领一份贺礼",
+   "奖杯旁设了「报名处」，「冠军之路」即将开放，敬请期待",
+   "修复：强行关掉或重开游戏后读档，流萤的进阶技能会不见（已经不见的，更新后读一次档就会自动学回来）",
+   "修复：藏宝图在背包里不能直接使用",
+   "修复：强行关掉游戏或读较早的存档后，云裳身上穿着的天衣会不见（非常抱歉，之前已经不见的天衣没法找回）",
+   "修复：开着「步步遇敌」点击地面走路或挂机，停下后战斗还是会一场接一场停不下来"
   ]
  },
  "bases": {
   "477": {
    "patch": {
-    "code": 480,
-    "size": 2675376,
-    "sha256": "e32b614ae4b6e83ce2d4caea20af40411984284b40871f55ae325592d28afbbf",
+    "code": 481,
+    "size": 2820660,
+    "sha256": "b58f605a245b3f500dfb3e8caff1c62611749dd45f55e62baf33bebb54b55a5b",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/acf9ab1c5fe244a96dbfeaaa676330b0fb0319b7/godot/patch_477_480.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e87f28d7cabadabff682a1fe223fde7819eb563b/godot/patch_477_480.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e87f28d7cabadabff682a1fe223fde7819eb563b/godot/patch_477_480.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e87f28d7cabadabff682a1fe223fde7819eb563b/godot/patch_477_480.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@e87f28d7cabadabff682a1fe223fde7819eb563b/godot/patch_477_480.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/e87f28d7cabadabff682a1fe223fde7819eb563b/godot/patch_477_480.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/a6812d032647b5eff30e4fe1e44b16fe3892b46d/godot/patch_477_481.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck"
     ]
    }
   }
