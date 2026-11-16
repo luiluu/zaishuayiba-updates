@@ -1,32 +1,31 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.481",
-  "code": 481,
-  "date": "2026-11-15",
+  "version": "0.482",
+  "code": 482,
+  "date": "2026-11-16",
   "notes": [
-   "冠军庆典限时活动开启（11 月 15 日起，共 15 天）：方桌大厅挂上庆典横幅和彩旗、摆出奖杯，背景音乐也换成了庆典版",
-   "大厅新来了「庆典使者」，第一次对话就能领一份贺礼",
-   "奖杯旁设了「报名处」，「冠军之路」即将开放，敬请期待",
-   "修复：强行关掉或重开游戏后读档，流萤的进阶技能会不见（已经不见的，更新后读一次档就会自动学回来）",
-   "修复：藏宝图在背包里不能直接使用",
-   "修复：强行关掉游戏或读较早的存档后，云裳身上穿着的天衣会不见（非常抱歉，之前已经不见的天衣没法找回）",
-   "修复：开着「步步遇敌」点击地面走路或挂机，停下后战斗还是会一场接一场停不下来"
+   "冠军庆典「冠军之路」开放（11 月 16 日起，共 15 天）：在方桌大厅报名处报名，五打五连挑四支战队，打通任一档得称号「冠军之路」，一次不败依档位得限定称号「一穿四」「一穿四·天灾」「一穿四·洪荒」",
+   "冠军之路分欢庆档、天灾档、洪荒档三档，每档四关全胜（输过也算）各送一枚冠军戒指；其中天灾、洪荒两枚带「一穿四」：本场每倒下一个敌人伤害提高，最多 4 层",
+   "庆典使者处可累计签到 3 天（领庆典币与称号「全勤观众」），还能用庆典币兑换副本挑战符文、抽奖券、不朽碎片、深渊派对邀请函和称号「冠军观赛团」；活动结束留 3 天兑换期，期满后读档会把没花完的庆典币自动换成精魂",
+   "方桌大厅的冠军奖杯换了新造型，和报名处、庆典使者一起挪到了大厅左侧（报名处、使者分站奖杯两侧）",
+   "修复：在野外用回城物品、存档时被「当前正在挑战副本」拦住（已经被拦的，读一次档就会自动恢复）",
+   "修复：奈叶开智能战斗或挂机时放不出小魔炮（现在挂机排了小魔炮会直接放「凰霞风暴 30%」，不再停下来等你选档；手动施放照旧可选）"
   ]
  },
  "bases": {
   "477": {
    "patch": {
-    "code": 481,
-    "size": 2820660,
-    "sha256": "b58f605a245b3f500dfb3e8caff1c62611749dd45f55e62baf33bebb54b55a5b",
+    "code": 482,
+    "size": 2921396,
+    "sha256": "fd63a2bc483f9ec2db0e14a9b8e14636353615b60be42fac1cd0dcd8c2dc868f",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/a6812d032647b5eff30e4fe1e44b16fe3892b46d/godot/patch_477_481.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/eb2ef707187a19a5d15651ba4419901467b8a41a/godot/patch_477_481.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/9677ebcd09a98695ad2f52f640c90d8c41f25e5f/godot/patch_477_482.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd465f12f70fd85bbc1d0ec238eb7cba231529a4/godot/patch_477_482.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd465f12f70fd85bbc1d0ec238eb7cba231529a4/godot/patch_477_482.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd465f12f70fd85bbc1d0ec238eb7cba231529a4/godot/patch_477_482.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd465f12f70fd85bbc1d0ec238eb7cba231529a4/godot/patch_477_482.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bd465f12f70fd85bbc1d0ec238eb7cba231529a4/godot/patch_477_482.pck"
     ]
    }
   }
