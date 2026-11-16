@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.481",
- "code": 481,
+ "version": "0.482",
+ "code": 482,
  "base_code": 477,
  "min_base": 477,
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "files": [
   {
    "path": "addons/xiyou_export/android/xiyou_bgidle.aar",
@@ -1307,7 +1307,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 145,
-   "sha256": "2a1287a6ab9a5fda6413d9991dc8cc7c25ae4849f6bdd7922ea5ec69c1e112c6"
+   "sha256": "10569803eff552a626208de077e8a53efb37c481e1b5b0fdda955a3e6363c1a7"
   },
   {
    "path": "content/fest/Fest_ART_README.txt",
@@ -1384,8 +1384,8 @@
   {
    "path": "content/fest/Fest_Trophy.png",
    "change": "added",
-   "size": 24100,
-   "sha256": "50a488829ef843b19ba3c156e1038bed2f42f93866221d4d84bf9bb576bce0a8"
+   "size": 43197,
+   "sha256": "95671ee5406d2ad9670087a0046cd65a61fb39b6eec74606d9ddc3f29ca9186d"
   },
   {
    "path": "content/fest/Fest_Trophy.png.import",
@@ -2194,8 +2194,8 @@
   {
    "path": "modes/xiyou/battle/battle_logic.gd",
    "change": "modified",
-   "size": 184534,
-   "sha256": "e92e017c3e56dcc69725089175dca6101ee66f1dc72244a90ab007c633162a47"
+   "size": 185232,
+   "sha256": "14b803270c656ad58e9b83e267f4910c63a9d48883b1d10be1fbd2a24f489664"
   },
   {
    "path": "modes/xiyou/battle/battle_scene.gd",
@@ -2230,8 +2230,8 @@
   {
    "path": "modes/xiyou/battle/smart_ai.gd",
    "change": "modified",
-   "size": 34527,
-   "sha256": "e5d6e7eefadfe3d7a86cc221cf089e6e0a27e72f4f6d626b2fad65e7eb8da0c9"
+   "size": 37532,
+   "sha256": "38f62d5c183fb5e6cb3c9db9d0d2a0d246df3a5b2b36f88dd91688a0a89d9b62"
   },
   {
    "path": "modes/xiyou/battle/sukuna_fx.gd",
@@ -2246,10 +2246,22 @@
    "sha256": "4754c55ac8e8f2957bf85ed99734ccde762b154ba43c3fd27e72fd9185232910"
   },
   {
+   "path": "modes/xiyou/core/achievement.gd",
+   "change": "modified",
+   "size": 7431,
+   "sha256": "e6780b33d1def8153e59ef9a8a9bfb0723c7824740de8273146911931ac60f4e"
+  },
+  {
    "path": "modes/xiyou/core/actor.gd",
    "change": "modified",
-   "size": 76378,
-   "sha256": "ae9137508c41be071fb4abec17fdacacc18ef8789d26f12817724481e962060b"
+   "size": 76635,
+   "sha256": "362faa1c59ddfa2f0f02136d3d9ae440ff41d1ebec7ea06a0cb8fcd4e40fe628"
+  },
+  {
+   "path": "modes/xiyou/core/actor_damage_hooks.gd",
+   "change": "modified",
+   "size": 2990,
+   "sha256": "cb3ac2cad121d0253fd439b6689e987b3a8cb78ad30a372af1e0410ef9a280e3"
   },
   {
    "path": "modes/xiyou/core/actor_modules.gd",
@@ -2308,8 +2320,14 @@
   {
    "path": "modes/xiyou/core/designation.gd",
    "change": "modified",
-   "size": 4062,
-   "sha256": "1d8e04832aeb2552214deb69e2213eaefa76d557f5de14dd767f9e04aab4d6e4"
+   "size": 4120,
+   "sha256": "295936b4f7d8dea6844f0c15dd92179db98713231764cb8d0fe033d7b5676b4d"
+  },
+  {
+   "path": "modes/xiyou/core/dungeon.gd",
+   "change": "modified",
+   "size": 18089,
+   "sha256": "6a5d5cb27717222c88c0380d324266df26d504aa3f60c74a946c8dbb2a6b28ea"
   },
   {
    "path": "modes/xiyou/core/encounter_target.gd",
@@ -2324,6 +2342,12 @@
    "sha256": "2aa45619661e2658e06cf5bc86736b303d3841b4157af4129aaad9fc0368ba70"
   },
   {
+   "path": "modes/xiyou/core/enemy.gd",
+   "change": "modified",
+   "size": 16516,
+   "sha256": "e3b76ba0d0a2c2a9fe59da6eeefe994af8e21fa57d022615d8e33c4c1bef2529"
+  },
+  {
    "path": "modes/xiyou/core/equipment.gd",
    "change": "modified",
    "size": 7371,
@@ -2332,8 +2356,8 @@
   {
    "path": "modes/xiyou/core/fest.gd",
    "change": "added",
-   "size": 4957,
-   "sha256": "034242ae1d1e177891af994b2c5134b14321ed02647ade2fec771fca6b08c62f"
+   "size": 5733,
+   "sha256": "85d2ad38cfcccba2e6561a7b06917e4c205416a4c4c8ada26dff29d0c9c73347"
   },
   {
    "path": "modes/xiyou/core/fest.gd.uid",
@@ -2342,10 +2366,46 @@
    "sha256": "beeca4fa13536a18859bbbd6535ee5072fdd7a11f1a470454c41f691ba8e8af5"
   },
   {
+   "path": "modes/xiyou/core/fest_reward.gd",
+   "change": "added",
+   "size": 13519,
+   "sha256": "5ad47b3088463fb038d44cb88bc7217b1719821438c0299ef6fef41e6397d7fe"
+  },
+  {
+   "path": "modes/xiyou/core/fest_reward.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "9f4105c11ecfeccb4f381ed3c31d26bdc442d7d5a4a598b5e6f6604d86291a20"
+  },
+  {
+   "path": "modes/xiyou/core/fest_ring.gd",
+   "change": "added",
+   "size": 10290,
+   "sha256": "92a53f952d95bfabfcbfa9d9fe060534626c613c9cab8230c16274b8c52ab0bc"
+  },
+  {
+   "path": "modes/xiyou/core/fest_ring.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "920ce1e4f197eb9d086ed9df425a36973446da418e85eafcb2f19cc450f90bfb"
+  },
+  {
+   "path": "modes/xiyou/core/fest_road.gd",
+   "change": "added",
+   "size": 27478,
+   "sha256": "11f12e5360b829844bff87672a9eea4f1b27babaaf0e45da2e21f5b9fdef3d44"
+  },
+  {
+   "path": "modes/xiyou/core/fest_road.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "5dc543ddd221a8aaa8f96a66e548705ebfebb3c23149417b5dc35d8e15806b5e"
+  },
+  {
    "path": "modes/xiyou/core/fest_text.gd",
    "change": "added",
-   "size": 9761,
-   "sha256": "58eb809506bdfe842182229a275d884952dcb25eed6077a0b0909abd2a9c5428"
+   "size": 13941,
+   "sha256": "05e940f7f0c6981ca2c94bd7739d25c77da9a50defb620c054bfc3560bb10fa4"
   },
   {
    "path": "modes/xiyou/core/fest_text.gd.uid",
@@ -2404,14 +2464,26 @@
   {
    "path": "modes/xiyou/core/item_marks.gd",
    "change": "modified",
-   "size": 33055,
-   "sha256": "e49a44ff7189ac1f75f4375fea9436982a9a2ac6d2a54fbf18fe69e40a9db168"
+   "size": 33115,
+   "sha256": "2d467a565fa080f615d7994e81762a4829cf34b5fac1dcec8d6353598b2b388e"
   },
   {
    "path": "modes/xiyou/core/liuying.gd",
    "change": "modified",
    "size": 29469,
    "sha256": "adb6d6fe950bf91e8c3b0636ff1ab61b5ba3de6fb328188596abb531bc7eaf3e"
+  },
+  {
+   "path": "modes/xiyou/core/mv_event_core.gd",
+   "change": "modified",
+   "size": 38285,
+   "sha256": "18d2e5fadd3de0350bb91d83e0c62872ba23276eb776633995727816d39b075e"
+  },
+  {
+   "path": "modes/xiyou/core/nanoha.gd",
+   "change": "modified",
+   "size": 9787,
+   "sha256": "f9a50cdb595e1b79d3f19904823ffc644d0f9195ac23a484de67c0e4db753bb8"
   },
   {
    "path": "modes/xiyou/core/percent_pills.gd",
@@ -2506,14 +2578,14 @@
   {
    "path": "modes/xiyou/core/xdb.gd",
    "change": "modified",
-   "size": 8623,
-   "sha256": "81d79f30f50baefc8d401b4c4d1766093a56ed729f36d10df187ccf6ddaf2121"
+   "size": 9009,
+   "sha256": "49fba91072b1034d66c38802fe5db8ef982a83dbf0f1ac95760fb321aebcc6d8"
   },
   {
    "path": "modes/xiyou/core/xsave.gd",
    "change": "modified",
-   "size": 13724,
-   "sha256": "6d222ba75e3e56edd61841d047a454051844a9c666c232f7fcd5e0fc5aecf7e4"
+   "size": 14048,
+   "sha256": "350b5c4d03c345598c06a4c7efbd2d0e71d93561886431d4eb58783d26b7655e"
   },
   {
    "path": "modes/xiyou/core/xstate.gd",
@@ -2542,8 +2614,8 @@
   {
    "path": "modes/xiyou/map/fest_lobby.gd",
    "change": "added",
-   "size": 21975,
-   "sha256": "351fd82d46551012d19aa1b926deead45cc57495eab9f38465ead433efaa28c1"
+   "size": 22326,
+   "sha256": "98435fcd5650b39a6c38418e32071add806a943c7184b6c1fee5b78cc4fae02a"
   },
   {
    "path": "modes/xiyou/map/fest_lobby.gd.uid",
@@ -2572,8 +2644,8 @@
   {
    "path": "modes/xiyou/map/map_scene.gd",
    "change": "modified",
-   "size": 90334,
-   "sha256": "12e577c7903bfc8e397622220b98808ef027ac2f6de8367c518843e7256c690a"
+   "size": 90444,
+   "sha256": "57a3276f62ed9c46fc4cff63db90a04e87e93500b9f09bcac9650d7687b6d5db"
   },
   {
    "path": "modes/xiyou/map/mv_character.gd",
@@ -2590,8 +2662,8 @@
   {
    "path": "modes/xiyou/map/mv_script.gd",
    "change": "modified",
-   "size": 72597,
-   "sha256": "a92ef39cb797cdae107fc9fea06663c6dce843b7d99a5d5a7b267290f8e61be9"
+   "size": 72990,
+   "sha256": "9f75b6dc784f9ec2722cb8072476f0ba65d9fea8a70f709b030b05956be3143e"
   },
   {
    "path": "modes/xiyou/map/mv_tilemap.gd",
@@ -2735,13 +2807,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1616,
-   "sha256": "d6a0ed8b94344b908a8dd1cf997d2e29f324b057393cb88cf54a434c4ac06e7c"
+   "sha256": "c02ca4a0af9b3febce9eda03381808ca9078dfb3f4321fa38c90d25da8400a11"
   }
  ],
  "removed": [],
  "total": {
-  "files": 455,
-  "bytes": 220558572,
+  "files": 467,
+  "bytes": 220732710,
   "removed": 0
  },
  "excludes": [
