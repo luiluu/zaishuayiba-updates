@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.482",
- "code": 482,
+ "version": "0.483",
+ "code": 483,
  "base_code": 477,
  "min_base": 477,
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "files": [
   {
    "path": "addons/xiyou_export/android/xiyou_bgidle.aar",
@@ -1307,7 +1307,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 145,
-   "sha256": "10569803eff552a626208de077e8a53efb37c481e1b5b0fdda955a3e6363c1a7"
+   "sha256": "1d5abc72312d67054b65e24319f782d669c69eeb5acd701ba652c85a73b68832"
   },
   {
    "path": "content/fest/Fest_ART_README.txt",
@@ -1380,6 +1380,78 @@
    "change": "added",
    "size": 964,
    "sha256": "5eadf176e2df6a468144fe65d17d7bbcb259b8890ff74b1c06693778d0d98bce"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Attend.png",
+   "change": "added",
+   "size": 1612,
+   "sha256": "380e1daacec4a7c90d9e224fae855221bef61259993871a60fdfff444c082f2e"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Attend.png.import",
+   "change": "added",
+   "size": 964,
+   "sha256": "4add90ec986b003097a87cfaf2394a9995782fb2b9a459671e5d9b4cafa58e2a"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Gold.png",
+   "change": "added",
+   "size": 1901,
+   "sha256": "4be3f59d1677eb532ef860d3ecd8d5f87ffefae648e0968897fe86a2e9525bad"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Gold.png.import",
+   "change": "added",
+   "size": 983,
+   "sha256": "1e81780a38518960afd18db57724163c5beaba6281c2d88d37800bf74d3b6f5f"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Orange.png",
+   "change": "added",
+   "size": 2000,
+   "sha256": "4068aa313c223a3a5027c795367b658e84d7f161456a16700774f6a0733f4104"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Orange.png.import",
+   "change": "added",
+   "size": 989,
+   "sha256": "bb8a253d730415fa47f1f511fb77f06a331b3a24728ec79c62e91ff6ce3151f7"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Red.png",
+   "change": "added",
+   "size": 1945,
+   "sha256": "34b31602d0c23a2fef9394914f9d17dfbcfc0808d731716a22da37a15aa46f9c"
+  },
+  {
+   "path": "content/fest/Fest_Icon_OneFour_Red.png.import",
+   "change": "added",
+   "size": 980,
+   "sha256": "fd7e82f98d27440b72e9306f5a4c3cc5754f8450c4cd09005e8233fcef285c80"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Road.png",
+   "change": "added",
+   "size": 1864,
+   "sha256": "54fdcea3d0f5de89eb2fcfa708dafadbcf538a3b7c9a9e81b24533c8998d653d"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Road.png.import",
+   "change": "added",
+   "size": 958,
+   "sha256": "4ddf0659f67f71cfe53f30e3ccfbe7223c24fb2fde230c1a1941956accaba642"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Watch.png",
+   "change": "added",
+   "size": 1354,
+   "sha256": "68a3de3648476b28576411bb2914d480255b0b7eaec50ce17679d797f34937c2"
+  },
+  {
+   "path": "content/fest/Fest_Icon_Watch.png.import",
+   "change": "added",
+   "size": 961,
+   "sha256": "3320e2d9fba2f9a8ecffcd21ce3dc31af31e5a8515fdeb252319c80844da1c18"
   },
   {
    "path": "content/fest/Fest_Trophy.png",
@@ -2194,8 +2266,8 @@
   {
    "path": "modes/xiyou/battle/battle_logic.gd",
    "change": "modified",
-   "size": 185232,
-   "sha256": "14b803270c656ad58e9b83e267f4910c63a9d48883b1d10be1fbd2a24f489664"
+   "size": 188041,
+   "sha256": "a835ac589137f55e75ebbf0f902b2e2d8ee8eda3251f9d9695f39f03d3005bca"
   },
   {
    "path": "modes/xiyou/battle/battle_scene.gd",
@@ -2296,8 +2368,8 @@
   {
    "path": "modes/xiyou/core/battler.gd",
    "change": "modified",
-   "size": 46601,
-   "sha256": "18ab5b1b6442e453bd151f9dafced8094118e329fcd14395270c3a7013ffded2"
+   "size": 47820,
+   "sha256": "81721733b3a8589c5fba955f730b79e67b0864943382f4aa6d8005dc07b7ebcd"
   },
   {
    "path": "modes/xiyou/core/canglong.gd",
@@ -2357,7 +2429,7 @@
    "path": "modes/xiyou/core/fest.gd",
    "change": "added",
    "size": 5733,
-   "sha256": "85d2ad38cfcccba2e6561a7b06917e4c205416a4c4c8ada26dff29d0c9c73347"
+   "sha256": "a4642daecbe902a80a728a449395642adc95ca6d68965c2d39754b5c4f07c8ed"
   },
   {
    "path": "modes/xiyou/core/fest.gd.uid",
@@ -2368,8 +2440,8 @@
   {
    "path": "modes/xiyou/core/fest_reward.gd",
    "change": "added",
-   "size": 13519,
-   "sha256": "5ad47b3088463fb038d44cb88bc7217b1719821438c0299ef6fef41e6397d7fe"
+   "size": 14136,
+   "sha256": "ce07df9f27f14922fd6ec8886a0de772dc57ec57ff5e242f98d496a48ebd45ad"
   },
   {
    "path": "modes/xiyou/core/fest_reward.gd.uid",
@@ -2498,6 +2570,12 @@
    "sha256": "5e1fcdf7e597f02c32b7b362c3b8467e9f24f5aaae9f2f4266f8370612114f52"
   },
   {
+   "path": "modes/xiyou/core/quality_icons.gd",
+   "change": "modified",
+   "size": 7296,
+   "sha256": "8264f4351ea326306f181ad468e2d3d58680e9a6ca5a052aefd0dfa6ee1dc651"
+  },
+  {
    "path": "modes/xiyou/core/random_stream.gd",
    "change": "modified",
    "size": 6090,
@@ -2614,8 +2692,8 @@
   {
    "path": "modes/xiyou/map/fest_lobby.gd",
    "change": "added",
-   "size": 22326,
-   "sha256": "98435fcd5650b39a6c38418e32071add806a943c7184b6c1fee5b78cc4fae02a"
+   "size": 23503,
+   "sha256": "711675762aaeec01bfe75606c44bb1e3f9d2198cc07069447469bb50f3ba3219"
   },
   {
    "path": "modes/xiyou/map/fest_lobby.gd.uid",
@@ -2807,13 +2885,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1616,
-   "sha256": "c02ca4a0af9b3febce9eda03381808ca9078dfb3f4321fa38c90d25da8400a11"
+   "sha256": "739d6a570a1fb1f21426da263d9ebca6f1e5dba44d0fde71d5f08a7b2392b078"
   }
  ],
  "removed": [],
  "total": {
-  "files": 467,
-  "bytes": 220732710,
+  "files": 480,
+  "bytes": 220762339,
   "removed": 0
  },
  "excludes": [
