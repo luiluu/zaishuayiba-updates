@@ -1,32 +1,32 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.484",
-  "code": 484,
-  "date": "2026-11-17",
+  "version": "0.485",
+  "code": 485,
+  "date": "2026-11-19",
   "notes": [
-   "新增：设置页加入「导入／导出配置」，可用剪贴板或文件分享配置（安卓端仅剪贴板）；导入前自动备份，可用「撤回上次导入」换回（窗口、帧率等本机设置及成就、解锁记录不导出）",
-   "优化：检查更新优先走国内线路，并新增备用下载线路，更新更快更稳",
-   "优化：奈叶「魔法领域」在场时进入战斗的卡顿减轻",
-   "优化：关闭「显示技能动画」时，部分首领开场连放的招式（如炎龙守护者）会快放，开战不再干等",
-   "修复：挂机时，技能消耗经减耗效果（如洗髓经）降低后，实际够放却仍被判成 TP 或 MP 不够而改放普通攻击（现在会照常施放）",
-   "修复：方桌大厅猫哥报出的装备数量不对（之前会多算冠军戒指）"
+   "新增：商店出售支持批量多选，按 C 或点图标可标记装备、消耗品和材料一次出售，确认时显示已选数量与总金币",
+   "新增：商店「一键出售」加入「出售类别：全部／只卖武器／只卖护甲」",
+   "新增：商店买卖数量窗支持「自定义数量」（按数字键或点数量处修改，手机弹出数字键盘），按 E 一步到最大、Q 回到 1",
+   "优化：深渊战利品点改为每层分「深渊」「未知存在」两份，同层各图共用且难度越高给点越多，领点时显示本层总点数（旧存档点数自动合并）",
+   "优化：传送阵、回城等光柱传送和切换地图的黑幕过渡加快一倍",
+   "优化：多段技能（如拳一「认真连续拳」、全体多段技等）出招不再卡顿；敌人在多段技中途倒下时，掉落图标将在整招放完后弹出"
   ]
  },
  "bases": {
   "477": {
    "patch": {
-    "code": 484,
-    "size": 2985676,
-    "sha256": "e159eeea390c3f63a4319b6060b3bf26811d144d5132f8179b465e48d4faac62",
+    "code": 485,
+    "size": 3067376,
+    "sha256": "ca039281e2bc159603ce1820a301c06fdc6b147dc1cbe33b6d51286d90f42b8c",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/47dc045fdda12721556e9a0cab45e8d052c8ab90/godot/patch_477_484.pck",
-     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/56c180a05edbe725caa1dc53d8af80497647f9ac/godot/patch_477_484.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/ab552584652029305dd6a0259e1331e8414f6b34/godot/patch_477_485.pck",
+     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck"
     ]
    }
   }
