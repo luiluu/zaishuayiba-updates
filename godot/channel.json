@@ -1,11 +1,20 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.04",
-  "code": 889,
-  "date": "2026-11-24",
+  "version": "0.04.01",
+  "code": 890,
+  "date": "2026-11-25",
   "notes": [
-   "时空漩涡第三阶段大版本（v0.04）已发布（含动态漫画过场、大厅三阶及相连七图变样、徐凤年回归与重做、三阶怪物异化）。本次为完整安装包更新，请前往 QQ 群下载最新安装包；安卓玩家请先在游戏内导出存档备份后再卸载旧版并安装新版。"
+   "法宝系统说明",
+   "法宝装上后升级就加属性，现在改成靠吃装备升级，最高 99 级，99 级等于以前 888 级满级。",
+   "吃装备升级：物品页选中法宝，喂入背包里的装备即可，经验丹不能再加法宝经验。法宝越高级，要求的装备品质越高；到上限自动停，没喂完的不扣。",
+   "防误喂：想留的装备先「出售锁定」；锁定、商店买的和限定装备不会被喂。",
+   "楼层上限：每层有等级上限，到更高楼层上限提高（30 层起可到 99 级）。超上限时按上限生效、等级保留，到更高层自动恢复。",
+   "老法宝折算：超过 99 级的老法宝按比例折算（888 级→99 级），只折一次，仍受本层上限限制。",
+   "进化与查看：谷雨、屠苏、璇本人 60 级时专属法宝进化，每级成长翻倍；加成和上限看说明卡即可。",
+   "调整：徐凤年的强度随法宝数值同步调整",
+   "修复：开局未选「求道者雕像」时，13～30 层守层者不记首通真气和守层真气；老存档进入地图后会按已通关层数自动补发缺漏的首通真气",
+   "修复：开局未选「求道者雕像」时，战胜 18 层守层者后收不到星爆书礼物"
   ]
  },
  "bases": {
@@ -22,6 +31,22 @@
      "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
      "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck",
      "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/f4e2c2d76b44bc643ddaeb380632b3e2315244f1/godot/patch_477_485.pck"
+    ]
+   }
+  },
+  "889": {
+   "patch": {
+    "code": 890,
+    "size": 706336,
+    "sha256": "d6a7332c49f8a36dd1ffcaa8c605d95758c60b006112d9acad5ef065e6184c49",
+    "urls": [
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/1e73635a934d3a633cc46a3b97f625f10027d1cd/godot/patch_889_890.pck",
+     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/bd0c25ce5fa47bc5bc13a70c61cf6c1811644645/godot/patch_889_890.pck"
     ]
    }
   }
