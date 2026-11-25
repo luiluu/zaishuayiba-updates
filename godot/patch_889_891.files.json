@@ -1,0 +1,295 @@
+{
+ "schema": 1,
+ "kind": "xiyou-patch-files",
+ "version": "0.891",
+ "code": 891,
+ "base_code": 889,
+ "min_base": 889,
+ "date": "2026-11-25",
+ "files": [
+  {
+   "path": "content/build_info.json",
+   "change": "modified",
+   "size": 115,
+   "sha256": "0e68b3e8f9079e3c7b62b77c0d1387301dbf92e2481fbce41c0029a11f4b435d"
+  },
+  {
+   "path": "content/lobby/honghuang_monument.png",
+   "change": "added",
+   "size": 22718,
+   "sha256": "ee40b2002f1bc7d38ddc2b015c8bcb856a3ec0b3694095b73048212bf1acf7d9"
+  },
+  {
+   "path": "content/lobby/honghuang_monument.png.import",
+   "change": "added",
+   "size": 972,
+   "sha256": "2137747549a2d83eb9be376facb9754f096168d009f0841cf0a2b9b3fbf46d12"
+  },
+  {
+   "path": "content/xiyou/icons/elemental_king_blessing.png",
+   "change": "added",
+   "size": 1169,
+   "sha256": "47b99260e4e9e4141a9f075b632460ca2693446c2409d39ca7d40b8c309a7f19"
+  },
+  {
+   "path": "content/xiyou/icons/elemental_king_blessing.png.import",
+   "change": "added",
+   "size": 992,
+   "sha256": "d98e5856d2dbf40345d35ba001fe3dbc5411ee4aefb1da0b89412b2cae080a72"
+  },
+  {
+   "path": "modes/xiyou/battle/battle_logic.gd",
+   "change": "modified",
+   "size": 242184,
+   "sha256": "b095d62269419a4b4ee052113c27b68ff7b8bf052dbcb535ff395db694df960c"
+  },
+  {
+   "path": "modes/xiyou/core/actor.gd",
+   "change": "modified",
+   "size": 82180,
+   "sha256": "379c30c6dd0ff7840334670e281a0aedf4ad7278a88f84eadcf221a9baabd470"
+  },
+  {
+   "path": "modes/xiyou/core/canglong.gd",
+   "change": "modified",
+   "size": 7763,
+   "sha256": "d4eb7883833ecf8aa5e0c20c2cd0a629b75196545346b444e904338b026654d7"
+  },
+  {
+   "path": "modes/xiyou/core/damage.gd",
+   "change": "modified",
+   "size": 39831,
+   "sha256": "d7095d5c0bd1916aa3eea2976a5fc4ae4c7155300d02e3ee07d91e3aed293230"
+  },
+  {
+   "path": "modes/xiyou/core/elemental_king.gd",
+   "change": "added",
+   "size": 10571,
+   "sha256": "3604e102803bae3e12e369eef141952e0d85dbd028ed8db1b263f3ab89ff9317"
+  },
+  {
+   "path": "modes/xiyou/core/elemental_king.gd.uid",
+   "change": "added",
+   "size": 19,
+   "sha256": "c1dac72f207153887f260f95e37a7646dc6007ef777b667ec789f3505cc01b7e"
+  },
+  {
+   "path": "modes/xiyou/core/equipment_view.gd",
+   "change": "modified",
+   "size": 994,
+   "sha256": "27fbd37e13d24f6af49d7368d90278f41c46250d644236eda35499b848c95913"
+  },
+  {
+   "path": "modes/xiyou/core/formula_context.gd",
+   "change": "modified",
+   "size": 4653,
+   "sha256": "2091f01547c50925561a69da696ce0c3375b79ae67a27b229bc04326b13b9f4b"
+  },
+  {
+   "path": "modes/xiyou/core/gear.gd",
+   "change": "modified",
+   "size": 22461,
+   "sha256": "870f0d0f32be18b57dcfc28699ce5cc2f556f7aa2ca30746a5ed536f50974d61"
+  },
+  {
+   "path": "modes/xiyou/core/guide.gd",
+   "change": "modified",
+   "size": 30360,
+   "sha256": "25a48df6d867b359ac4a78a0d1192cdb4eac8b7db3582c3464ca6569a7ad387f"
+  },
+  {
+   "path": "modes/xiyou/core/honghuang_monument.gd",
+   "change": "added",
+   "size": 9789,
+   "sha256": "c4a279b5f61a055bb6a546b509244f68bb8d3e1a98f77684801d12335b5003f6"
+  },
+  {
+   "path": "modes/xiyou/core/honghuang_monument.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "3ca91e380c73f3857dfbaf3cdbc8ce0903dfe14d6c493702699dd414d0140195"
+  },
+  {
+   "path": "modes/xiyou/core/magic_weapon.gd",
+   "change": "modified",
+   "size": 18585,
+   "sha256": "bc1b4a917552efce8cdc5738ca04980f10869262c1fb9e48e17cfd85a2ff0ccb"
+  },
+  {
+   "path": "modes/xiyou/core/power.gd",
+   "change": "modified",
+   "size": 42284,
+   "sha256": "b74f3b49cf8f6494adf90ab2d0d91a0a8a4b79635febcf5d6a8992854512348c"
+  },
+  {
+   "path": "modes/xiyou/core/rift.gd",
+   "change": "modified",
+   "size": 20495,
+   "sha256": "9b595e3b6938316a1d9aee4d9a1f50ea3861238ba7fab35810df54be467f9b0e"
+  },
+  {
+   "path": "modes/xiyou/core/star_warehouse.gd",
+   "change": "modified",
+   "size": 15551,
+   "sha256": "77896aaafbf95438ff4b15079f9ae6ce657877d8a15b2732a127172ae9c8c211"
+  },
+  {
+   "path": "modes/xiyou/core/starburst_books.gd",
+   "change": "modified",
+   "size": 4441,
+   "sha256": "ef5dab75772887954c6bad64510ba806f393757dd59a48197ec7ef2fe09b064d"
+  },
+  {
+   "path": "modes/xiyou/core/three_growth.gd",
+   "change": "modified",
+   "size": 10392,
+   "sha256": "996df6903e9abaf0af0b96e81daa689d8ece438d655fb79ffbb83def2e21a076"
+  },
+  {
+   "path": "modes/xiyou/core/xdb.gd",
+   "change": "modified",
+   "size": 17161,
+   "sha256": "a00a5d8e9a7a3fc53bf3affcd4fe8ebbbedbd8a015219b0768f0b40e223e1210"
+  },
+  {
+   "path": "modes/xiyou/core/xiyou_nerf.gd",
+   "change": "added",
+   "size": 15348,
+   "sha256": "0c2e0dcdddd59ee695479266968aa82053a824a260f30d0c7fc1e96e1418179e"
+  },
+  {
+   "path": "modes/xiyou/core/xiyou_nerf.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "c12f5a6306ba8785f263dfd50a3244a13ffccffea6feb5e0b7b0958faa5853ae"
+  },
+  {
+   "path": "modes/xiyou/core/xsave.gd",
+   "change": "modified",
+   "size": 18036,
+   "sha256": "b589cbf1dc130f83f98e7316a10f0774cb321f1e7e35b53287b40b2b8a968cdd"
+  },
+  {
+   "path": "modes/xiyou/core/xstate.gd",
+   "change": "modified",
+   "size": 61030,
+   "sha256": "44051ff458b1e267c13d8390398783a85b60fcfb140b3890d67956ce132db67b"
+  },
+  {
+   "path": "modes/xiyou/core/xufeng.gd",
+   "change": "modified",
+   "size": 36323,
+   "sha256": "161ee7ba0c942561a7109fa03bff07b0cb856b1076194fe1ac0c8a9ea37b6b24"
+  },
+  {
+   "path": "modes/xiyou/core/zhenqi.gd",
+   "change": "modified",
+   "size": 67354,
+   "sha256": "5c88949642de1969531cb60adf8b4282f57e9e417815b4c90023e9db0bfbf7f7"
+  },
+  {
+   "path": "modes/xiyou/entry.gd",
+   "change": "modified",
+   "size": 32128,
+   "sha256": "ebfe055f4775cea5fe8b656be690985003a6b7ea7821418ad198f42f27fb1566"
+  },
+  {
+   "path": "modes/xiyou/honghuang_first_clear.json",
+   "change": "added",
+   "size": 40,
+   "sha256": "0566cc1c3e55a5255218220b9f2ac9f110376ea99780af34f27b2a66afc81ce1"
+  },
+  {
+   "path": "modes/xiyou/map/honghuang_monument_view.gd",
+   "change": "added",
+   "size": 12165,
+   "sha256": "8840cd5a169922a0ca5220f95b5eca8a17067d7ae363a066621f22571e862cf3"
+  },
+  {
+   "path": "modes/xiyou/map/honghuang_monument_view.gd.uid",
+   "change": "added",
+   "size": 20,
+   "sha256": "57f7fd1e202c339c1912ba8a6937a5ae6ef8bf40904669e90128d066630b4ccf"
+  },
+  {
+   "path": "modes/xiyou/map/lobby_corruption.gd",
+   "change": "modified",
+   "size": 94027,
+   "sha256": "b8090794a7a9550eb907ca8a5b861e11f9f15dc04d723e0313cf8dc5572539ee"
+  },
+  {
+   "path": "modes/xiyou/map/map_scene.gd",
+   "change": "modified",
+   "size": 108291,
+   "sha256": "46c847159301a3ea82e9310463e9e17a284ce176c38e11eb0dad2fb45ee9ade9"
+  },
+  {
+   "path": "modes/xiyou/map/mv_event.gd",
+   "change": "modified",
+   "size": 20419,
+   "sha256": "95f2758d940b0f0731b4fec461891d93ff11b31cf0fedd14e3de3b99efdf075c"
+  },
+  {
+   "path": "modes/xiyou/map/mv_script.gd",
+   "change": "modified",
+   "size": 76820,
+   "sha256": "a2db9158916386607ee38013e3295b0f52561b58cdf7e5b6d795d80c3970cea1"
+  },
+  {
+   "path": "modes/xiyou/ui/help_card.gd",
+   "change": "modified",
+   "size": 84452,
+   "sha256": "6865cd5d392d9bb6a272f86d5339e21a976dbb10e51359454b56c5c135f7d6f9"
+  },
+  {
+   "path": "modes/xiyou/ui/item_row.gd",
+   "change": "modified",
+   "size": 4296,
+   "sha256": "22308fce1912f29c8e4a019b456e0bc86bf38a736aff17a5bd3b23f1902c12eb"
+  },
+  {
+   "path": "modes/xiyou/ui/menu.gd",
+   "change": "modified",
+   "size": 24828,
+   "sha256": "a23e0fd7f29cdd30d60e46766ee0615951b4d1653bf883747ba3a2adab3173b9"
+  },
+  {
+   "path": "modes/xiyou/ui/xui.gd",
+   "change": "modified",
+   "size": 13337,
+   "sha256": "de727ca8b4865c0aab484a536027df4cdb76a68ec4109f4066c14d866d30b04e"
+  },
+  {
+   "path": "project.godot",
+   "change": "modified",
+   "size": 1587,
+   "sha256": "b6d1356ef2ee2376d0ddc434909815ae34919276bea09ca249747b83bfe0e5d2"
+  }
+ ],
+ "removed": [],
+ "total": {
+  "files": 43,
+  "bytes": 1276221,
+  "removed": 0
+ },
+ "excludes": [
+  ".git/",
+  ".godot/",
+  "__pycache__/",
+  ".DS_Store",
+  "Thumbs.db",
+  "modes/xiyou/generated/oracle/*",
+  "modes/xiyou/generated/oracle_*.json",
+  "modes/xiyou/generated/manifest.json",
+  "modes/xiyou/generated/sync_stamp.json",
+  "builds/*",
+  "tests/*",
+  "*test_mode_unlock*",
+  "*test_mode_state*",
+  "modes/xiyou/tianqi_data/*",
+  "content/tianqi/*",
+  "content/gojo/*",
+  "content/ui_skin/*",
+  "modes/xiyou/ui/tianqi/*"
+ ]
+}
