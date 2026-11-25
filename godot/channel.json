@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.04.03",
-  "code": 892,
+  "version": "0.04.04",
+  "code": 893,
   "date": "2026-11-25",
   "notes": [
    "法宝系统说明",
@@ -22,7 +22,9 @@
    "新增：大厅新增「洪荒碑」，可走近查看洪荒证道首通记录；进入游戏时新增一次首通播报",
    "修复：曹操「霸道真气」和天虎令「气伤」一直不生效的问题。中了霸道真气的敌人会在回合结束时受到伤害；中了气伤的敌人每次被技能命中，会额外受到一段气伤伤害。两者伤害都随专属法宝（暗涌、烽舞）等级提升，烽舞需要先练过「红尘一步·烽火无尽」才计入",
    "修复：赌场单抽、20连抽（含自定义次数）和深渊赌场的奖励范围恢复成原来的数值，说明文字同步改回；读档重抽仍然无效",
-   "修复：走教派路线时，13～30 层由【求道者】代守的守层战，漩涡异化后守层者不会异化的问题。顶部首领血条现在也会显示异化前缀（如「蚀骨·」），和下方详情一致"
+   "修复：走教派路线时，13～30 层由【求道者】代守的守层战，漩涡异化后守层者不会异化的问题。顶部首领血条现在也会显示异化前缀（如「蚀骨·」），和下方详情一致",
+   "新增：方桌大厅「更换称号」新增洪荒称号「洪荒证道」「洪荒·阿夜」（阿夜专属）；通关洪荒难度可自动获得称号「洪荒证道」",
+   "修复：旧版本玩家换装新整包后点击「检查更新」反复提示旧补丁且重启无效的问题，并修复旧整包提示换新整包时目标版本号显示异常的问题"
   ]
  },
  "bases": {
@@ -44,17 +46,17 @@
   },
   "889": {
    "patch": {
-    "code": 892,
-    "size": 1222124,
-    "sha256": "7bf252f02be9235f6a40249b8407c713765530a803c742ce72233496fcabd72f",
+    "code": 893,
+    "size": 1325408,
+    "sha256": "680094651b0a9018dae9b15787359390fa192d5009cf71eeb25e22c27c2921b2",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/1a03d72626d8a813ead46f5ce744861f11a64453/godot/patch_889_892.pck",
-     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/0e56355b7a88797cf1164cc4d9c3122c21e2f062/godot/patch_889_892.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/8762e878b5540351ec6719b1e791b4b37c9e2e49/godot/patch_889_893.pck",
+     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/6e295388fc1191defb29c1fea5ff66dce3f6911e/godot/patch_889_893.pck"
     ]
    }
   }
