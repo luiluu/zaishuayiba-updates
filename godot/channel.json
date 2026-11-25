@@ -62,5 +62,6 @@
  "min_base": 889,
  "revoked": [
   890
- ]
+ ],
+ "min_playable": 892
 }
