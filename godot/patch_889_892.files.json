@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "kind": "xiyou-patch-files",
- "version": "0.891",
- "code": 891,
+ "version": "0.892",
+ "code": 892,
  "base_code": 889,
  "min_base": 889,
  "date": "2026-11-25",
@@ -11,7 +11,7 @@
    "path": "content/build_info.json",
    "change": "modified",
    "size": 115,
-   "sha256": "0e68b3e8f9079e3c7b62b77c0d1387301dbf92e2481fbce41c0029a11f4b435d"
+   "sha256": "141f64662c3b5941b57cce9d872354e2ccc3ecbf0a36f1f93534e084bd8dec49"
   },
   {
    "path": "content/lobby/honghuang_monument.png",
@@ -42,6 +42,12 @@
    "change": "modified",
    "size": 242184,
    "sha256": "b095d62269419a4b4ee052113c27b68ff7b8bf052dbcb535ff395db694df960c"
+  },
+  {
+   "path": "modes/xiyou/battle/boss_hp_bar.gd",
+   "change": "modified",
+   "size": 18756,
+   "sha256": "212d5d0b3b6ffdc25a4b45d5b514df74d4b9734a14b643918098cecbdd929100"
   },
   {
    "path": "modes/xiyou/core/actor.gd",
@@ -110,10 +116,22 @@
    "sha256": "3ca91e380c73f3857dfbaf3cdbc8ce0903dfe14d6c493702699dd414d0140195"
   },
   {
+   "path": "modes/xiyou/core/lottery_rework.gd",
+   "change": "modified",
+   "size": 5750,
+   "sha256": "4b3d15e6fc9ceb38981d0d776ec51db58f0b12fafa1c144880fc1bee60bf379d"
+  },
+  {
    "path": "modes/xiyou/core/magic_weapon.gd",
    "change": "modified",
    "size": 18585,
    "sha256": "bc1b4a917552efce8cdc5738ca04980f10869262c1fb9e48e17cfd85a2ff0ccb"
+  },
+  {
+   "path": "modes/xiyou/core/mv_event_core.gd",
+   "change": "modified",
+   "size": 39725,
+   "sha256": "ace48dae2f737b47dac82868ee0ced5ab67d39989296f9229e8bba6191068d0f"
   },
   {
    "path": "modes/xiyou/core/power.gd",
@@ -128,6 +146,12 @@
    "sha256": "9b595e3b6938316a1d9aee4d9a1f50ea3861238ba7fab35810df54be467f9b0e"
   },
   {
+   "path": "modes/xiyou/core/rift_alien.gd",
+   "change": "modified",
+   "size": 25471,
+   "sha256": "160ec390845bf7c8c6df2dcd9b3a2a1165d61dcf444a65e5474e205acab4bd55"
+  },
+  {
    "path": "modes/xiyou/core/star_warehouse.gd",
    "change": "modified",
    "size": 15551,
@@ -138,6 +162,12 @@
    "change": "modified",
    "size": 4441,
    "sha256": "ef5dab75772887954c6bad64510ba806f393757dd59a48197ec7ef2fe09b064d"
+  },
+  {
+   "path": "modes/xiyou/core/state_effects.gd",
+   "change": "modified",
+   "size": 56785,
+   "sha256": "63224cbe8a28345a49b6e5e1f9bcc94baacf8917991cd2c8202dd06abff86035"
   },
   {
    "path": "modes/xiyou/core/three_growth.gd",
@@ -263,13 +293,13 @@
    "path": "project.godot",
    "change": "modified",
    "size": 1587,
-   "sha256": "b6d1356ef2ee2376d0ddc434909815ae34919276bea09ca249747b83bfe0e5d2"
+   "sha256": "57d92aa0b640140daf69b781ccd06454736921d7cb73134cda16b1976f7c3be2"
   }
  ],
  "removed": [],
  "total": {
-  "files": 43,
-  "bytes": 1276221,
+  "files": 48,
+  "bytes": 1422708,
   "removed": 0
  },
  "excludes": [
