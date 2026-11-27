@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "kind": "xiyou-patch-files",
+ "version": "0.897",
+ "code": 897,
+ "base_code": 894,
+ "min_base": 894,
+ "date": "2026-11-27",
+ "files": [
+  {
+   "path": "content/build_info.json",
+   "change": "modified",
+   "size": 118,
+   "sha256": "56df4e8b9a824063561d27c055b78aad93179cfe8a02a0fff4f6877d23d9dec4"
+  },
+  {
+   "path": "content/monsters/rift/overrides.json",
+   "change": "modified",
+   "size": 18161,
+   "sha256": "0a1ba89f84587b0e5fee924a0b2c5fc7185ef1a3064db177bcf7953edad551b2"
+  },
+  {
+   "path": "modes/xiyou/battle/battle_logic.gd",
+   "change": "modified",
+   "size": 244259,
+   "sha256": "3e46dfa99077dc71e7a394355b9b36cfbf72cc4293583c41fc908b9a6a318c8a"
+  },
+  {
+   "path": "modes/xiyou/battle/battle_scene.gd",
+   "change": "modified",
+   "size": 160014,
+   "sha256": "e793e8d841676931b4b9d5ab44fa5699c0c80aaaeb5b75dd242fbf5aadd7e645"
+  },
+  {
+   "path": "modes/xiyou/battle/side_status.gd",
+   "change": "modified",
+   "size": 17544,
+   "sha256": "05cb98b0437b016c0aa4e51771981a9347fdd2098ddcca8136faf5d6bd1e1279"
+  },
+  {
+   "path": "modes/xiyou/core/abyss_merchant.gd",
+   "change": "modified",
+   "size": 16446,
+   "sha256": "d64ff36e8eccd47aa8b496665882f25e9919f45f87696fcc51e738e2a661cf47"
+  },
+  {
+   "path": "modes/xiyou/core/actor.gd",
+   "change": "modified",
+   "size": 96123,
+   "sha256": "7e226781d7d8dea9eb7ef3fb62ef63478964845e5a5d2e7c2e30aecd70ebda34"
+  },
+  {
+   "path": "modes/xiyou/core/battler.gd",
+   "change": "modified",
+   "size": 54248,
+   "sha256": "9da5ae35287ca3fbf639f989fe99b9a2dd9aa8df3ef5e8d1b0534bade3588766"
+  },
+  {
+   "path": "modes/xiyou/core/gear.gd",
+   "change": "modified",
+   "size": 23775,
+   "sha256": "e6256cd9ad6cd75cb77a65a0bc9f4401bb054561053fe14ad7844abb5845878e"
+  },
+  {
+   "path": "modes/xiyou/core/magic_weapon.gd",
+   "change": "modified",
+   "size": 18676,
+   "sha256": "3251f17f0e400edf59ba1971e11d2d5793ff5c0123b84e482fc28c0d14b7e812"
+  },
+  {
+   "path": "modes/xiyou/core/resource_context.gd",
+   "change": "modified",
+   "size": 19342,
+   "sha256": "b4defcb3aa6a7c5835a3f89744a27526941938ecade4f7f3d547528739f368ba"
+  },
+  {
+   "path": "modes/xiyou/core/tianqi_elements.gd",
+   "change": "modified",
+   "size": 46622,
+   "sha256": "4e627e00799197fba5ec029817ecc797cb4e9b24e9d51d9e41934c9ac2f2c9ed"
+  },
+  {
+   "path": "modes/xiyou/core/tianqi_skills.gd",
+   "change": "modified",
+   "size": 101093,
+   "sha256": "108e56ce46d270c542f3b7bb373a929da756974dadcc9c1b19e26caa0fbc7401"
+  },
+  {
+   "path": "modes/xiyou/core/tianqi_weak_affix.gd",
+   "change": "modified",
+   "size": 30140,
+   "sha256": "ce42877c330a80fed50a6d9f58f41282d56851ca2d7b01c83d03be8733acdcb8"
+  },
+  {
+   "path": "modes/xiyou/core/xdb.gd",
+   "change": "modified",
+   "size": 18573,
+   "sha256": "34ddfec9358e387f497b2ca53bf04028f2182aa7d974ad5ed852060ae08e31d9"
+  },
+  {
+   "path": "modes/xiyou/core/xiyou_nerf.gd",
+   "change": "modified",
+   "size": 19092,
+   "sha256": "b44be8904a8c61157b25e1c2596b291b7b50487696defbe4a47868d941f32310"
+  },
+  {
+   "path": "modes/xiyou/core/yunshang.gd",
+   "change": "modified",
+   "size": 79951,
+   "sha256": "2a0df3daded650645735c1ec284039d62d3585b5a8301e81d57f7e818928a66d"
+  },
+  {
+   "path": "modes/xiyou/ui/skill_scene.gd",
+   "change": "modified",
+   "size": 24405,
+   "sha256": "cc626274fea17c4815d892af8e8660e53447eb30268d5db99ddfce5a2f840b62"
+  },
+  {
+   "path": "modes/xiyou/ui/skin/skin_skill_page.gd",
+   "change": "modified",
+   "size": 13276,
+   "sha256": "549ae826ecd572724efa6464776230ec2fa1437b8667dd982370bd89eec0c47b"
+  },
+  {
+   "path": "modes/xiyou/ui/xui.gd",
+   "change": "modified",
+   "size": 14236,
+   "sha256": "b0907ac0c02ca0699471c29b9657fd1cd248f7623f6994b5f762ad69d8a63f8f"
+  },
+  {
+   "path": "project.godot",
+   "change": "modified",
+   "size": 1587,
+   "sha256": "9c4162ea6adbcb1fdaa425089341055d88f86be93ea901f7778c05295d3e21f3"
+  }
+ ],
+ "removed": [],
+ "total": {
+  "files": 21,
+  "bytes": 1017681,
+  "removed": 0
+ },
+ "excludes": [
+  ".git/",
+  ".godot/",
+  "__pycache__/",
+  ".DS_Store",
+  "Thumbs.db",
+  "modes/xiyou/generated/oracle/*",
+  "modes/xiyou/generated/oracle_*.json",
+  "modes/xiyou/generated/manifest.json",
+  "modes/xiyou/generated/sync_stamp.json",
+  "builds/*",
+  "tests/*",
+  "*test_mode_unlock*",
+  "*test_mode_state*",
+  "modes/xiyou/tianqi_data/*",
+  "content/tianqi/*",
+  "content/gojo/*",
+  "content/ui_skin/*",
+  "modes/xiyou/ui/tianqi/*"
+ ]
+}
