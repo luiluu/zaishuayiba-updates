@@ -1,28 +1,27 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.04.06",
-  "code": 895,
-  "date": "2026-11-26",
+  "version": "0.04.07",
+  "code": 896,
+  "date": "2026-11-27",
   "notes": [
-   "修复了学会较多技能（尤其是大量被动）时，在技能页翻看技能或切换分类容易卡顿的问题。",
-   "在深渊商人、不朽商人处买到的装备，除了所选档位的特效外，现在也会像普通掉落的装备一样，有机会额外带上随机词条。此前已经买到的装备保持原样。"
+   "进一步优化了技能较多时的流畅度：战斗中出手、技能页翻看都更顺畅。"
   ]
  },
  "bases": {
   "894": {
    "patch": {
-    "code": 895,
-    "size": 56820,
-    "sha256": "b1ad798b5f29979c5909a28bc11b0b769066eb3180369ef21129a509e238a45b",
+    "code": 896,
+    "size": 493244,
+    "sha256": "a15b1a099872ae922121cebdf5e36c54cda33609db96eaa5faf5eb5f198fd9e9",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/820a6eca2ea39455de1b396ee832f6f46eec4668/godot2/patch_894_895.pck",
-     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/06a9b68df9bdd371f502fd2d8924e79c75734db6/godot2/patch_894_895.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/365d518c0eb756b5de9e4657c461df3946e66f57/godot2/patch_894_896.pck",
+     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/af86253b5b69879190675dc634d721b6698f2e2d/godot2/patch_894_896.pck"
     ]
    }
   }
