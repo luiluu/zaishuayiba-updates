@@ -1,30 +1,34 @@
 {
  "schema": 1,
  "latest": {
-  "version": "0.04.08",
-  "code": 897,
-  "date": "2026-11-27",
+  "version": "0.04.09",
+  "code": 898,
+  "date": "2026-11-28",
   "notes": [
-   "优化了战斗中的技能结算和状态栏刷新，减少四倍速下的卡顿。",
-   "优化了技能页和战斗技能列表的图标绘制，学会的技能多时翻动、切页不再卡顿。",
-   "马保国「混元大成」大幅加强：反伤系数大幅提高，肝帝积分改为直接加到反伤上。",
-   "校准了异化怪物身上挂件的位置和大小，变身后的外观更贴合，部分怪物的化形肢体不再错位或断开。"
+   "徐凤年重做：剑一·龙蛇、剑二·并蒂莲、剑三·三斤、剑九·六千里改为战斗中可主动释放的战技；剑九威力最大，但放完当回合不能再行动、下一回合全属性减半；其余技能强度一并重新调整。",
+   "徐凤年 60 级以后可以正常获得经验升级，老存档读档即恢复；九阶基因锁显示为已解开，剑四～剑八显示为被动。",
+   "修正读档后第一场战斗中徐凤年「真·剑九」伤害偏高的问题。",
+   "法宝说明改为显示「法宝等级 当前／本层上限」，不再显示满级数值和「法宝加成」行；吞噬升级时会显示当前等级最低需要吞噬的装备品级。",
+   "技能说明里写不清的随机伤害改为写出实际范围，消耗与实际扣除一致（含战斗中的额外消耗），清掉了过时的旧描述。",
+   "安卓：修复点击地面移动时目的地偏左上、往右走不过去或斜着走的问题。",
+   "修复头顶、云裳天衣存进仓库再取出后消失的问题；之前消失的，读一份那件还在身上、背包或仓库里的存档即可找回。",
+   "背包翻页更流畅（手机推摇杆翻页时尤其明显）。"
   ]
  },
  "bases": {
   "894": {
    "patch": {
-    "code": 897,
-    "size": 871084,
-    "sha256": "31bc8d4b83a900095956e51cab82e056ff03328c09e507c07725228440a788cc",
+    "code": 898,
+    "size": 1086320,
+    "sha256": "736c4d15fdc2420608d84c7f0291021647179f300513bc0da4eacb91d8804f30",
     "urls": [
-     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/d0d5eec0c5b3c5871561d9f59d4e0aebe6d9091e/godot2/patch_894_897.pck",
-     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck",
-     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck",
-     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck",
-     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck",
-     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck",
-     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/529d219aef1b770213f573275c3ecb43943e04fb/godot2/patch_894_897.pck"
+     "https://gitee.com/kyoluu/play-again_-xiyou_-kyo/raw/b413bacb8f56692fd6434a7b7a66d1c0b96a1bb6/godot2/patch_894_898.pck",
+     "https://gh-proxy.com/https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck",
+     "https://cdn.jsdelivr.net/gh/luiluu/zaishuayiba-updates@959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck",
+     "https://gcore.jsdelivr.net/gh/luiluu/zaishuayiba-updates@959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck",
+     "https://fastly.jsdelivr.net/gh/luiluu/zaishuayiba-updates@959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck",
+     "https://testingcf.jsdelivr.net/gh/luiluu/zaishuayiba-updates@959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck",
+     "https://raw.githubusercontent.com/luiluu/zaishuayiba-updates/959f9717eb0d257d9d0ec795eecc2ffbb1e35b32/godot2/patch_894_898.pck"
     ]
    }
   }
